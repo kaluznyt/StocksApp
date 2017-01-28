@@ -27,19 +27,16 @@ namespace StocksApp
 
             
             SimpleIoc.Default.Register<INavigationService>(() => navigationService, true);
-            SimpleIoc.Default.Register<MainViewModel>(true);
-            SimpleIoc.Default.Register<DetailsViewModel>(true);
-
-            //navigationService.Initialize(
-            //                (MainPage = new NavigationPage(new MainPage())) as NavigationPage);
-
-            var firstPage = new NavigationPage(new MainPage());
-            // Set Navigation page as default page for Navigation Service:
-            navigationService.Initialize(firstPage);
-            // You have to also set MainPage property for the app:
-            MainPage = firstPage;
 
 
+            navigationService.Initialize(
+                            (MainPage = new NavigationPage(new MainPage())) as NavigationPage);
+
+            //var firstPage = new NavigationPage(new MainPage());
+            //// Set Navigation page as default page for Navigation Service:
+            //navigationService.Initialize(firstPage);
+            //// You have to also set MainPage property for the app:
+            //MainPage = firstPage;
         }
 
         protected override void OnStart()

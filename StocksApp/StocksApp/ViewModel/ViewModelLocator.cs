@@ -42,8 +42,9 @@ namespace StocksApp.ViewModel
             ////    // Create run time view services and models
             ////    SimpleIoc.Default.Register<IDataService, DataService>();
             ////}
+            SimpleIoc.Default.Register<MainViewModel>(true);
+            SimpleIoc.Default.Register<DetailsViewModel>(true);
 
-   
         }
 
         public MainViewModel MainViewModel
