@@ -44,6 +44,7 @@ namespace StocksApp.ViewModel
             ////}
             SimpleIoc.Default.Register<MainViewModel>(true);
             SimpleIoc.Default.Register<DetailsViewModel>(true);
+            SimpleIoc.Default.Register<StockListViewModel>(true);
 
         }
 
@@ -60,6 +61,14 @@ namespace StocksApp.ViewModel
             get
             {
                 return ServiceLocator.Current.GetInstance<DetailsViewModel>();
+            }
+        }
+
+        public StockListViewModel StockListViewModel
+        {
+            get
+            {
+                return ServiceLocator.Current.GetInstance<StockListViewModel>();
             }
         }
 

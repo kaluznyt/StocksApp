@@ -24,8 +24,9 @@ namespace StocksApp
 
             navigationService.AddPage(nameof(MainPage), typeof(MainPage));
             navigationService.AddPage(nameof(DetailsPage), typeof(DetailsPage));
+            navigationService.AddPage(nameof(StockListPage), typeof(StockListPage));
 
-            
+
             SimpleIoc.Default.Register<INavigationService>(() => navigationService, true);
 
 

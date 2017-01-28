@@ -38,17 +38,22 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Model\Stock.cs" />
     <Compile Include="Pages\DetailsPage.xaml.cs">
       <DependentUpon>DetailsPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Pages\StockListPage.xaml.cs">
+      <DependentUpon>StockListPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\INavigationService.cs" />
     <Compile Include="Services\NavigationService.cs" />
     <Compile Include="ViewModel\DetailsViewModel.cs" />
     <Compile Include="ViewModel\MainViewModel.cs" />
+    <Compile Include="ViewModel\StockListViewModel.cs" />
     <Compile Include="ViewModel\ViewModelLocator.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -86,9 +91,7 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Model\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <EmbeddedResource Include="Pages\MainPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
@@ -97,6 +100,12 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Pages\DetailsPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\StockListPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

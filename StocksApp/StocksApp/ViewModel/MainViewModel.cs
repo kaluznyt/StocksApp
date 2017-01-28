@@ -22,7 +22,8 @@ namespace StocksApp.ViewModel
     public class MainViewModel : ViewModelBase
     {
         private readonly INavigationService _navigationService;
-        public ICommand NavigateCommand { get; private set; }
+        public ICommand NavigateDetailsPage { get; private set; }
+        public ICommand NavigateStockListPage { get; private set; }
 
         /// <summary>
         /// Initializes a new instance of the MainViewModel class.
@@ -40,14 +41,16 @@ namespace StocksApp.ViewModel
             ////}
 
             _navigationService = navigationService;
-            NavigateCommand = new Command(() => Navigate());
+
+            NavigateDetailsPage = new Command(() => Navigate<DetailsPage>());
+            NavigateStockListPage = new Command(() => Navigate<StockListPage>());
         }
 
-        private void Navigate()
+        private void Navigate<T>()
         {
             //var person = new Person() { Name = "Daniel" };
             //Messenger.Default.Send(person);
-            _navigationService.NavigateTo(nameof(DetailsPage));
+            _navigationService.NavigateTo(typeof(T).Name);
         }
     }
 }
