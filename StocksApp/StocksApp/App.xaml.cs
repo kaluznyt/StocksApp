@@ -1,6 +1,7 @@
 ﻿using GalaSoft.MvvmLight.Ioc;
 using StocksApp.Pages;
 using StocksApp.Services;
+using StocksApp.Services.Stocks;
 using StocksApp.ViewModel;
 using System;
 using System.Collections.Generic;
@@ -21,6 +22,7 @@ namespace StocksApp
             //InitializeComponent();
 
             var navigationService = new NavigationService();
+            var stockService = new StockService();
 
             navigationService.AddPage(nameof(MainPage), typeof(MainPage));
             navigationService.AddPage(nameof(DetailsPage), typeof(DetailsPage));
@@ -28,16 +30,12 @@ namespace StocksApp
 
 
             SimpleIoc.Default.Register<INavigationService>(() => navigationService, true);
+            SimpleIoc.Default.Register<IStockService>(() => stockService, true);
 
 
             navigationService.Initialize(
                             (MainPage = new NavigationPage(new MainPage())) as NavigationPage);
 
-            //var firstPage = new NavigationPage(new MainPage());
-            //// Set Navigation page as default page for Navigation Service:
-            //navigationService.Initialize(firstPage);
-            //// You have to also set MainPage property for the app:
-            //MainPage = firstPage;
         }
 
         protected override void OnStart()
