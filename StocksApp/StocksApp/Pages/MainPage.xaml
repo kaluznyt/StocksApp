@@ -28,7 +28,7 @@
       <Label Grid.Row="1" Grid.Column="0" Text="Stocks App"  FontSize="50" HorizontalTextAlignment="Center"/>
       <Button Grid.Row="2" Grid.Column="0" Text="Details" Style="{StaticResource menuButton}"  Command = "{Binding NavigateDetailsPage}"/>
       <Button Grid.Row="3" Grid.Column="0" Text="All Stocks" Style="{StaticResource menuButton}" Command = "{Binding NavigateStockListPage}" />
-      <Button Grid.Row="4" Grid.Column="0" Text="Your Stocks" Style="{StaticResource menuButton}" Command = "{Binding NavigateStockListPage}" />
+      <Button Grid.Row="4" Grid.Column="0" Text="Your Stocks" Style="{StaticResource menuButton}" Command = "{Binding NavigateMyStockListPage}" />
     </Grid>
   </ContentPage.Content>
 </ContentPage>
