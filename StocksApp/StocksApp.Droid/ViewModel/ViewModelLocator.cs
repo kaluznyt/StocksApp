@@ -12,6 +12,7 @@
   See http://www.galasoft.ch/mvvm
 */
 
+using Android.OS;
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Ioc;
 using Microsoft.Practices.ServiceLocation;

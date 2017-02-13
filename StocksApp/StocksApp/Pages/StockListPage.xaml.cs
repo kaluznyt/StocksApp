@@ -12,13 +12,10 @@ namespace StocksApp.Pages
 {
     public partial class StockListPage : ContentPage
     {
-
-
         public StockListPage()
         {
             InitializeComponent();
             BindingContext = App.Locator.StockListViewModel;
-          
         }
     }
 }

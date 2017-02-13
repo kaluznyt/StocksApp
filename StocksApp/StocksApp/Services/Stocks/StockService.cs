@@ -4,6 +4,7 @@ using System.Text;
 using System.Threading.Tasks;
 using StocksApp.Model;
 using System.Net.Http;
+
 using Newtonsoft.Json.Linq;
 using System.Collections.ObjectModel;
 
@@ -11,6 +12,14 @@ namespace StocksApp.Services.Stocks
 {
     public class StockService : IStockService
     {
+
+        //https://github.com/xamarin/mobile-samples/blob/master/TaskyPortable/TaskyAndroid/Application.cs
+
+        public StockService()
+        {
+            string dbPath = Config.DatabaseFilePath;
+        }
+
         public ObservableCollection<Stock> GetAllQuotations()
         {
             return QuotationsJsonResultToCollection(GetStockQuotationsJson());
@@ -19,7 +28,7 @@ namespace StocksApp.Services.Stocks
         private static string GetStockQuotationsJson()
         {
             var httpClient = new HttpClient();
-            var asyncTask =  httpClient.GetAsync(Config.AllStockQuotesUri);
+            var asyncTask = httpClient.GetAsync(Config.AllStockQuotesUri);
 
             Task.WaitAll(asyncTask);
 
@@ -42,7 +51,7 @@ namespace StocksApp.Services.Stocks
 
             foreach (var item in jObject["items"] as JArray)
             {
-                stocks.Add(new Stock { Symbol = (string)item["fullName"] });
+                stocks.Add(Stock.Create(item));
             }
 
             return stocks;

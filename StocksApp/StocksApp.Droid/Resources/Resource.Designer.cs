@@ -26,6 +26,3640 @@ namespace StocksApp.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_fade_in = global::StocksApp.Droid.Resource.Animation.abc_fade_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_fade_out = global::StocksApp.Droid.Resource.Animation.abc_fade_out;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::StocksApp.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_popup_enter = global::StocksApp.Droid.Resource.Animation.abc_popup_enter;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_popup_exit = global::StocksApp.Droid.Resource.Animation.abc_popup_exit;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::StocksApp.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_slide_in_bottom = global::StocksApp.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_slide_in_top = global::StocksApp.Droid.Resource.Animation.abc_slide_in_top;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_slide_out_bottom = global::StocksApp.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.abc_slide_out_top = global::StocksApp.Droid.Resource.Animation.abc_slide_out_top;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.design_bottom_sheet_slide_in = global::StocksApp.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.design_bottom_sheet_slide_out = global::StocksApp.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.design_fab_in = global::StocksApp.Droid.Resource.Animation.design_fab_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.design_fab_out = global::StocksApp.Droid.Resource.Animation.design_fab_out;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.design_snackbar_in = global::StocksApp.Droid.Resource.Animation.design_snackbar_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Animation.design_snackbar_out = global::StocksApp.Droid.Resource.Animation.design_snackbar_out;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.MediaRouteControllerWindowBackground = global::StocksApp.Droid.Resource.Attribute.MediaRouteControllerWindowBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarDivider = global::StocksApp.Droid.Resource.Attribute.actionBarDivider;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarItemBackground = global::StocksApp.Droid.Resource.Attribute.actionBarItemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarPopupTheme = global::StocksApp.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarSize = global::StocksApp.Droid.Resource.Attribute.actionBarSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarSplitStyle = global::StocksApp.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarStyle = global::StocksApp.Droid.Resource.Attribute.actionBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarTabBarStyle = global::StocksApp.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarTabStyle = global::StocksApp.Droid.Resource.Attribute.actionBarTabStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarTabTextStyle = global::StocksApp.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarTheme = global::StocksApp.Droid.Resource.Attribute.actionBarTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionBarWidgetTheme = global::StocksApp.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionButtonStyle = global::StocksApp.Droid.Resource.Attribute.actionButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionDropDownStyle = global::StocksApp.Droid.Resource.Attribute.actionDropDownStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionLayout = global::StocksApp.Droid.Resource.Attribute.actionLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionMenuTextAppearance = global::StocksApp.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionMenuTextColor = global::StocksApp.Droid.Resource.Attribute.actionMenuTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeBackground = global::StocksApp.Droid.Resource.Attribute.actionModeBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeCloseButtonStyle = global::StocksApp.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeCloseDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeCopyDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeCutDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeFindDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModePasteDrawable = global::StocksApp.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModePopupWindowStyle = global::StocksApp.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeSelectAllDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeShareDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeSplitBackground = global::StocksApp.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeStyle = global::StocksApp.Droid.Resource.Attribute.actionModeStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionModeWebSearchDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionOverflowButtonStyle = global::StocksApp.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionOverflowMenuStyle = global::StocksApp.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionProviderClass = global::StocksApp.Droid.Resource.Attribute.actionProviderClass;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.actionViewClass = global::StocksApp.Droid.Resource.Attribute.actionViewClass;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.activityChooserViewStyle = global::StocksApp.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::StocksApp.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.alertDialogCenterButtons = global::StocksApp.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.alertDialogStyle = global::StocksApp.Droid.Resource.Attribute.alertDialogStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.alertDialogTheme = global::StocksApp.Droid.Resource.Attribute.alertDialogTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.allowStacking = global::StocksApp.Droid.Resource.Attribute.allowStacking;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.arrowHeadLength = global::StocksApp.Droid.Resource.Attribute.arrowHeadLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.arrowShaftLength = global::StocksApp.Droid.Resource.Attribute.arrowShaftLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.autoCompleteTextViewStyle = global::StocksApp.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.background = global::StocksApp.Droid.Resource.Attribute.background;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.backgroundSplit = global::StocksApp.Droid.Resource.Attribute.backgroundSplit;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.backgroundStacked = global::StocksApp.Droid.Resource.Attribute.backgroundStacked;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.backgroundTint = global::StocksApp.Droid.Resource.Attribute.backgroundTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.backgroundTintMode = global::StocksApp.Droid.Resource.Attribute.backgroundTintMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.barLength = global::StocksApp.Droid.Resource.Attribute.barLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.behavior_hideable = global::StocksApp.Droid.Resource.Attribute.behavior_hideable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.behavior_overlapTop = global::StocksApp.Droid.Resource.Attribute.behavior_overlapTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.behavior_peekHeight = global::StocksApp.Droid.Resource.Attribute.behavior_peekHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.borderWidth = global::StocksApp.Droid.Resource.Attribute.borderWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.borderlessButtonStyle = global::StocksApp.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.bottomSheetDialogTheme = global::StocksApp.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.bottomSheetStyle = global::StocksApp.Droid.Resource.Attribute.bottomSheetStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonBarButtonStyle = global::StocksApp.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::StocksApp.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::StocksApp.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::StocksApp.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonBarStyle = global::StocksApp.Droid.Resource.Attribute.buttonBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonPanelSideLayout = global::StocksApp.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonStyle = global::StocksApp.Droid.Resource.Attribute.buttonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonStyleSmall = global::StocksApp.Droid.Resource.Attribute.buttonStyleSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonTint = global::StocksApp.Droid.Resource.Attribute.buttonTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.buttonTintMode = global::StocksApp.Droid.Resource.Attribute.buttonTintMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.cardBackgroundColor = global::StocksApp.Droid.Resource.Attribute.cardBackgroundColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.cardCornerRadius = global::StocksApp.Droid.Resource.Attribute.cardCornerRadius;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.cardElevation = global::StocksApp.Droid.Resource.Attribute.cardElevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.cardMaxElevation = global::StocksApp.Droid.Resource.Attribute.cardMaxElevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.cardPreventCornerOverlap = global::StocksApp.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.cardUseCompatPadding = global::StocksApp.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.checkboxStyle = global::StocksApp.Droid.Resource.Attribute.checkboxStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.checkedTextViewStyle = global::StocksApp.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.closeIcon = global::StocksApp.Droid.Resource.Attribute.closeIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.closeItemLayout = global::StocksApp.Droid.Resource.Attribute.closeItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.collapseContentDescription = global::StocksApp.Droid.Resource.Attribute.collapseContentDescription;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.collapseIcon = global::StocksApp.Droid.Resource.Attribute.collapseIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.collapsedTitleGravity = global::StocksApp.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.collapsedTitleTextAppearance = global::StocksApp.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.color = global::StocksApp.Droid.Resource.Attribute.color;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorAccent = global::StocksApp.Droid.Resource.Attribute.colorAccent;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorButtonNormal = global::StocksApp.Droid.Resource.Attribute.colorButtonNormal;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorControlActivated = global::StocksApp.Droid.Resource.Attribute.colorControlActivated;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorControlHighlight = global::StocksApp.Droid.Resource.Attribute.colorControlHighlight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorControlNormal = global::StocksApp.Droid.Resource.Attribute.colorControlNormal;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorPrimary = global::StocksApp.Droid.Resource.Attribute.colorPrimary;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorPrimaryDark = global::StocksApp.Droid.Resource.Attribute.colorPrimaryDark;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.colorSwitchThumbNormal = global::StocksApp.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.commitIcon = global::StocksApp.Droid.Resource.Attribute.commitIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentInsetEnd = global::StocksApp.Droid.Resource.Attribute.contentInsetEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentInsetLeft = global::StocksApp.Droid.Resource.Attribute.contentInsetLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentInsetRight = global::StocksApp.Droid.Resource.Attribute.contentInsetRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentInsetStart = global::StocksApp.Droid.Resource.Attribute.contentInsetStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentPadding = global::StocksApp.Droid.Resource.Attribute.contentPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentPaddingBottom = global::StocksApp.Droid.Resource.Attribute.contentPaddingBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentPaddingLeft = global::StocksApp.Droid.Resource.Attribute.contentPaddingLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentPaddingRight = global::StocksApp.Droid.Resource.Attribute.contentPaddingRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentPaddingTop = global::StocksApp.Droid.Resource.Attribute.contentPaddingTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.contentScrim = global::StocksApp.Droid.Resource.Attribute.contentScrim;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.controlBackground = global::StocksApp.Droid.Resource.Attribute.controlBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.counterEnabled = global::StocksApp.Droid.Resource.Attribute.counterEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.counterMaxLength = global::StocksApp.Droid.Resource.Attribute.counterMaxLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.counterOverflowTextAppearance = global::StocksApp.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.counterTextAppearance = global::StocksApp.Droid.Resource.Attribute.counterTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.customNavigationLayout = global::StocksApp.Droid.Resource.Attribute.customNavigationLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.defaultQueryHint = global::StocksApp.Droid.Resource.Attribute.defaultQueryHint;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dialogPreferredPadding = global::StocksApp.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dialogTheme = global::StocksApp.Droid.Resource.Attribute.dialogTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.displayOptions = global::StocksApp.Droid.Resource.Attribute.displayOptions;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.divider = global::StocksApp.Droid.Resource.Attribute.divider;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dividerHorizontal = global::StocksApp.Droid.Resource.Attribute.dividerHorizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dividerPadding = global::StocksApp.Droid.Resource.Attribute.dividerPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dividerVertical = global::StocksApp.Droid.Resource.Attribute.dividerVertical;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.drawableSize = global::StocksApp.Droid.Resource.Attribute.drawableSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.drawerArrowStyle = global::StocksApp.Droid.Resource.Attribute.drawerArrowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dropDownListViewStyle = global::StocksApp.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::StocksApp.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.editTextBackground = global::StocksApp.Droid.Resource.Attribute.editTextBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.editTextColor = global::StocksApp.Droid.Resource.Attribute.editTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.editTextStyle = global::StocksApp.Droid.Resource.Attribute.editTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.elevation = global::StocksApp.Droid.Resource.Attribute.elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.errorEnabled = global::StocksApp.Droid.Resource.Attribute.errorEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.errorTextAppearance = global::StocksApp.Droid.Resource.Attribute.errorTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::StocksApp.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expanded = global::StocksApp.Droid.Resource.Attribute.expanded;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleGravity = global::StocksApp.Droid.Resource.Attribute.expandedTitleGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleMargin = global::StocksApp.Droid.Resource.Attribute.expandedTitleMargin;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleMarginBottom = global::StocksApp.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleMarginEnd = global::StocksApp.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleMarginStart = global::StocksApp.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleMarginTop = global::StocksApp.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.expandedTitleTextAppearance = global::StocksApp.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.externalRouteEnabledDrawable = global::StocksApp.Droid.Resource.Attribute.externalRouteEnabledDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.fabSize = global::StocksApp.Droid.Resource.Attribute.fabSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.foregroundInsidePadding = global::StocksApp.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.gapBetweenBars = global::StocksApp.Droid.Resource.Attribute.gapBetweenBars;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.goIcon = global::StocksApp.Droid.Resource.Attribute.goIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.headerLayout = global::StocksApp.Droid.Resource.Attribute.headerLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.height = global::StocksApp.Droid.Resource.Attribute.height;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.hideOnContentScroll = global::StocksApp.Droid.Resource.Attribute.hideOnContentScroll;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.hintAnimationEnabled = global::StocksApp.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.hintEnabled = global::StocksApp.Droid.Resource.Attribute.hintEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.hintTextAppearance = global::StocksApp.Droid.Resource.Attribute.hintTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.homeAsUpIndicator = global::StocksApp.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.homeLayout = global::StocksApp.Droid.Resource.Attribute.homeLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.icon = global::StocksApp.Droid.Resource.Attribute.icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.iconifiedByDefault = global::StocksApp.Droid.Resource.Attribute.iconifiedByDefault;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.imageButtonStyle = global::StocksApp.Droid.Resource.Attribute.imageButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.indeterminateProgressStyle = global::StocksApp.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.initialActivityCount = global::StocksApp.Droid.Resource.Attribute.initialActivityCount;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.insetForeground = global::StocksApp.Droid.Resource.Attribute.insetForeground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.isLightTheme = global::StocksApp.Droid.Resource.Attribute.isLightTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.itemBackground = global::StocksApp.Droid.Resource.Attribute.itemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.itemIconTint = global::StocksApp.Droid.Resource.Attribute.itemIconTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.itemPadding = global::StocksApp.Droid.Resource.Attribute.itemPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.itemTextAppearance = global::StocksApp.Droid.Resource.Attribute.itemTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.itemTextColor = global::StocksApp.Droid.Resource.Attribute.itemTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.keylines = global::StocksApp.Droid.Resource.Attribute.keylines;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout = global::StocksApp.Droid.Resource.Attribute.layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layoutManager = global::StocksApp.Droid.Resource.Attribute.layoutManager;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_anchor = global::StocksApp.Droid.Resource.Attribute.layout_anchor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_anchorGravity = global::StocksApp.Droid.Resource.Attribute.layout_anchorGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_behavior = global::StocksApp.Droid.Resource.Attribute.layout_behavior;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_collapseMode = global::StocksApp.Droid.Resource.Attribute.layout_collapseMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::StocksApp.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_keyline = global::StocksApp.Droid.Resource.Attribute.layout_keyline;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_scrollFlags = global::StocksApp.Droid.Resource.Attribute.layout_scrollFlags;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.layout_scrollInterpolator = global::StocksApp.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::StocksApp.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listDividerAlertDialog = global::StocksApp.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listItemLayout = global::StocksApp.Droid.Resource.Attribute.listItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listLayout = global::StocksApp.Droid.Resource.Attribute.listLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listPopupWindowStyle = global::StocksApp.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listPreferredItemHeight = global::StocksApp.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listPreferredItemHeightLarge = global::StocksApp.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listPreferredItemHeightSmall = global::StocksApp.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::StocksApp.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.listPreferredItemPaddingRight = global::StocksApp.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.logo = global::StocksApp.Droid.Resource.Attribute.logo;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.logoDescription = global::StocksApp.Droid.Resource.Attribute.logoDescription;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.maxActionInlineWidth = global::StocksApp.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.maxButtonHeight = global::StocksApp.Droid.Resource.Attribute.maxButtonHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.measureWithLargestChild = global::StocksApp.Droid.Resource.Attribute.measureWithLargestChild;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteAudioTrackDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteBluetoothIconDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteBluetoothIconDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteButtonStyle = global::StocksApp.Droid.Resource.Attribute.mediaRouteButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteCastDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteCastDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteChooserPrimaryTextStyle = global::StocksApp.Droid.Resource.Attribute.mediaRouteChooserPrimaryTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteChooserSecondaryTextStyle = global::StocksApp.Droid.Resource.Attribute.mediaRouteChooserSecondaryTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteCloseDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteCloseDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteCollapseGroupDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteCollapseGroupDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteConnectingDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteConnectingDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteControllerPrimaryTextStyle = global::StocksApp.Droid.Resource.Attribute.mediaRouteControllerPrimaryTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteControllerSecondaryTextStyle = global::StocksApp.Droid.Resource.Attribute.mediaRouteControllerSecondaryTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteControllerTitleTextStyle = global::StocksApp.Droid.Resource.Attribute.mediaRouteControllerTitleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteDefaultIconDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteExpandGroupDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteExpandGroupDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteOffDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteOffDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteOnDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteOnDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRoutePauseDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRoutePauseDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRoutePlayDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRoutePlayDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.mediaRouteTvIconDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.menu = global::StocksApp.Droid.Resource.Attribute.menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.multiChoiceItemLayout = global::StocksApp.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.navigationContentDescription = global::StocksApp.Droid.Resource.Attribute.navigationContentDescription;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.navigationIcon = global::StocksApp.Droid.Resource.Attribute.navigationIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.navigationMode = global::StocksApp.Droid.Resource.Attribute.navigationMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.overlapAnchor = global::StocksApp.Droid.Resource.Attribute.overlapAnchor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.paddingEnd = global::StocksApp.Droid.Resource.Attribute.paddingEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.paddingStart = global::StocksApp.Droid.Resource.Attribute.paddingStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.panelBackground = global::StocksApp.Droid.Resource.Attribute.panelBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.panelMenuListTheme = global::StocksApp.Droid.Resource.Attribute.panelMenuListTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.panelMenuListWidth = global::StocksApp.Droid.Resource.Attribute.panelMenuListWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.popupMenuStyle = global::StocksApp.Droid.Resource.Attribute.popupMenuStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.popupTheme = global::StocksApp.Droid.Resource.Attribute.popupTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.popupWindowStyle = global::StocksApp.Droid.Resource.Attribute.popupWindowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.preserveIconSpacing = global::StocksApp.Droid.Resource.Attribute.preserveIconSpacing;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.pressedTranslationZ = global::StocksApp.Droid.Resource.Attribute.pressedTranslationZ;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.progressBarPadding = global::StocksApp.Droid.Resource.Attribute.progressBarPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.progressBarStyle = global::StocksApp.Droid.Resource.Attribute.progressBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.queryBackground = global::StocksApp.Droid.Resource.Attribute.queryBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.queryHint = global::StocksApp.Droid.Resource.Attribute.queryHint;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.radioButtonStyle = global::StocksApp.Droid.Resource.Attribute.radioButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.ratingBarStyle = global::StocksApp.Droid.Resource.Attribute.ratingBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.ratingBarStyleIndicator = global::StocksApp.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.ratingBarStyleSmall = global::StocksApp.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.reverseLayout = global::StocksApp.Droid.Resource.Attribute.reverseLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.rippleColor = global::StocksApp.Droid.Resource.Attribute.rippleColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.searchHintIcon = global::StocksApp.Droid.Resource.Attribute.searchHintIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.searchIcon = global::StocksApp.Droid.Resource.Attribute.searchIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.searchViewStyle = global::StocksApp.Droid.Resource.Attribute.searchViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.seekBarStyle = global::StocksApp.Droid.Resource.Attribute.seekBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.selectableItemBackground = global::StocksApp.Droid.Resource.Attribute.selectableItemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::StocksApp.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.showAsAction = global::StocksApp.Droid.Resource.Attribute.showAsAction;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.showDividers = global::StocksApp.Droid.Resource.Attribute.showDividers;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.showText = global::StocksApp.Droid.Resource.Attribute.showText;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.singleChoiceItemLayout = global::StocksApp.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.spanCount = global::StocksApp.Droid.Resource.Attribute.spanCount;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.spinBars = global::StocksApp.Droid.Resource.Attribute.spinBars;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.spinnerDropDownItemStyle = global::StocksApp.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.spinnerStyle = global::StocksApp.Droid.Resource.Attribute.spinnerStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.splitTrack = global::StocksApp.Droid.Resource.Attribute.splitTrack;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.srcCompat = global::StocksApp.Droid.Resource.Attribute.srcCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.stackFromEnd = global::StocksApp.Droid.Resource.Attribute.stackFromEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.state_above_anchor = global::StocksApp.Droid.Resource.Attribute.state_above_anchor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.statusBarBackground = global::StocksApp.Droid.Resource.Attribute.statusBarBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.statusBarScrim = global::StocksApp.Droid.Resource.Attribute.statusBarScrim;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.submitBackground = global::StocksApp.Droid.Resource.Attribute.submitBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.subtitle = global::StocksApp.Droid.Resource.Attribute.subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.subtitleTextAppearance = global::StocksApp.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.subtitleTextColor = global::StocksApp.Droid.Resource.Attribute.subtitleTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.subtitleTextStyle = global::StocksApp.Droid.Resource.Attribute.subtitleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.suggestionRowLayout = global::StocksApp.Droid.Resource.Attribute.suggestionRowLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.switchMinWidth = global::StocksApp.Droid.Resource.Attribute.switchMinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.switchPadding = global::StocksApp.Droid.Resource.Attribute.switchPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.switchStyle = global::StocksApp.Droid.Resource.Attribute.switchStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.switchTextAppearance = global::StocksApp.Droid.Resource.Attribute.switchTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabBackground = global::StocksApp.Droid.Resource.Attribute.tabBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabContentStart = global::StocksApp.Droid.Resource.Attribute.tabContentStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabGravity = global::StocksApp.Droid.Resource.Attribute.tabGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabIndicatorColor = global::StocksApp.Droid.Resource.Attribute.tabIndicatorColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabIndicatorHeight = global::StocksApp.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabMaxWidth = global::StocksApp.Droid.Resource.Attribute.tabMaxWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabMinWidth = global::StocksApp.Droid.Resource.Attribute.tabMinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabMode = global::StocksApp.Droid.Resource.Attribute.tabMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabPadding = global::StocksApp.Droid.Resource.Attribute.tabPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabPaddingBottom = global::StocksApp.Droid.Resource.Attribute.tabPaddingBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabPaddingEnd = global::StocksApp.Droid.Resource.Attribute.tabPaddingEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabPaddingStart = global::StocksApp.Droid.Resource.Attribute.tabPaddingStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabPaddingTop = global::StocksApp.Droid.Resource.Attribute.tabPaddingTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabSelectedTextColor = global::StocksApp.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabTextAppearance = global::StocksApp.Droid.Resource.Attribute.tabTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.tabTextColor = global::StocksApp.Droid.Resource.Attribute.tabTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAllCaps = global::StocksApp.Droid.Resource.Attribute.textAllCaps;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::StocksApp.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAppearanceListItem = global::StocksApp.Droid.Resource.Attribute.textAppearanceListItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAppearanceListItemSmall = global::StocksApp.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::StocksApp.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::StocksApp.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::StocksApp.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textColorAlertDialogListItem = global::StocksApp.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textColorError = global::StocksApp.Droid.Resource.Attribute.textColorError;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.textColorSearchUrl = global::StocksApp.Droid.Resource.Attribute.textColorSearchUrl;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.theme = global::StocksApp.Droid.Resource.Attribute.theme;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.thickness = global::StocksApp.Droid.Resource.Attribute.thickness;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.thumbTextPadding = global::StocksApp.Droid.Resource.Attribute.thumbTextPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.title = global::StocksApp.Droid.Resource.Attribute.title;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleEnabled = global::StocksApp.Droid.Resource.Attribute.titleEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleMarginBottom = global::StocksApp.Droid.Resource.Attribute.titleMarginBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleMarginEnd = global::StocksApp.Droid.Resource.Attribute.titleMarginEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleMarginStart = global::StocksApp.Droid.Resource.Attribute.titleMarginStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleMarginTop = global::StocksApp.Droid.Resource.Attribute.titleMarginTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleMargins = global::StocksApp.Droid.Resource.Attribute.titleMargins;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleTextAppearance = global::StocksApp.Droid.Resource.Attribute.titleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleTextColor = global::StocksApp.Droid.Resource.Attribute.titleTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.titleTextStyle = global::StocksApp.Droid.Resource.Attribute.titleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.toolbarId = global::StocksApp.Droid.Resource.Attribute.toolbarId;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::StocksApp.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.toolbarStyle = global::StocksApp.Droid.Resource.Attribute.toolbarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.track = global::StocksApp.Droid.Resource.Attribute.track;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.useCompatPadding = global::StocksApp.Droid.Resource.Attribute.useCompatPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.voiceIcon = global::StocksApp.Droid.Resource.Attribute.voiceIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowActionBar = global::StocksApp.Droid.Resource.Attribute.windowActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowActionBarOverlay = global::StocksApp.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowActionModeOverlay = global::StocksApp.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowFixedHeightMajor = global::StocksApp.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowFixedHeightMinor = global::StocksApp.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowFixedWidthMajor = global::StocksApp.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowFixedWidthMinor = global::StocksApp.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowMinWidthMajor = global::StocksApp.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowMinWidthMinor = global::StocksApp.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::DevExpress.Mobile.Core.Android.Resource.Attribute.windowNoTitle = global::StocksApp.Droid.Resource.Attribute.windowNoTitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::StocksApp.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_action_bar_embed_tabs_pre_jb = global::StocksApp.Droid.Resource.Boolean.abc_action_bar_embed_tabs_pre_jb;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_action_bar_expanded_action_views_exclusive = global::StocksApp.Droid.Resource.Boolean.abc_action_bar_expanded_action_views_exclusive;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::StocksApp.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::StocksApp.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_config_allowActionMenuItemTextWithIcon = global::StocksApp.Droid.Resource.Boolean.abc_config_allowActionMenuItemTextWithIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::StocksApp.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::DevExpress.Mobile.Core.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::StocksApp.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::StocksApp.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::StocksApp.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_color_highlight_material = global::StocksApp.Droid.Resource.Color.abc_color_highlight_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_input_method_navigation_guard = global::StocksApp.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::StocksApp.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::StocksApp.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_primary_text_material_dark = global::StocksApp.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_primary_text_material_light = global::StocksApp.Droid.Resource.Color.abc_primary_text_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_search_url_text = global::StocksApp.Droid.Resource.Color.abc_search_url_text;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_search_url_text_normal = global::StocksApp.Droid.Resource.Color.abc_search_url_text_normal;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_search_url_text_pressed = global::StocksApp.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_search_url_text_selected = global::StocksApp.Droid.Resource.Color.abc_search_url_text_selected;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_secondary_text_material_dark = global::StocksApp.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.abc_secondary_text_material_light = global::StocksApp.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.accent_material_dark = global::StocksApp.Droid.Resource.Color.accent_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.accent_material_light = global::StocksApp.Droid.Resource.Color.accent_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.background_floating_material_dark = global::StocksApp.Droid.Resource.Color.background_floating_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.background_floating_material_light = global::StocksApp.Droid.Resource.Color.background_floating_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.background_material_dark = global::StocksApp.Droid.Resource.Color.background_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.background_material_light = global::StocksApp.Droid.Resource.Color.background_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.bright_foreground_disabled_material_dark = global::StocksApp.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.bright_foreground_disabled_material_light = global::StocksApp.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.bright_foreground_inverse_material_dark = global::StocksApp.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.bright_foreground_inverse_material_light = global::StocksApp.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.bright_foreground_material_dark = global::StocksApp.Droid.Resource.Color.bright_foreground_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.bright_foreground_material_light = global::StocksApp.Droid.Resource.Color.bright_foreground_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.button_material_dark = global::StocksApp.Droid.Resource.Color.button_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.button_material_light = global::StocksApp.Droid.Resource.Color.button_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.cardview_dark_background = global::StocksApp.Droid.Resource.Color.cardview_dark_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.cardview_light_background = global::StocksApp.Droid.Resource.Color.cardview_light_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.cardview_shadow_end_color = global::StocksApp.Droid.Resource.Color.cardview_shadow_end_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.cardview_shadow_start_color = global::StocksApp.Droid.Resource.Color.cardview_shadow_start_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_shadow_end_color = global::StocksApp.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_shadow_mid_color = global::StocksApp.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_shadow_start_color = global::StocksApp.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_stroke_end_inner_color = global::StocksApp.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_stroke_end_outer_color = global::StocksApp.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_stroke_top_inner_color = global::StocksApp.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_fab_stroke_top_outer_color = global::StocksApp.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_snackbar_background_color = global::StocksApp.Droid.Resource.Color.design_snackbar_background_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_textinput_error_color_dark = global::StocksApp.Droid.Resource.Color.design_textinput_error_color_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.design_textinput_error_color_light = global::StocksApp.Droid.Resource.Color.design_textinput_error_color_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.dim_foreground_disabled_material_dark = global::StocksApp.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.dim_foreground_disabled_material_light = global::StocksApp.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.dim_foreground_material_dark = global::StocksApp.Droid.Resource.Color.dim_foreground_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.dim_foreground_material_light = global::StocksApp.Droid.Resource.Color.dim_foreground_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.foreground_material_dark = global::StocksApp.Droid.Resource.Color.foreground_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.foreground_material_light = global::StocksApp.Droid.Resource.Color.foreground_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.highlighted_text_material_dark = global::StocksApp.Droid.Resource.Color.highlighted_text_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.highlighted_text_material_light = global::StocksApp.Droid.Resource.Color.highlighted_text_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.hint_foreground_material_dark = global::StocksApp.Droid.Resource.Color.hint_foreground_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.hint_foreground_material_light = global::StocksApp.Droid.Resource.Color.hint_foreground_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_blue_grey_800 = global::StocksApp.Droid.Resource.Color.material_blue_grey_800;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_blue_grey_900 = global::StocksApp.Droid.Resource.Color.material_blue_grey_900;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_blue_grey_950 = global::StocksApp.Droid.Resource.Color.material_blue_grey_950;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_deep_teal_200 = global::StocksApp.Droid.Resource.Color.material_deep_teal_200;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_deep_teal_500 = global::StocksApp.Droid.Resource.Color.material_deep_teal_500;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_100 = global::StocksApp.Droid.Resource.Color.material_grey_100;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_300 = global::StocksApp.Droid.Resource.Color.material_grey_300;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_50 = global::StocksApp.Droid.Resource.Color.material_grey_50;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_600 = global::StocksApp.Droid.Resource.Color.material_grey_600;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_800 = global::StocksApp.Droid.Resource.Color.material_grey_800;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_850 = global::StocksApp.Droid.Resource.Color.material_grey_850;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.material_grey_900 = global::StocksApp.Droid.Resource.Color.material_grey_900;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_dark_material_dark = global::StocksApp.Droid.Resource.Color.primary_dark_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_dark_material_light = global::StocksApp.Droid.Resource.Color.primary_dark_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_material_dark = global::StocksApp.Droid.Resource.Color.primary_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_material_light = global::StocksApp.Droid.Resource.Color.primary_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_text_default_material_dark = global::StocksApp.Droid.Resource.Color.primary_text_default_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_text_default_material_light = global::StocksApp.Droid.Resource.Color.primary_text_default_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_text_disabled_material_dark = global::StocksApp.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.primary_text_disabled_material_light = global::StocksApp.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.ripple_material_dark = global::StocksApp.Droid.Resource.Color.ripple_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.ripple_material_light = global::StocksApp.Droid.Resource.Color.ripple_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.secondary_text_default_material_dark = global::StocksApp.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.secondary_text_default_material_light = global::StocksApp.Droid.Resource.Color.secondary_text_default_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.secondary_text_disabled_material_dark = global::StocksApp.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.secondary_text_disabled_material_light = global::StocksApp.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.switch_thumb_disabled_material_dark = global::StocksApp.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.switch_thumb_disabled_material_light = global::StocksApp.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.switch_thumb_material_dark = global::StocksApp.Droid.Resource.Color.switch_thumb_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.switch_thumb_material_light = global::StocksApp.Droid.Resource.Color.switch_thumb_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.switch_thumb_normal_material_dark = global::StocksApp.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Color.switch_thumb_normal_material_light = global::StocksApp.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_default_height_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_progress_bar_size = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_button_min_height_material = global::StocksApp.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_button_min_width_material = global::StocksApp.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::StocksApp.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::StocksApp.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::StocksApp.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_button_inset_vertical_material = global::StocksApp.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::StocksApp.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_button_padding_vertical_material = global::StocksApp.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_config_prefDialogWidth = global::StocksApp.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_control_corner_material = global::StocksApp.Droid.Resource.Dimension.abc_control_corner_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_control_inset_material = global::StocksApp.Droid.Resource.Dimension.abc_control_inset_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_control_padding_material = global::StocksApp.Droid.Resource.Dimension.abc_control_padding_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::StocksApp.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::StocksApp.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::StocksApp.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::StocksApp.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_list_padding_vertical_material = global::StocksApp.Droid.Resource.Dimension.abc_dialog_list_padding_vertical_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_min_width_major = global::StocksApp.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_min_width_minor = global::StocksApp.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_padding_material = global::StocksApp.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dialog_padding_top_material = global::StocksApp.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::StocksApp.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::StocksApp.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::StocksApp.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::StocksApp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::StocksApp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::StocksApp.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::StocksApp.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::StocksApp.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_floating_window_z = global::StocksApp.Droid.Resource.Dimension.abc_floating_window_z;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::StocksApp.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_panel_menu_list_width = global::StocksApp.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_search_view_preferred_width = global::StocksApp.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_search_view_text_min_width = global::StocksApp.Droid.Resource.Dimension.abc_search_view_text_min_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::StocksApp.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::StocksApp.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::StocksApp.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_switch_padding = global::StocksApp.Droid.Resource.Dimension.abc_switch_padding;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_body_1_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_body_2_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_button_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_caption_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_display_1_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_display_2_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_display_3_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_display_4_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_headline_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_large_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_medium_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_menu_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_small_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_subhead_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::StocksApp.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_title_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::StocksApp.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.cardview_compat_inset_shadow = global::StocksApp.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.cardview_default_elevation = global::StocksApp.Droid.Resource.Dimension.cardview_default_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.cardview_default_radius = global::StocksApp.Droid.Resource.Dimension.cardview_default_radius;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_appbar_elevation = global::StocksApp.Droid.Resource.Dimension.design_appbar_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::StocksApp.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_bottom_sheet_modal_peek_height = global::StocksApp.Droid.Resource.Dimension.design_bottom_sheet_modal_peek_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_fab_border_width = global::StocksApp.Droid.Resource.Dimension.design_fab_border_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_fab_elevation = global::StocksApp.Droid.Resource.Dimension.design_fab_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_fab_image_size = global::StocksApp.Droid.Resource.Dimension.design_fab_image_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_fab_size_mini = global::StocksApp.Droid.Resource.Dimension.design_fab_size_mini;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_fab_size_normal = global::StocksApp.Droid.Resource.Dimension.design_fab_size_normal;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_fab_translation_z_pressed = global::StocksApp.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_navigation_elevation = global::StocksApp.Droid.Resource.Dimension.design_navigation_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_navigation_icon_padding = global::StocksApp.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_navigation_icon_size = global::StocksApp.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_navigation_max_width = global::StocksApp.Droid.Resource.Dimension.design_navigation_max_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_navigation_padding_bottom = global::StocksApp.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::StocksApp.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::StocksApp.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::StocksApp.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_elevation = global::StocksApp.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::StocksApp.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_max_width = global::StocksApp.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_min_width = global::StocksApp.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::StocksApp.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_padding_vertical = global::StocksApp.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::StocksApp.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_snackbar_text_size = global::StocksApp.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_tab_max_width = global::StocksApp.Droid.Resource.Dimension.design_tab_max_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_tab_scrollable_min_width = global::StocksApp.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_tab_text_size = global::StocksApp.Droid.Resource.Dimension.design_tab_text_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.design_tab_text_size_2line = global::StocksApp.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.disabled_alpha_material_dark = global::StocksApp.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.disabled_alpha_material_light = global::StocksApp.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.highlight_alpha_material_colored = global::StocksApp.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.highlight_alpha_material_dark = global::StocksApp.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.highlight_alpha_material_light = global::StocksApp.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::StocksApp.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::StocksApp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::StocksApp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.mr_controller_volume_group_list_item_height = global::StocksApp.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::StocksApp.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.mr_controller_volume_group_list_max_height = global::StocksApp.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::StocksApp.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.mr_dialog_fixed_width_major = global::StocksApp.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.mr_dialog_fixed_width_minor = global::StocksApp.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.notification_large_icon_height = global::StocksApp.Droid.Resource.Dimension.notification_large_icon_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.notification_large_icon_width = global::StocksApp.Droid.Resource.Dimension.notification_large_icon_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Dimension.notification_subtext_size = global::StocksApp.Droid.Resource.Dimension.notification_subtext_size;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_action_bar_item_background_material = global::StocksApp.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_borderless_material = global::StocksApp.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_check_material = global::StocksApp.Droid.Resource.Drawable.abc_btn_check_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::StocksApp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::StocksApp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_colored_material = global::StocksApp.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::StocksApp.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_radio_material = global::StocksApp.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::StocksApp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::StocksApp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_rating_star_off_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_btn_rating_star_off_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_rating_star_on_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_btn_rating_star_on_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::StocksApp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::StocksApp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_cab_background_internal_bg = global::StocksApp.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_cab_background_top_material = global::StocksApp.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_control_background_material = global::StocksApp.Droid.Resource.Drawable.abc_control_background_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_dialog_material_background_dark = global::StocksApp.Droid.Resource.Drawable.abc_dialog_material_background_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_dialog_material_background_light = global::StocksApp.Droid.Resource.Drawable.abc_dialog_material_background_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_edit_text_material = global::StocksApp.Droid.Resource.Drawable.abc_edit_text_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_ab_back_mtrl_am_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_ab_back_mtrl_am_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_clear_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_clear_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_go_search_api_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_go_search_api_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_menu_moreoverflow_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_menu_moreoverflow_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_search_api_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_search_api_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_star_black_16dp = global::StocksApp.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_star_black_36dp = global::StocksApp.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::StocksApp.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::StocksApp.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ic_voice_search_api_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_voice_search_api_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_item_background_holo_dark = global::StocksApp.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_item_background_holo_light = global::StocksApp.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_focused_holo = global::StocksApp.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_longpressed_holo = global::StocksApp.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::StocksApp.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_pressed_holo_light = global::StocksApp.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::StocksApp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::StocksApp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::StocksApp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::StocksApp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_selector_holo_dark = global::StocksApp.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_list_selector_holo_light = global::StocksApp.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::StocksApp.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::StocksApp.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ratingbar_full_material = global::StocksApp.Droid.Resource.Drawable.abc_ratingbar_full_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::StocksApp.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_ratingbar_small_material = global::StocksApp.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::StocksApp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::StocksApp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_seekbar_thumb_material = global::StocksApp.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_seekbar_track_material = global::StocksApp.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::StocksApp.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::StocksApp.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_switch_thumb_material = global::StocksApp.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_tab_indicator_material = global::StocksApp.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_text_cursor_material = global::StocksApp.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.abc_textfield_search_material = global::StocksApp.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.design_fab_background = global::StocksApp.Droid.Resource.Drawable.design_fab_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.design_snackbar_background = global::StocksApp.Droid.Resource.Drawable.design_snackbar_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_audiotrack = global::StocksApp.Droid.Resource.Drawable.ic_audiotrack;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_audiotrack_light = global::StocksApp.Droid.Resource.Drawable.ic_audiotrack_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_bluetooth_grey = global::StocksApp.Droid.Resource.Drawable.ic_bluetooth_grey;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_bluetooth_white = global::StocksApp.Droid.Resource.Drawable.ic_bluetooth_white;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_cast_dark = global::StocksApp.Droid.Resource.Drawable.ic_cast_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_cast_disabled_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_disabled_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_cast_grey = global::StocksApp.Droid.Resource.Drawable.ic_cast_grey;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_cast_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_cast_off_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_off_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_cast_on_0_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_on_0_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_cast_on_1_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_on_1_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_cast_on_2_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_on_2_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_cast_on_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_on_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_cast_white = global::StocksApp.Droid.Resource.Drawable.ic_cast_white;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_close_dark = global::StocksApp.Droid.Resource.Drawable.ic_close_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_close_light = global::StocksApp.Droid.Resource.Drawable.ic_close_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse = global::StocksApp.Droid.Resource.Drawable.ic_collapse;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00000 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00000;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00001 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00001;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00002 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00002;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00003 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00003;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00004 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00004;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00005 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00005;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00006 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00006;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00007 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00007;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00008 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00008;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00009 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00009;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00010 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00010;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00011 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00011;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00012 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00012;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00013 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00013;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00014 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00014;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_collapse_00015 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00015;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand = global::StocksApp.Droid.Resource.Drawable.ic_expand;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00000 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00000;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00001 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00001;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00002 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00002;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00003 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00003;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00004 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00004;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00005 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00005;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00006 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00006;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00007 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00007;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00008 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00008;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00009 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00009;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00010 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00010;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00011 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00011;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00012 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00012;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00013 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00013;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00014 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00014;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_expand_00015 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00015;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_media_pause = global::StocksApp.Droid.Resource.Drawable.ic_media_pause;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_media_play = global::StocksApp.Droid.Resource.Drawable.ic_media_play;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_media_route_disabled_mono_dark = global::StocksApp.Droid.Resource.Drawable.ic_media_route_disabled_mono_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_media_route_off_mono_dark = global::StocksApp.Droid.Resource.Drawable.ic_media_route_off_mono_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_media_route_on_0_mono_dark = global::StocksApp.Droid.Resource.Drawable.ic_media_route_on_0_mono_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_media_route_on_1_mono_dark = global::StocksApp.Droid.Resource.Drawable.ic_media_route_on_1_mono_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_media_route_on_2_mono_dark = global::StocksApp.Droid.Resource.Drawable.ic_media_route_on_2_mono_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_media_route_on_mono_dark = global::StocksApp.Droid.Resource.Drawable.ic_media_route_on_mono_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_pause_dark = global::StocksApp.Droid.Resource.Drawable.ic_pause_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_pause_light = global::StocksApp.Droid.Resource.Drawable.ic_pause_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_play_dark = global::StocksApp.Droid.Resource.Drawable.ic_play_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_play_light = global::StocksApp.Droid.Resource.Drawable.ic_play_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_speaker_dark = global::StocksApp.Droid.Resource.Drawable.ic_speaker_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_speaker_group_dark = global::StocksApp.Droid.Resource.Drawable.ic_speaker_group_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_speaker_group_light = global::StocksApp.Droid.Resource.Drawable.ic_speaker_group_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_speaker_light = global::StocksApp.Droid.Resource.Drawable.ic_speaker_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_tv_dark = global::StocksApp.Droid.Resource.Drawable.ic_tv_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.ic_tv_light = global::StocksApp.Droid.Resource.Drawable.ic_tv_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_dialog_material_background_dark = global::StocksApp.Droid.Resource.Drawable.mr_dialog_material_background_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_dialog_material_background_light = global::StocksApp.Droid.Resource.Drawable.mr_dialog_material_background_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_audiotrack_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_audiotrack_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_cast_dark = global::StocksApp.Droid.Resource.Drawable.mr_ic_cast_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_cast_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_cast_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_close_dark = global::StocksApp.Droid.Resource.Drawable.mr_ic_close_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_close_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_close_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_media_route_connecting_mono_dark = global::StocksApp.Droid.Resource.Drawable.mr_ic_media_route_connecting_mono_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_media_route_connecting_mono_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_media_route_connecting_mono_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_media_route_mono_dark = global::StocksApp.Droid.Resource.Drawable.mr_ic_media_route_mono_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_media_route_mono_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_media_route_mono_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_pause_dark = global::StocksApp.Droid.Resource.Drawable.mr_ic_pause_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_pause_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_pause_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_play_dark = global::StocksApp.Droid.Resource.Drawable.mr_ic_play_dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.mr_ic_play_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_play_light;
+			global::DevExpress.Mobile.Core.Android.Resource.Drawable.notification_template_icon_bg = global::StocksApp.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action0 = global::StocksApp.Droid.Resource.Id.action0;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar = global::StocksApp.Droid.Resource.Id.action_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar_activity_content = global::StocksApp.Droid.Resource.Id.action_bar_activity_content;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar_container = global::StocksApp.Droid.Resource.Id.action_bar_container;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar_root = global::StocksApp.Droid.Resource.Id.action_bar_root;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar_spinner = global::StocksApp.Droid.Resource.Id.action_bar_spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar_subtitle = global::StocksApp.Droid.Resource.Id.action_bar_subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_bar_title = global::StocksApp.Droid.Resource.Id.action_bar_title;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_context_bar = global::StocksApp.Droid.Resource.Id.action_context_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_divider = global::StocksApp.Droid.Resource.Id.action_divider;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_menu_divider = global::StocksApp.Droid.Resource.Id.action_menu_divider;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_menu_presenter = global::StocksApp.Droid.Resource.Id.action_menu_presenter;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_mode_bar = global::StocksApp.Droid.Resource.Id.action_mode_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_mode_bar_stub = global::StocksApp.Droid.Resource.Id.action_mode_bar_stub;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.action_mode_close_button = global::StocksApp.Droid.Resource.Id.action_mode_close_button;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.activity_chooser_view_content = global::StocksApp.Droid.Resource.Id.activity_chooser_view_content;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.alertTitle = global::StocksApp.Droid.Resource.Id.alertTitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.always = global::StocksApp.Droid.Resource.Id.always;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.beginning = global::StocksApp.Droid.Resource.Id.beginning;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.bottom = global::StocksApp.Droid.Resource.Id.bottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.buttonPanel = global::StocksApp.Droid.Resource.Id.buttonPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.cancel_action = global::StocksApp.Droid.Resource.Id.cancel_action;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.center = global::StocksApp.Droid.Resource.Id.center;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.center_horizontal = global::StocksApp.Droid.Resource.Id.center_horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.center_vertical = global::StocksApp.Droid.Resource.Id.center_vertical;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.checkbox = global::StocksApp.Droid.Resource.Id.checkbox;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.chronometer = global::StocksApp.Droid.Resource.Id.chronometer;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.clip_horizontal = global::StocksApp.Droid.Resource.Id.clip_horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.clip_vertical = global::StocksApp.Droid.Resource.Id.clip_vertical;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.collapseActionView = global::StocksApp.Droid.Resource.Id.collapseActionView;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.contentPanel = global::StocksApp.Droid.Resource.Id.contentPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.custom = global::StocksApp.Droid.Resource.Id.custom;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.customPanel = global::StocksApp.Droid.Resource.Id.customPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.decor_content_parent = global::StocksApp.Droid.Resource.Id.decor_content_parent;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.default_activity_button = global::StocksApp.Droid.Resource.Id.default_activity_button;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.design_bottom_sheet = global::StocksApp.Droid.Resource.Id.design_bottom_sheet;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.design_menu_item_action_area = global::StocksApp.Droid.Resource.Id.design_menu_item_action_area;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.design_menu_item_action_area_stub = global::StocksApp.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.design_menu_item_text = global::StocksApp.Droid.Resource.Id.design_menu_item_text;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.design_navigation_view = global::StocksApp.Droid.Resource.Id.design_navigation_view;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.disableHome = global::StocksApp.Droid.Resource.Id.disableHome;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.edit_query = global::StocksApp.Droid.Resource.Id.edit_query;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.end = global::StocksApp.Droid.Resource.Id.end;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.end_padder = global::StocksApp.Droid.Resource.Id.end_padder;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.enterAlways = global::StocksApp.Droid.Resource.Id.enterAlways;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.enterAlwaysCollapsed = global::StocksApp.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.exitUntilCollapsed = global::StocksApp.Droid.Resource.Id.exitUntilCollapsed;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.expand_activities_button = global::StocksApp.Droid.Resource.Id.expand_activities_button;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.expanded_menu = global::StocksApp.Droid.Resource.Id.expanded_menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.fill = global::StocksApp.Droid.Resource.Id.fill;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.fill_horizontal = global::StocksApp.Droid.Resource.Id.fill_horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.fill_vertical = global::StocksApp.Droid.Resource.Id.fill_vertical;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.@fixed = global::StocksApp.Droid.Resource.Id.@fixed;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.home = global::StocksApp.Droid.Resource.Id.home;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.homeAsUp = global::StocksApp.Droid.Resource.Id.homeAsUp;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.icon = global::StocksApp.Droid.Resource.Id.icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.ifRoom = global::StocksApp.Droid.Resource.Id.ifRoom;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.image = global::StocksApp.Droid.Resource.Id.image;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.info = global::StocksApp.Droid.Resource.Id.info;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.item_touch_helper_previous_elevation = global::StocksApp.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.left = global::StocksApp.Droid.Resource.Id.left;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.line1 = global::StocksApp.Droid.Resource.Id.line1;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.line3 = global::StocksApp.Droid.Resource.Id.line3;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.listMode = global::StocksApp.Droid.Resource.Id.listMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.list_item = global::StocksApp.Droid.Resource.Id.list_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.media_actions = global::StocksApp.Droid.Resource.Id.media_actions;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.middle = global::StocksApp.Droid.Resource.Id.middle;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mini = global::StocksApp.Droid.Resource.Id.mini;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_art = global::StocksApp.Droid.Resource.Id.mr_art;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_chooser_list = global::StocksApp.Droid.Resource.Id.mr_chooser_list;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_chooser_route_desc = global::StocksApp.Droid.Resource.Id.mr_chooser_route_desc;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_chooser_route_icon = global::StocksApp.Droid.Resource.Id.mr_chooser_route_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_chooser_route_name = global::StocksApp.Droid.Resource.Id.mr_chooser_route_name;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_close = global::StocksApp.Droid.Resource.Id.mr_close;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_control_divider = global::StocksApp.Droid.Resource.Id.mr_control_divider;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_control_play_pause = global::StocksApp.Droid.Resource.Id.mr_control_play_pause;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_control_subtitle = global::StocksApp.Droid.Resource.Id.mr_control_subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_control_title = global::StocksApp.Droid.Resource.Id.mr_control_title;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_control_title_container = global::StocksApp.Droid.Resource.Id.mr_control_title_container;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_custom_control = global::StocksApp.Droid.Resource.Id.mr_custom_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_default_control = global::StocksApp.Droid.Resource.Id.mr_default_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_dialog_area = global::StocksApp.Droid.Resource.Id.mr_dialog_area;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_expandable_area = global::StocksApp.Droid.Resource.Id.mr_expandable_area;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_group_expand_collapse = global::StocksApp.Droid.Resource.Id.mr_group_expand_collapse;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_media_main_control = global::StocksApp.Droid.Resource.Id.mr_media_main_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_name = global::StocksApp.Droid.Resource.Id.mr_name;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_playback_control = global::StocksApp.Droid.Resource.Id.mr_playback_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_title_bar = global::StocksApp.Droid.Resource.Id.mr_title_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_volume_control = global::StocksApp.Droid.Resource.Id.mr_volume_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_volume_group_list = global::StocksApp.Droid.Resource.Id.mr_volume_group_list;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_volume_item_icon = global::StocksApp.Droid.Resource.Id.mr_volume_item_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.mr_volume_slider = global::StocksApp.Droid.Resource.Id.mr_volume_slider;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.multiply = global::StocksApp.Droid.Resource.Id.multiply;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.navigation_header_container = global::StocksApp.Droid.Resource.Id.navigation_header_container;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.never = global::StocksApp.Droid.Resource.Id.never;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.none = global::StocksApp.Droid.Resource.Id.none;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.normal = global::StocksApp.Droid.Resource.Id.normal;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.parallax = global::StocksApp.Droid.Resource.Id.parallax;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.parentPanel = global::StocksApp.Droid.Resource.Id.parentPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.pin = global::StocksApp.Droid.Resource.Id.pin;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.progress_circular = global::StocksApp.Droid.Resource.Id.progress_circular;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.progress_horizontal = global::StocksApp.Droid.Resource.Id.progress_horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.radio = global::StocksApp.Droid.Resource.Id.radio;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.right = global::StocksApp.Droid.Resource.Id.right;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.screen = global::StocksApp.Droid.Resource.Id.screen;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.scroll = global::StocksApp.Droid.Resource.Id.scroll;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.scrollIndicatorDown = global::StocksApp.Droid.Resource.Id.scrollIndicatorDown;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.scrollIndicatorUp = global::StocksApp.Droid.Resource.Id.scrollIndicatorUp;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.scrollView = global::StocksApp.Droid.Resource.Id.scrollView;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.scrollable = global::StocksApp.Droid.Resource.Id.scrollable;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_badge = global::StocksApp.Droid.Resource.Id.search_badge;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_bar = global::StocksApp.Droid.Resource.Id.search_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_button = global::StocksApp.Droid.Resource.Id.search_button;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_close_btn = global::StocksApp.Droid.Resource.Id.search_close_btn;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_edit_frame = global::StocksApp.Droid.Resource.Id.search_edit_frame;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_go_btn = global::StocksApp.Droid.Resource.Id.search_go_btn;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_mag_icon = global::StocksApp.Droid.Resource.Id.search_mag_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_plate = global::StocksApp.Droid.Resource.Id.search_plate;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_src_text = global::StocksApp.Droid.Resource.Id.search_src_text;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.search_voice_btn = global::StocksApp.Droid.Resource.Id.search_voice_btn;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.select_dialog_listview = global::StocksApp.Droid.Resource.Id.select_dialog_listview;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.shortcut = global::StocksApp.Droid.Resource.Id.shortcut;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.showCustom = global::StocksApp.Droid.Resource.Id.showCustom;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.showHome = global::StocksApp.Droid.Resource.Id.showHome;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.showTitle = global::StocksApp.Droid.Resource.Id.showTitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.snackbar_action = global::StocksApp.Droid.Resource.Id.snackbar_action;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.snackbar_text = global::StocksApp.Droid.Resource.Id.snackbar_text;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.snap = global::StocksApp.Droid.Resource.Id.snap;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.spacer = global::StocksApp.Droid.Resource.Id.spacer;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.split_action_bar = global::StocksApp.Droid.Resource.Id.split_action_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.src_atop = global::StocksApp.Droid.Resource.Id.src_atop;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.src_in = global::StocksApp.Droid.Resource.Id.src_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.src_over = global::StocksApp.Droid.Resource.Id.src_over;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.start = global::StocksApp.Droid.Resource.Id.start;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.status_bar_latest_event_content = global::StocksApp.Droid.Resource.Id.status_bar_latest_event_content;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.submit_area = global::StocksApp.Droid.Resource.Id.submit_area;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.tabMode = global::StocksApp.Droid.Resource.Id.tabMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.text = global::StocksApp.Droid.Resource.Id.text;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.text2 = global::StocksApp.Droid.Resource.Id.text2;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.textSpacerNoButtons = global::StocksApp.Droid.Resource.Id.textSpacerNoButtons;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.time = global::StocksApp.Droid.Resource.Id.time;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.title = global::StocksApp.Droid.Resource.Id.title;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.title_template = global::StocksApp.Droid.Resource.Id.title_template;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.top = global::StocksApp.Droid.Resource.Id.top;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.topPanel = global::StocksApp.Droid.Resource.Id.topPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.touch_outside = global::StocksApp.Droid.Resource.Id.touch_outside;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.up = global::StocksApp.Droid.Resource.Id.up;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.useLogo = global::StocksApp.Droid.Resource.Id.useLogo;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.view_offset_helper = global::StocksApp.Droid.Resource.Id.view_offset_helper;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.volume_item_container = global::StocksApp.Droid.Resource.Id.volume_item_container;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.withText = global::StocksApp.Droid.Resource.Id.withText;
+			global::DevExpress.Mobile.Core.Android.Resource.Id.wrap_content = global::StocksApp.Droid.Resource.Id.wrap_content;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.abc_config_activityDefaultDur = global::StocksApp.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.abc_config_activityShortDur = global::StocksApp.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.abc_max_action_buttons = global::StocksApp.Droid.Resource.Integer.abc_max_action_buttons;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.bottom_sheet_slide_duration = global::StocksApp.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.cancel_button_image_alpha = global::StocksApp.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.design_snackbar_text_max_lines = global::StocksApp.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::StocksApp.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::StocksApp.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::StocksApp.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
+			global::DevExpress.Mobile.Core.Android.Resource.Integer.status_bar_notification_info_maxnum = global::StocksApp.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::DevExpress.Mobile.Core.Android.Resource.Interpolator.mr_fast_out_slow_in = global::StocksApp.Droid.Resource.Interpolator.mr_fast_out_slow_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Interpolator.mr_linear_out_slow_in = global::StocksApp.Droid.Resource.Interpolator.mr_linear_out_slow_in;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_bar_title_item = global::StocksApp.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_bar_up_container = global::StocksApp.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_bar_view_list_nav_layout = global::StocksApp.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_menu_item_layout = global::StocksApp.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_menu_layout = global::StocksApp.Droid.Resource.Layout.abc_action_menu_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_mode_bar = global::StocksApp.Droid.Resource.Layout.abc_action_mode_bar;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_action_mode_close_item_material = global::StocksApp.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_activity_chooser_view = global::StocksApp.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::StocksApp.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::StocksApp.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_alert_dialog_material = global::StocksApp.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_dialog_title_material = global::StocksApp.Droid.Resource.Layout.abc_dialog_title_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_expanded_menu_layout = global::StocksApp.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_list_menu_item_checkbox = global::StocksApp.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_list_menu_item_icon = global::StocksApp.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_list_menu_item_layout = global::StocksApp.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_list_menu_item_radio = global::StocksApp.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_popup_menu_item_layout = global::StocksApp.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_screen_content_include = global::StocksApp.Droid.Resource.Layout.abc_screen_content_include;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_screen_simple = global::StocksApp.Droid.Resource.Layout.abc_screen_simple;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::StocksApp.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_screen_toolbar = global::StocksApp.Droid.Resource.Layout.abc_screen_toolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::StocksApp.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_search_view = global::StocksApp.Droid.Resource.Layout.abc_search_view;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.abc_select_dialog_material = global::StocksApp.Droid.Resource.Layout.abc_select_dialog_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_bottom_sheet_dialog = global::StocksApp.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_layout_snackbar = global::StocksApp.Droid.Resource.Layout.design_layout_snackbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_layout_snackbar_include = global::StocksApp.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_layout_tab_icon = global::StocksApp.Droid.Resource.Layout.design_layout_tab_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_layout_tab_text = global::StocksApp.Droid.Resource.Layout.design_layout_tab_text;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_menu_item_action_area = global::StocksApp.Droid.Resource.Layout.design_menu_item_action_area;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_navigation_item = global::StocksApp.Droid.Resource.Layout.design_navigation_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_navigation_item_header = global::StocksApp.Droid.Resource.Layout.design_navigation_item_header;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_navigation_item_separator = global::StocksApp.Droid.Resource.Layout.design_navigation_item_separator;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_navigation_item_subheader = global::StocksApp.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_navigation_menu = global::StocksApp.Droid.Resource.Layout.design_navigation_menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.design_navigation_menu_item = global::StocksApp.Droid.Resource.Layout.design_navigation_menu_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.mr_chooser_dialog = global::StocksApp.Droid.Resource.Layout.mr_chooser_dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.mr_chooser_list_item = global::StocksApp.Droid.Resource.Layout.mr_chooser_list_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.mr_controller_material_dialog_b = global::StocksApp.Droid.Resource.Layout.mr_controller_material_dialog_b;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.mr_controller_volume_item = global::StocksApp.Droid.Resource.Layout.mr_controller_volume_item;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.mr_playback_control = global::StocksApp.Droid.Resource.Layout.mr_playback_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.mr_volume_control = global::StocksApp.Droid.Resource.Layout.mr_volume_control;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_media_action = global::StocksApp.Droid.Resource.Layout.notification_media_action;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_media_cancel_action = global::StocksApp.Droid.Resource.Layout.notification_media_cancel_action;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_template_big_media = global::StocksApp.Droid.Resource.Layout.notification_template_big_media;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_template_big_media_narrow = global::StocksApp.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_template_lines = global::StocksApp.Droid.Resource.Layout.notification_template_lines;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_template_media = global::StocksApp.Droid.Resource.Layout.notification_template_media;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_template_part_chronometer = global::StocksApp.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.notification_template_part_time = global::StocksApp.Droid.Resource.Layout.notification_template_part_time;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.select_dialog_item_material = global::StocksApp.Droid.Resource.Layout.select_dialog_item_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.select_dialog_multichoice_material = global::StocksApp.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.select_dialog_singlechoice_material = global::StocksApp.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::DevExpress.Mobile.Core.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::StocksApp.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_action_bar_home_description = global::StocksApp.Droid.Resource.String.abc_action_bar_home_description;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_action_bar_home_description_format = global::StocksApp.Droid.Resource.String.abc_action_bar_home_description_format;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_action_bar_home_subtitle_description_format = global::StocksApp.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_action_bar_up_description = global::StocksApp.Droid.Resource.String.abc_action_bar_up_description;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_action_menu_overflow_description = global::StocksApp.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_action_mode_done = global::StocksApp.Droid.Resource.String.abc_action_mode_done;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_activity_chooser_view_see_all = global::StocksApp.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_activitychooserview_choose_application = global::StocksApp.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_capital_off = global::StocksApp.Droid.Resource.String.abc_capital_off;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_capital_on = global::StocksApp.Droid.Resource.String.abc_capital_on;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_search_hint = global::StocksApp.Droid.Resource.String.abc_search_hint;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_searchview_description_clear = global::StocksApp.Droid.Resource.String.abc_searchview_description_clear;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_searchview_description_query = global::StocksApp.Droid.Resource.String.abc_searchview_description_query;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_searchview_description_search = global::StocksApp.Droid.Resource.String.abc_searchview_description_search;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_searchview_description_submit = global::StocksApp.Droid.Resource.String.abc_searchview_description_submit;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_searchview_description_voice = global::StocksApp.Droid.Resource.String.abc_searchview_description_voice;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_shareactionprovider_share_with = global::StocksApp.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_shareactionprovider_share_with_application = global::StocksApp.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::DevExpress.Mobile.Core.Android.Resource.String.abc_toolbar_collapse_description = global::StocksApp.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::DevExpress.Mobile.Core.Android.Resource.String.appbar_scrolling_view_behavior = global::StocksApp.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::DevExpress.Mobile.Core.Android.Resource.String.bottom_sheet_behavior = global::StocksApp.Droid.Resource.String.bottom_sheet_behavior;
+			global::DevExpress.Mobile.Core.Android.Resource.String.character_counter_pattern = global::StocksApp.Droid.Resource.String.character_counter_pattern;
+			global::DevExpress.Mobile.Core.Android.Resource.String.library_name = global::StocksApp.Droid.Resource.String.library_name;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_button_content_description = global::StocksApp.Droid.Resource.String.mr_button_content_description;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_chooser_searching = global::StocksApp.Droid.Resource.String.mr_chooser_searching;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_chooser_title = global::StocksApp.Droid.Resource.String.mr_chooser_title;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_casting_screen = global::StocksApp.Droid.Resource.String.mr_controller_casting_screen;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_close_description = global::StocksApp.Droid.Resource.String.mr_controller_close_description;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_collapse_group = global::StocksApp.Droid.Resource.String.mr_controller_collapse_group;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_disconnect = global::StocksApp.Droid.Resource.String.mr_controller_disconnect;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_expand_group = global::StocksApp.Droid.Resource.String.mr_controller_expand_group;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_no_info_available = global::StocksApp.Droid.Resource.String.mr_controller_no_info_available;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_no_media_selected = global::StocksApp.Droid.Resource.String.mr_controller_no_media_selected;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_pause = global::StocksApp.Droid.Resource.String.mr_controller_pause;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_play = global::StocksApp.Droid.Resource.String.mr_controller_play;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_controller_stop = global::StocksApp.Droid.Resource.String.mr_controller_stop;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_system_route_name = global::StocksApp.Droid.Resource.String.mr_system_route_name;
+			global::DevExpress.Mobile.Core.Android.Resource.String.mr_user_route_category_name = global::StocksApp.Droid.Resource.String.mr_user_route_category_name;
+			global::DevExpress.Mobile.Core.Android.Resource.String.status_bar_notification_info_overflow = global::StocksApp.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.AlertDialog_AppCompat = global::StocksApp.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.AlertDialog_AppCompat_Light = global::StocksApp.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Animation_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::StocksApp.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::StocksApp.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_AlertDialog_AppCompat = global::StocksApp.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::StocksApp.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_CardView = global::StocksApp.Droid.Resource.Style.Base_CardView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::StocksApp.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::StocksApp.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::StocksApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::StocksApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::StocksApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::StocksApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::StocksApp.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::StocksApp.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::StocksApp.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V21_Theme_AppCompat = global::StocksApp.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::StocksApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V22_Theme_AppCompat = global::StocksApp.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V23_Theme_AppCompat = global::StocksApp.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V7_Theme_AppCompat = global::StocksApp.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::StocksApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::StocksApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::StocksApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Button = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Base_Widget_Design_TabLayout = global::StocksApp.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.CardView = global::StocksApp.Droid.Resource.Style.CardView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.CardView_Dark = global::StocksApp.Droid.Resource.Style.CardView_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.CardView_Light = global::StocksApp.Droid.Resource.Style.CardView_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_AppCompat = global::StocksApp.Droid.Resource.Style.Platform_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::StocksApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::StocksApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_V11_AppCompat = global::StocksApp.Droid.Resource.Style.Platform_V11_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_V11_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Platform_V11_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_V14_AppCompat = global::StocksApp.Droid.Resource.Style.Platform_V14_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_V14_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Platform_V14_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::StocksApp.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::StocksApp.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::StocksApp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::StocksApp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Button = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Large = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Small = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_Counter = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_Error = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_Hint = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Design_Tab = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_StatusBar_EventContent = global::StocksApp.Droid.Resource.Style.TextAppearance_StatusBar_EventContent;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::StocksApp.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::StocksApp.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::StocksApp.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::StocksApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::StocksApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat = global::StocksApp.Droid.Resource.Style.Theme_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_Design = global::StocksApp.Droid.Resource.Style.Theme_Design;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::StocksApp.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_Design_Light = global::StocksApp.Droid.Resource.Style.Theme_Design_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::StocksApp.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::StocksApp.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_Design_NoActionBar = global::StocksApp.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_MediaRouter = global::StocksApp.Droid.Resource.Style.Theme_MediaRouter;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_MediaRouter_Light = global::StocksApp.Droid.Resource.Style.Theme_MediaRouter_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::StocksApp.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Theme_MediaRouter_LightControlPanel = global::StocksApp.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.ThemeOverlay_AppCompat = global::StocksApp.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::StocksApp.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::StocksApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::StocksApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::StocksApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionButton = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActionMode = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Button = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Button_Small = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_EditText = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ImageButton = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ListView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_RatingBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_SearchView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_SeekBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Spinner = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Toolbar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_AppBarLayout = global::StocksApp.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::StocksApp.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::StocksApp.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_CoordinatorLayout = global::StocksApp.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_FloatingActionButton = global::StocksApp.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_NavigationView = global::StocksApp.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::StocksApp.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_Snackbar = global::StocksApp.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_TabLayout = global::StocksApp.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_Design_TextInputLayout = global::StocksApp.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ChooserText = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ChooserText_Primary = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Primary;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ChooserText_Primary_Dark = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Primary_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ChooserText_Primary_Light = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Primary_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ChooserText_Secondary = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Secondary;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ChooserText_Secondary_Dark = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Secondary_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ChooserText_Secondary_Light = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Secondary_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ControllerText = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ControllerText_Primary = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Primary;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ControllerText_Primary_Dark = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Primary_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ControllerText_Primary_Light = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Primary_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ControllerText_Secondary = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Secondary;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ControllerText_Secondary_Dark = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Secondary_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ControllerText_Secondary_Light = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Secondary_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ControllerText_Title = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Title;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ControllerText_Title_Dark = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Title_Dark;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_ControllerText_Title_Light = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Title_Light;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar = global::StocksApp.Droid.Resource.Styleable.ActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_background = global::StocksApp.Droid.Resource.Styleable.ActionBar_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_backgroundSplit = global::StocksApp.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_backgroundStacked = global::StocksApp.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::StocksApp.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::StocksApp.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_contentInsetRight = global::StocksApp.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_contentInsetStart = global::StocksApp.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::StocksApp.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_displayOptions = global::StocksApp.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_divider = global::StocksApp.Droid.Resource.Styleable.ActionBar_divider;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_elevation = global::StocksApp.Droid.Resource.Styleable.ActionBar_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_height = global::StocksApp.Droid.Resource.Styleable.ActionBar_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::StocksApp.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::StocksApp.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_homeLayout = global::StocksApp.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_icon = global::StocksApp.Droid.Resource.Styleable.ActionBar_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::StocksApp.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_itemPadding = global::StocksApp.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_logo = global::StocksApp.Droid.Resource.Styleable.ActionBar_logo;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_navigationMode = global::StocksApp.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_popupTheme = global::StocksApp.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_progressBarPadding = global::StocksApp.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_progressBarStyle = global::StocksApp.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_subtitle = global::StocksApp.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::StocksApp.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_title = global::StocksApp.Droid.Resource.Styleable.ActionBar_title;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBar_titleTextStyle = global::StocksApp.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBarLayout = global::StocksApp.Droid.Resource.Styleable.ActionBarLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::StocksApp.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMenuItemView = global::StocksApp.Droid.Resource.Styleable.ActionMenuItemView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::StocksApp.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMenuView = global::StocksApp.Droid.Resource.Styleable.ActionMenuView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode = global::StocksApp.Droid.Resource.Styleable.ActionMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode_background = global::StocksApp.Droid.Resource.Styleable.ActionMode_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode_backgroundSplit = global::StocksApp.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode_closeItemLayout = global::StocksApp.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode_height = global::StocksApp.Droid.Resource.Styleable.ActionMode_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::StocksApp.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActionMode_titleTextStyle = global::StocksApp.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActivityChooserView = global::StocksApp.Droid.Resource.Styleable.ActivityChooserView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::StocksApp.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::StocksApp.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog = global::StocksApp.Droid.Resource.Styleable.AlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog_android_layout = global::StocksApp.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::StocksApp.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog_listItemLayout = global::StocksApp.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog_listLayout = global::StocksApp.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::StocksApp.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::StocksApp.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppBarLayout = global::StocksApp.Droid.Resource.Styleable.AppBarLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppBarLayout_android_background = global::StocksApp.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppBarLayout_elevation = global::StocksApp.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppBarLayout_expanded = global::StocksApp.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppBarLayout_LayoutParams = global::StocksApp.Droid.Resource.Styleable.AppBarLayout_LayoutParams;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollFlags = global::StocksApp.Droid.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollFlags;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollInterpolator = global::StocksApp.Droid.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollInterpolator;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatImageView = global::StocksApp.Droid.Resource.Styleable.AppCompatImageView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatImageView_android_src = global::StocksApp.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::StocksApp.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTextView = global::StocksApp.Droid.Resource.Styleable.AppCompatTextView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::StocksApp.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::StocksApp.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.BottomSheetBehavior_Params = global::StocksApp.Droid.Resource.Styleable.BottomSheetBehavior_Params;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.BottomSheetBehavior_Params_behavior_hideable = global::StocksApp.Droid.Resource.Styleable.BottomSheetBehavior_Params_behavior_hideable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.BottomSheetBehavior_Params_behavior_peekHeight = global::StocksApp.Droid.Resource.Styleable.BottomSheetBehavior_Params_behavior_peekHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ButtonBarLayout = global::StocksApp.Droid.Resource.Styleable.ButtonBarLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::StocksApp.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView = global::StocksApp.Droid.Resource.Styleable.CardView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_android_minHeight = global::StocksApp.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_android_minWidth = global::StocksApp.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_cardBackgroundColor = global::StocksApp.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_cardCornerRadius = global::StocksApp.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_cardElevation = global::StocksApp.Droid.Resource.Styleable.CardView_cardElevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_cardMaxElevation = global::StocksApp.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::StocksApp.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::StocksApp.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_contentPadding = global::StocksApp.Droid.Resource.Styleable.CardView_contentPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_contentPaddingBottom = global::StocksApp.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_contentPaddingLeft = global::StocksApp.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_contentPaddingRight = global::StocksApp.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CardView_contentPaddingTop = global::StocksApp.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingAppBarLayout_LayoutParams = global::StocksApp.Droid.Resource.Styleable.CollapsingAppBarLayout_LayoutParams;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseMode = global::StocksApp.Droid.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier = global::StocksApp.Droid.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CompoundButton = global::StocksApp.Droid.Resource.Styleable.CompoundButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CompoundButton_android_button = global::StocksApp.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CompoundButton_buttonTint = global::StocksApp.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::StocksApp.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CoordinatorLayout = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CoordinatorLayout_keylines = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CoordinatorLayout_LayoutParams = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_android_layout_gravity = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_android_layout_gravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchor = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchorGravity = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchorGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_behavior = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_behavior;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_keyline = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_keyline;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DesignTheme = global::StocksApp.Droid.Resource.Styleable.DesignTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::StocksApp.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::StocksApp.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DesignTheme_textColorError = global::StocksApp.Droid.Resource.Styleable.DesignTheme_textColorError;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_color = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_elevation = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_fabSize = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ForegroundLinearLayout = global::StocksApp.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::StocksApp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::StocksApp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::StocksApp.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_divider = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ListPopupWindow = global::StocksApp.Droid.Resource.Styleable.ListPopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::StocksApp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::StocksApp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MediaRouteButton = global::StocksApp.Droid.Resource.Styleable.MediaRouteButton;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MediaRouteButton_android_minHeight = global::StocksApp.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MediaRouteButton_android_minWidth = global::StocksApp.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::StocksApp.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup = global::StocksApp.Droid.Resource.Styleable.MenuGroup;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::StocksApp.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup_android_enabled = global::StocksApp.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup_android_id = global::StocksApp.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::StocksApp.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::StocksApp.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuGroup_android_visible = global::StocksApp.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem = global::StocksApp.Droid.Resource.Styleable.MenuItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_actionLayout = global::StocksApp.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_actionProviderClass = global::StocksApp.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_actionViewClass = global::StocksApp.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_checkable = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_checked = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_enabled = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_icon = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_id = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_id;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_menuCategory = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_onClick = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_title = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_title;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_android_visible = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuItem_showAsAction = global::StocksApp.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView = global::StocksApp.Droid.Resource.Styleable.MenuView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_headerBackground = global::StocksApp.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::StocksApp.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_itemBackground = global::StocksApp.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::StocksApp.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::StocksApp.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_verticalDivider = global::StocksApp.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::StocksApp.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::StocksApp.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView = global::StocksApp.Droid.Resource.Styleable.NavigationView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_android_background = global::StocksApp.Droid.Resource.Styleable.NavigationView_android_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::StocksApp.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_android_maxWidth = global::StocksApp.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_elevation = global::StocksApp.Droid.Resource.Styleable.NavigationView_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_headerLayout = global::StocksApp.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_itemBackground = global::StocksApp.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_itemIconTint = global::StocksApp.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::StocksApp.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_itemTextColor = global::StocksApp.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.NavigationView_menu = global::StocksApp.Droid.Resource.Styleable.NavigationView_menu;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.PopupWindow = global::StocksApp.Droid.Resource.Styleable.PopupWindow;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::StocksApp.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::StocksApp.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.PopupWindowBackgroundState = global::StocksApp.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::StocksApp.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.RecyclerView = global::StocksApp.Droid.Resource.Styleable.RecyclerView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.RecyclerView_android_orientation = global::StocksApp.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.RecyclerView_layoutManager = global::StocksApp.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.RecyclerView_reverseLayout = global::StocksApp.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.RecyclerView_spanCount = global::StocksApp.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::StocksApp.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::StocksApp.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::StocksApp.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ScrollingViewBehavior_Params = global::StocksApp.Droid.Resource.Styleable.ScrollingViewBehavior_Params;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ScrollingViewBehavior_Params_behavior_overlapTop = global::StocksApp.Droid.Resource.Styleable.ScrollingViewBehavior_Params_behavior_overlapTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView = global::StocksApp.Droid.Resource.Styleable.SearchView;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_android_focusable = global::StocksApp.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_android_imeOptions = global::StocksApp.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_android_inputType = global::StocksApp.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_android_maxWidth = global::StocksApp.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_closeIcon = global::StocksApp.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_commitIcon = global::StocksApp.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_defaultQueryHint = global::StocksApp.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_goIcon = global::StocksApp.Droid.Resource.Styleable.SearchView_goIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::StocksApp.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_layout = global::StocksApp.Droid.Resource.Styleable.SearchView_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_queryBackground = global::StocksApp.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_queryHint = global::StocksApp.Droid.Resource.Styleable.SearchView_queryHint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_searchHintIcon = global::StocksApp.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_searchIcon = global::StocksApp.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_submitBackground = global::StocksApp.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::StocksApp.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SearchView_voiceIcon = global::StocksApp.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SnackbarLayout = global::StocksApp.Droid.Resource.Styleable.SnackbarLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::StocksApp.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SnackbarLayout_elevation = global::StocksApp.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::StocksApp.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Spinner = global::StocksApp.Droid.Resource.Styleable.Spinner;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::StocksApp.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Spinner_android_entries = global::StocksApp.Droid.Resource.Styleable.Spinner_android_entries;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Spinner_android_popupBackground = global::StocksApp.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Spinner_android_prompt = global::StocksApp.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Spinner_popupTheme = global::StocksApp.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat = global::StocksApp.Droid.Resource.Styleable.SwitchCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_android_textOff = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_android_textOn = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_android_thumb = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_showText = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_splitTrack = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_switchPadding = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.SwitchCompat_track = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_track;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabItem = global::StocksApp.Droid.Resource.Styleable.TabItem;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabItem_android_icon = global::StocksApp.Droid.Resource.Styleable.TabItem_android_icon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabItem_android_layout = global::StocksApp.Droid.Resource.Styleable.TabItem_android_layout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabItem_android_text = global::StocksApp.Droid.Resource.Styleable.TabItem_android_text;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout = global::StocksApp.Droid.Resource.Styleable.TabLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabBackground = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabContentStart = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabGravity = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabMinWidth = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabMode = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabPadding = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TabLayout_tabTextColor = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance = global::StocksApp.Droid.Resource.Styleable.TextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_textColor = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_textSize = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_textStyle = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_android_typeface = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextAppearance_textAllCaps = global::StocksApp.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout = global::StocksApp.Droid.Resource.Styleable.TextInputLayout;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_android_hint = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar = global::StocksApp.Droid.Resource.Styleable.Toolbar;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_android_gravity = global::StocksApp.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_android_minHeight = global::StocksApp.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::StocksApp.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_collapseIcon = global::StocksApp.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::StocksApp.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::StocksApp.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_contentInsetRight = global::StocksApp.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_contentInsetStart = global::StocksApp.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_logo = global::StocksApp.Droid.Resource.Styleable.Toolbar_logo;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_logoDescription = global::StocksApp.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::StocksApp.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::StocksApp.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_navigationIcon = global::StocksApp.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_popupTheme = global::StocksApp.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_subtitle = global::StocksApp.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::StocksApp.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::StocksApp.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_title = global::StocksApp.Droid.Resource.Styleable.Toolbar_title;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleMarginStart = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleMarginTop = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleMargins = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.Toolbar_titleTextColor = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.View = global::StocksApp.Droid.Resource.Styleable.View;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.View_android_focusable = global::StocksApp.Droid.Resource.Styleable.View_android_focusable;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.View_android_theme = global::StocksApp.Droid.Resource.Styleable.View_android_theme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.View_paddingEnd = global::StocksApp.Droid.Resource.Styleable.View_paddingEnd;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.View_paddingStart = global::StocksApp.Droid.Resource.Styleable.View_paddingStart;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.View_theme = global::StocksApp.Droid.Resource.Styleable.View_theme;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewBackgroundHelper = global::StocksApp.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::StocksApp.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::StocksApp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::StocksApp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewStubCompat = global::StocksApp.Droid.Resource.Styleable.ViewStubCompat;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewStubCompat_android_id = global::StocksApp.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::StocksApp.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::DevExpress.Mobile.Core.Android.Resource.Styleable.ViewStubCompat_android_layout = global::StocksApp.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_fade_in = global::StocksApp.Droid.Resource.Animation.abc_fade_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_fade_out = global::StocksApp.Droid.Resource.Animation.abc_fade_out;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::StocksApp.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_popup_enter = global::StocksApp.Droid.Resource.Animation.abc_popup_enter;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_popup_exit = global::StocksApp.Droid.Resource.Animation.abc_popup_exit;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::StocksApp.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_slide_in_bottom = global::StocksApp.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_slide_in_top = global::StocksApp.Droid.Resource.Animation.abc_slide_in_top;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_slide_out_bottom = global::StocksApp.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.abc_slide_out_top = global::StocksApp.Droid.Resource.Animation.abc_slide_out_top;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.design_bottom_sheet_slide_in = global::StocksApp.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.design_bottom_sheet_slide_out = global::StocksApp.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.design_fab_in = global::StocksApp.Droid.Resource.Animation.design_fab_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.design_fab_out = global::StocksApp.Droid.Resource.Animation.design_fab_out;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.design_snackbar_in = global::StocksApp.Droid.Resource.Animation.design_snackbar_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Animation.design_snackbar_out = global::StocksApp.Droid.Resource.Animation.design_snackbar_out;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.MediaRouteControllerWindowBackground = global::StocksApp.Droid.Resource.Attribute.MediaRouteControllerWindowBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarDivider = global::StocksApp.Droid.Resource.Attribute.actionBarDivider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarItemBackground = global::StocksApp.Droid.Resource.Attribute.actionBarItemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarPopupTheme = global::StocksApp.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarSize = global::StocksApp.Droid.Resource.Attribute.actionBarSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarSplitStyle = global::StocksApp.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarStyle = global::StocksApp.Droid.Resource.Attribute.actionBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarTabBarStyle = global::StocksApp.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarTabStyle = global::StocksApp.Droid.Resource.Attribute.actionBarTabStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarTabTextStyle = global::StocksApp.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarTheme = global::StocksApp.Droid.Resource.Attribute.actionBarTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionBarWidgetTheme = global::StocksApp.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionButtonStyle = global::StocksApp.Droid.Resource.Attribute.actionButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionDropDownStyle = global::StocksApp.Droid.Resource.Attribute.actionDropDownStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionLayout = global::StocksApp.Droid.Resource.Attribute.actionLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionMenuTextAppearance = global::StocksApp.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionMenuTextColor = global::StocksApp.Droid.Resource.Attribute.actionMenuTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeBackground = global::StocksApp.Droid.Resource.Attribute.actionModeBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeCloseButtonStyle = global::StocksApp.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeCloseDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeCopyDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeCutDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeFindDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModePasteDrawable = global::StocksApp.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModePopupWindowStyle = global::StocksApp.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeSelectAllDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeShareDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeSplitBackground = global::StocksApp.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeStyle = global::StocksApp.Droid.Resource.Attribute.actionModeStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionModeWebSearchDrawable = global::StocksApp.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionOverflowButtonStyle = global::StocksApp.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionOverflowMenuStyle = global::StocksApp.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionProviderClass = global::StocksApp.Droid.Resource.Attribute.actionProviderClass;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.actionViewClass = global::StocksApp.Droid.Resource.Attribute.actionViewClass;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.activityChooserViewStyle = global::StocksApp.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::StocksApp.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.alertDialogCenterButtons = global::StocksApp.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.alertDialogStyle = global::StocksApp.Droid.Resource.Attribute.alertDialogStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.alertDialogTheme = global::StocksApp.Droid.Resource.Attribute.alertDialogTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.allowStacking = global::StocksApp.Droid.Resource.Attribute.allowStacking;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.arrowHeadLength = global::StocksApp.Droid.Resource.Attribute.arrowHeadLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.arrowShaftLength = global::StocksApp.Droid.Resource.Attribute.arrowShaftLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.autoCompleteTextViewStyle = global::StocksApp.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.background = global::StocksApp.Droid.Resource.Attribute.background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.backgroundSplit = global::StocksApp.Droid.Resource.Attribute.backgroundSplit;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.backgroundStacked = global::StocksApp.Droid.Resource.Attribute.backgroundStacked;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.backgroundTint = global::StocksApp.Droid.Resource.Attribute.backgroundTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.backgroundTintMode = global::StocksApp.Droid.Resource.Attribute.backgroundTintMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.barLength = global::StocksApp.Droid.Resource.Attribute.barLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.behavior_hideable = global::StocksApp.Droid.Resource.Attribute.behavior_hideable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.behavior_overlapTop = global::StocksApp.Droid.Resource.Attribute.behavior_overlapTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.behavior_peekHeight = global::StocksApp.Droid.Resource.Attribute.behavior_peekHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.borderWidth = global::StocksApp.Droid.Resource.Attribute.borderWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.borderlessButtonStyle = global::StocksApp.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.bottomSheetDialogTheme = global::StocksApp.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.bottomSheetStyle = global::StocksApp.Droid.Resource.Attribute.bottomSheetStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonBarButtonStyle = global::StocksApp.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::StocksApp.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::StocksApp.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::StocksApp.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonBarStyle = global::StocksApp.Droid.Resource.Attribute.buttonBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonPanelSideLayout = global::StocksApp.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonStyle = global::StocksApp.Droid.Resource.Attribute.buttonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonStyleSmall = global::StocksApp.Droid.Resource.Attribute.buttonStyleSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonTint = global::StocksApp.Droid.Resource.Attribute.buttonTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.buttonTintMode = global::StocksApp.Droid.Resource.Attribute.buttonTintMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.cardBackgroundColor = global::StocksApp.Droid.Resource.Attribute.cardBackgroundColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.cardCornerRadius = global::StocksApp.Droid.Resource.Attribute.cardCornerRadius;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.cardElevation = global::StocksApp.Droid.Resource.Attribute.cardElevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.cardMaxElevation = global::StocksApp.Droid.Resource.Attribute.cardMaxElevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.cardPreventCornerOverlap = global::StocksApp.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.cardUseCompatPadding = global::StocksApp.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.checkboxStyle = global::StocksApp.Droid.Resource.Attribute.checkboxStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.checkedTextViewStyle = global::StocksApp.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.closeIcon = global::StocksApp.Droid.Resource.Attribute.closeIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.closeItemLayout = global::StocksApp.Droid.Resource.Attribute.closeItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.collapseContentDescription = global::StocksApp.Droid.Resource.Attribute.collapseContentDescription;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.collapseIcon = global::StocksApp.Droid.Resource.Attribute.collapseIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.collapsedTitleGravity = global::StocksApp.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.collapsedTitleTextAppearance = global::StocksApp.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.color = global::StocksApp.Droid.Resource.Attribute.color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorAccent = global::StocksApp.Droid.Resource.Attribute.colorAccent;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorButtonNormal = global::StocksApp.Droid.Resource.Attribute.colorButtonNormal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorControlActivated = global::StocksApp.Droid.Resource.Attribute.colorControlActivated;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorControlHighlight = global::StocksApp.Droid.Resource.Attribute.colorControlHighlight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorControlNormal = global::StocksApp.Droid.Resource.Attribute.colorControlNormal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorPrimary = global::StocksApp.Droid.Resource.Attribute.colorPrimary;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorPrimaryDark = global::StocksApp.Droid.Resource.Attribute.colorPrimaryDark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.colorSwitchThumbNormal = global::StocksApp.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.commitIcon = global::StocksApp.Droid.Resource.Attribute.commitIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentInsetEnd = global::StocksApp.Droid.Resource.Attribute.contentInsetEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentInsetLeft = global::StocksApp.Droid.Resource.Attribute.contentInsetLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentInsetRight = global::StocksApp.Droid.Resource.Attribute.contentInsetRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentInsetStart = global::StocksApp.Droid.Resource.Attribute.contentInsetStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentPadding = global::StocksApp.Droid.Resource.Attribute.contentPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentPaddingBottom = global::StocksApp.Droid.Resource.Attribute.contentPaddingBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentPaddingLeft = global::StocksApp.Droid.Resource.Attribute.contentPaddingLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentPaddingRight = global::StocksApp.Droid.Resource.Attribute.contentPaddingRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentPaddingTop = global::StocksApp.Droid.Resource.Attribute.contentPaddingTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.contentScrim = global::StocksApp.Droid.Resource.Attribute.contentScrim;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.controlBackground = global::StocksApp.Droid.Resource.Attribute.controlBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.counterEnabled = global::StocksApp.Droid.Resource.Attribute.counterEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.counterMaxLength = global::StocksApp.Droid.Resource.Attribute.counterMaxLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.counterOverflowTextAppearance = global::StocksApp.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.counterTextAppearance = global::StocksApp.Droid.Resource.Attribute.counterTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.customNavigationLayout = global::StocksApp.Droid.Resource.Attribute.customNavigationLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.defaultQueryHint = global::StocksApp.Droid.Resource.Attribute.defaultQueryHint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dialogPreferredPadding = global::StocksApp.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dialogTheme = global::StocksApp.Droid.Resource.Attribute.dialogTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.displayOptions = global::StocksApp.Droid.Resource.Attribute.displayOptions;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.divider = global::StocksApp.Droid.Resource.Attribute.divider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dividerHorizontal = global::StocksApp.Droid.Resource.Attribute.dividerHorizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dividerPadding = global::StocksApp.Droid.Resource.Attribute.dividerPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dividerVertical = global::StocksApp.Droid.Resource.Attribute.dividerVertical;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.drawableSize = global::StocksApp.Droid.Resource.Attribute.drawableSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.drawerArrowStyle = global::StocksApp.Droid.Resource.Attribute.drawerArrowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dropDownListViewStyle = global::StocksApp.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::StocksApp.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.editTextBackground = global::StocksApp.Droid.Resource.Attribute.editTextBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.editTextColor = global::StocksApp.Droid.Resource.Attribute.editTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.editTextStyle = global::StocksApp.Droid.Resource.Attribute.editTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.elevation = global::StocksApp.Droid.Resource.Attribute.elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.errorEnabled = global::StocksApp.Droid.Resource.Attribute.errorEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.errorTextAppearance = global::StocksApp.Droid.Resource.Attribute.errorTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::StocksApp.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expanded = global::StocksApp.Droid.Resource.Attribute.expanded;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleGravity = global::StocksApp.Droid.Resource.Attribute.expandedTitleGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleMargin = global::StocksApp.Droid.Resource.Attribute.expandedTitleMargin;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleMarginBottom = global::StocksApp.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleMarginEnd = global::StocksApp.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleMarginStart = global::StocksApp.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleMarginTop = global::StocksApp.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.expandedTitleTextAppearance = global::StocksApp.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.externalRouteEnabledDrawable = global::StocksApp.Droid.Resource.Attribute.externalRouteEnabledDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.fabSize = global::StocksApp.Droid.Resource.Attribute.fabSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.foregroundInsidePadding = global::StocksApp.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.gapBetweenBars = global::StocksApp.Droid.Resource.Attribute.gapBetweenBars;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.goIcon = global::StocksApp.Droid.Resource.Attribute.goIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.headerLayout = global::StocksApp.Droid.Resource.Attribute.headerLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.height = global::StocksApp.Droid.Resource.Attribute.height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.hideOnContentScroll = global::StocksApp.Droid.Resource.Attribute.hideOnContentScroll;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.hintAnimationEnabled = global::StocksApp.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.hintEnabled = global::StocksApp.Droid.Resource.Attribute.hintEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.hintTextAppearance = global::StocksApp.Droid.Resource.Attribute.hintTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.homeAsUpIndicator = global::StocksApp.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.homeLayout = global::StocksApp.Droid.Resource.Attribute.homeLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.icon = global::StocksApp.Droid.Resource.Attribute.icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.iconifiedByDefault = global::StocksApp.Droid.Resource.Attribute.iconifiedByDefault;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.imageButtonStyle = global::StocksApp.Droid.Resource.Attribute.imageButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.indeterminateProgressStyle = global::StocksApp.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.initialActivityCount = global::StocksApp.Droid.Resource.Attribute.initialActivityCount;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.insetForeground = global::StocksApp.Droid.Resource.Attribute.insetForeground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.isLightTheme = global::StocksApp.Droid.Resource.Attribute.isLightTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.itemBackground = global::StocksApp.Droid.Resource.Attribute.itemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.itemIconTint = global::StocksApp.Droid.Resource.Attribute.itemIconTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.itemPadding = global::StocksApp.Droid.Resource.Attribute.itemPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.itemTextAppearance = global::StocksApp.Droid.Resource.Attribute.itemTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.itemTextColor = global::StocksApp.Droid.Resource.Attribute.itemTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.keylines = global::StocksApp.Droid.Resource.Attribute.keylines;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout = global::StocksApp.Droid.Resource.Attribute.layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layoutManager = global::StocksApp.Droid.Resource.Attribute.layoutManager;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_anchor = global::StocksApp.Droid.Resource.Attribute.layout_anchor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_anchorGravity = global::StocksApp.Droid.Resource.Attribute.layout_anchorGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_behavior = global::StocksApp.Droid.Resource.Attribute.layout_behavior;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_collapseMode = global::StocksApp.Droid.Resource.Attribute.layout_collapseMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::StocksApp.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_keyline = global::StocksApp.Droid.Resource.Attribute.layout_keyline;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_scrollFlags = global::StocksApp.Droid.Resource.Attribute.layout_scrollFlags;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.layout_scrollInterpolator = global::StocksApp.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::StocksApp.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listDividerAlertDialog = global::StocksApp.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listItemLayout = global::StocksApp.Droid.Resource.Attribute.listItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listLayout = global::StocksApp.Droid.Resource.Attribute.listLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listPopupWindowStyle = global::StocksApp.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listPreferredItemHeight = global::StocksApp.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listPreferredItemHeightLarge = global::StocksApp.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listPreferredItemHeightSmall = global::StocksApp.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::StocksApp.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.listPreferredItemPaddingRight = global::StocksApp.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.logo = global::StocksApp.Droid.Resource.Attribute.logo;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.logoDescription = global::StocksApp.Droid.Resource.Attribute.logoDescription;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.maxActionInlineWidth = global::StocksApp.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.maxButtonHeight = global::StocksApp.Droid.Resource.Attribute.maxButtonHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.measureWithLargestChild = global::StocksApp.Droid.Resource.Attribute.measureWithLargestChild;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteAudioTrackDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteBluetoothIconDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteBluetoothIconDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteButtonStyle = global::StocksApp.Droid.Resource.Attribute.mediaRouteButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteCastDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteCastDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteChooserPrimaryTextStyle = global::StocksApp.Droid.Resource.Attribute.mediaRouteChooserPrimaryTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteChooserSecondaryTextStyle = global::StocksApp.Droid.Resource.Attribute.mediaRouteChooserSecondaryTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteCloseDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteCloseDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteCollapseGroupDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteCollapseGroupDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteConnectingDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteConnectingDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteControllerPrimaryTextStyle = global::StocksApp.Droid.Resource.Attribute.mediaRouteControllerPrimaryTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteControllerSecondaryTextStyle = global::StocksApp.Droid.Resource.Attribute.mediaRouteControllerSecondaryTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteControllerTitleTextStyle = global::StocksApp.Droid.Resource.Attribute.mediaRouteControllerTitleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteDefaultIconDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteExpandGroupDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteExpandGroupDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteOffDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteOffDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteOnDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteOnDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRoutePauseDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRoutePauseDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRoutePlayDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRoutePlayDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.mediaRouteTvIconDrawable = global::StocksApp.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.menu = global::StocksApp.Droid.Resource.Attribute.menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.multiChoiceItemLayout = global::StocksApp.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.navigationContentDescription = global::StocksApp.Droid.Resource.Attribute.navigationContentDescription;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.navigationIcon = global::StocksApp.Droid.Resource.Attribute.navigationIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.navigationMode = global::StocksApp.Droid.Resource.Attribute.navigationMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.overlapAnchor = global::StocksApp.Droid.Resource.Attribute.overlapAnchor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.paddingEnd = global::StocksApp.Droid.Resource.Attribute.paddingEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.paddingStart = global::StocksApp.Droid.Resource.Attribute.paddingStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.panelBackground = global::StocksApp.Droid.Resource.Attribute.panelBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.panelMenuListTheme = global::StocksApp.Droid.Resource.Attribute.panelMenuListTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.panelMenuListWidth = global::StocksApp.Droid.Resource.Attribute.panelMenuListWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.popupMenuStyle = global::StocksApp.Droid.Resource.Attribute.popupMenuStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.popupTheme = global::StocksApp.Droid.Resource.Attribute.popupTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.popupWindowStyle = global::StocksApp.Droid.Resource.Attribute.popupWindowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.preserveIconSpacing = global::StocksApp.Droid.Resource.Attribute.preserveIconSpacing;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.pressedTranslationZ = global::StocksApp.Droid.Resource.Attribute.pressedTranslationZ;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.progressBarPadding = global::StocksApp.Droid.Resource.Attribute.progressBarPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.progressBarStyle = global::StocksApp.Droid.Resource.Attribute.progressBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.queryBackground = global::StocksApp.Droid.Resource.Attribute.queryBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.queryHint = global::StocksApp.Droid.Resource.Attribute.queryHint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.radioButtonStyle = global::StocksApp.Droid.Resource.Attribute.radioButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.ratingBarStyle = global::StocksApp.Droid.Resource.Attribute.ratingBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.ratingBarStyleIndicator = global::StocksApp.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.ratingBarStyleSmall = global::StocksApp.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.reverseLayout = global::StocksApp.Droid.Resource.Attribute.reverseLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.rippleColor = global::StocksApp.Droid.Resource.Attribute.rippleColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.searchHintIcon = global::StocksApp.Droid.Resource.Attribute.searchHintIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.searchIcon = global::StocksApp.Droid.Resource.Attribute.searchIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.searchViewStyle = global::StocksApp.Droid.Resource.Attribute.searchViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.seekBarStyle = global::StocksApp.Droid.Resource.Attribute.seekBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.selectableItemBackground = global::StocksApp.Droid.Resource.Attribute.selectableItemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::StocksApp.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.showAsAction = global::StocksApp.Droid.Resource.Attribute.showAsAction;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.showDividers = global::StocksApp.Droid.Resource.Attribute.showDividers;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.showText = global::StocksApp.Droid.Resource.Attribute.showText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.singleChoiceItemLayout = global::StocksApp.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.spanCount = global::StocksApp.Droid.Resource.Attribute.spanCount;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.spinBars = global::StocksApp.Droid.Resource.Attribute.spinBars;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.spinnerDropDownItemStyle = global::StocksApp.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.spinnerStyle = global::StocksApp.Droid.Resource.Attribute.spinnerStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.splitTrack = global::StocksApp.Droid.Resource.Attribute.splitTrack;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.srcCompat = global::StocksApp.Droid.Resource.Attribute.srcCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.stackFromEnd = global::StocksApp.Droid.Resource.Attribute.stackFromEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.state_above_anchor = global::StocksApp.Droid.Resource.Attribute.state_above_anchor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.statusBarBackground = global::StocksApp.Droid.Resource.Attribute.statusBarBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.statusBarScrim = global::StocksApp.Droid.Resource.Attribute.statusBarScrim;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.submitBackground = global::StocksApp.Droid.Resource.Attribute.submitBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.subtitle = global::StocksApp.Droid.Resource.Attribute.subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.subtitleTextAppearance = global::StocksApp.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.subtitleTextColor = global::StocksApp.Droid.Resource.Attribute.subtitleTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.subtitleTextStyle = global::StocksApp.Droid.Resource.Attribute.subtitleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.suggestionRowLayout = global::StocksApp.Droid.Resource.Attribute.suggestionRowLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.switchMinWidth = global::StocksApp.Droid.Resource.Attribute.switchMinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.switchPadding = global::StocksApp.Droid.Resource.Attribute.switchPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.switchStyle = global::StocksApp.Droid.Resource.Attribute.switchStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.switchTextAppearance = global::StocksApp.Droid.Resource.Attribute.switchTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabBackground = global::StocksApp.Droid.Resource.Attribute.tabBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabContentStart = global::StocksApp.Droid.Resource.Attribute.tabContentStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabGravity = global::StocksApp.Droid.Resource.Attribute.tabGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabIndicatorColor = global::StocksApp.Droid.Resource.Attribute.tabIndicatorColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabIndicatorHeight = global::StocksApp.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabMaxWidth = global::StocksApp.Droid.Resource.Attribute.tabMaxWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabMinWidth = global::StocksApp.Droid.Resource.Attribute.tabMinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabMode = global::StocksApp.Droid.Resource.Attribute.tabMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabPadding = global::StocksApp.Droid.Resource.Attribute.tabPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabPaddingBottom = global::StocksApp.Droid.Resource.Attribute.tabPaddingBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabPaddingEnd = global::StocksApp.Droid.Resource.Attribute.tabPaddingEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabPaddingStart = global::StocksApp.Droid.Resource.Attribute.tabPaddingStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabPaddingTop = global::StocksApp.Droid.Resource.Attribute.tabPaddingTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabSelectedTextColor = global::StocksApp.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabTextAppearance = global::StocksApp.Droid.Resource.Attribute.tabTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.tabTextColor = global::StocksApp.Droid.Resource.Attribute.tabTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAllCaps = global::StocksApp.Droid.Resource.Attribute.textAllCaps;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::StocksApp.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAppearanceListItem = global::StocksApp.Droid.Resource.Attribute.textAppearanceListItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAppearanceListItemSmall = global::StocksApp.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::StocksApp.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::StocksApp.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::StocksApp.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textColorAlertDialogListItem = global::StocksApp.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textColorError = global::StocksApp.Droid.Resource.Attribute.textColorError;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.textColorSearchUrl = global::StocksApp.Droid.Resource.Attribute.textColorSearchUrl;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.theme = global::StocksApp.Droid.Resource.Attribute.theme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.thickness = global::StocksApp.Droid.Resource.Attribute.thickness;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.thumbTextPadding = global::StocksApp.Droid.Resource.Attribute.thumbTextPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.title = global::StocksApp.Droid.Resource.Attribute.title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleEnabled = global::StocksApp.Droid.Resource.Attribute.titleEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleMarginBottom = global::StocksApp.Droid.Resource.Attribute.titleMarginBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleMarginEnd = global::StocksApp.Droid.Resource.Attribute.titleMarginEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleMarginStart = global::StocksApp.Droid.Resource.Attribute.titleMarginStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleMarginTop = global::StocksApp.Droid.Resource.Attribute.titleMarginTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleMargins = global::StocksApp.Droid.Resource.Attribute.titleMargins;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleTextAppearance = global::StocksApp.Droid.Resource.Attribute.titleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleTextColor = global::StocksApp.Droid.Resource.Attribute.titleTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.titleTextStyle = global::StocksApp.Droid.Resource.Attribute.titleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.toolbarId = global::StocksApp.Droid.Resource.Attribute.toolbarId;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::StocksApp.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.toolbarStyle = global::StocksApp.Droid.Resource.Attribute.toolbarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.track = global::StocksApp.Droid.Resource.Attribute.track;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.useCompatPadding = global::StocksApp.Droid.Resource.Attribute.useCompatPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.voiceIcon = global::StocksApp.Droid.Resource.Attribute.voiceIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowActionBar = global::StocksApp.Droid.Resource.Attribute.windowActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowActionBarOverlay = global::StocksApp.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowActionModeOverlay = global::StocksApp.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowFixedHeightMajor = global::StocksApp.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowFixedHeightMinor = global::StocksApp.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowFixedWidthMajor = global::StocksApp.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowFixedWidthMinor = global::StocksApp.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowMinWidthMajor = global::StocksApp.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowMinWidthMinor = global::StocksApp.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Attribute.windowNoTitle = global::StocksApp.Droid.Resource.Attribute.windowNoTitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::StocksApp.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_action_bar_embed_tabs_pre_jb = global::StocksApp.Droid.Resource.Boolean.abc_action_bar_embed_tabs_pre_jb;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_action_bar_expanded_action_views_exclusive = global::StocksApp.Droid.Resource.Boolean.abc_action_bar_expanded_action_views_exclusive;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::StocksApp.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::StocksApp.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_config_allowActionMenuItemTextWithIcon = global::StocksApp.Droid.Resource.Boolean.abc_config_allowActionMenuItemTextWithIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::StocksApp.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::StocksApp.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::StocksApp.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::StocksApp.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_color_highlight_material = global::StocksApp.Droid.Resource.Color.abc_color_highlight_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_input_method_navigation_guard = global::StocksApp.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::StocksApp.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::StocksApp.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_primary_text_material_dark = global::StocksApp.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_primary_text_material_light = global::StocksApp.Droid.Resource.Color.abc_primary_text_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_search_url_text = global::StocksApp.Droid.Resource.Color.abc_search_url_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_search_url_text_normal = global::StocksApp.Droid.Resource.Color.abc_search_url_text_normal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_search_url_text_pressed = global::StocksApp.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_search_url_text_selected = global::StocksApp.Droid.Resource.Color.abc_search_url_text_selected;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_secondary_text_material_dark = global::StocksApp.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.abc_secondary_text_material_light = global::StocksApp.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.accent_material_dark = global::StocksApp.Droid.Resource.Color.accent_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.accent_material_light = global::StocksApp.Droid.Resource.Color.accent_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.background_floating_material_dark = global::StocksApp.Droid.Resource.Color.background_floating_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.background_floating_material_light = global::StocksApp.Droid.Resource.Color.background_floating_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.background_material_dark = global::StocksApp.Droid.Resource.Color.background_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.background_material_light = global::StocksApp.Droid.Resource.Color.background_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.black = global::StocksApp.Droid.Resource.Color.black;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.blue = global::StocksApp.Droid.Resource.Color.blue;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.bright_foreground_disabled_material_dark = global::StocksApp.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.bright_foreground_disabled_material_light = global::StocksApp.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.bright_foreground_inverse_material_dark = global::StocksApp.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.bright_foreground_inverse_material_light = global::StocksApp.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.bright_foreground_material_dark = global::StocksApp.Droid.Resource.Color.bright_foreground_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.bright_foreground_material_light = global::StocksApp.Droid.Resource.Color.bright_foreground_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.button_material_dark = global::StocksApp.Droid.Resource.Color.button_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.button_material_light = global::StocksApp.Droid.Resource.Color.button_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.cardview_dark_background = global::StocksApp.Droid.Resource.Color.cardview_dark_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.cardview_light_background = global::StocksApp.Droid.Resource.Color.cardview_light_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.cardview_shadow_end_color = global::StocksApp.Droid.Resource.Color.cardview_shadow_end_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.cardview_shadow_start_color = global::StocksApp.Droid.Resource.Color.cardview_shadow_start_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_shadow_end_color = global::StocksApp.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_shadow_mid_color = global::StocksApp.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_shadow_start_color = global::StocksApp.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_stroke_end_inner_color = global::StocksApp.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_stroke_end_outer_color = global::StocksApp.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_stroke_top_inner_color = global::StocksApp.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_fab_stroke_top_outer_color = global::StocksApp.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_snackbar_background_color = global::StocksApp.Droid.Resource.Color.design_snackbar_background_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_textinput_error_color_dark = global::StocksApp.Droid.Resource.Color.design_textinput_error_color_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.design_textinput_error_color_light = global::StocksApp.Droid.Resource.Color.design_textinput_error_color_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.dim_foreground_disabled_material_dark = global::StocksApp.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.dim_foreground_disabled_material_light = global::StocksApp.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.dim_foreground_material_dark = global::StocksApp.Droid.Resource.Color.dim_foreground_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.dim_foreground_material_light = global::StocksApp.Droid.Resource.Color.dim_foreground_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.foreground_material_dark = global::StocksApp.Droid.Resource.Color.foreground_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.foreground_material_light = global::StocksApp.Droid.Resource.Color.foreground_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.gray = global::StocksApp.Droid.Resource.Color.gray;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.green = global::StocksApp.Droid.Resource.Color.green;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.highlighted_text_material_dark = global::StocksApp.Droid.Resource.Color.highlighted_text_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.highlighted_text_material_light = global::StocksApp.Droid.Resource.Color.highlighted_text_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.hint_foreground_material_dark = global::StocksApp.Droid.Resource.Color.hint_foreground_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.hint_foreground_material_light = global::StocksApp.Droid.Resource.Color.hint_foreground_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_blue_grey_800 = global::StocksApp.Droid.Resource.Color.material_blue_grey_800;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_blue_grey_900 = global::StocksApp.Droid.Resource.Color.material_blue_grey_900;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_blue_grey_950 = global::StocksApp.Droid.Resource.Color.material_blue_grey_950;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_deep_teal_200 = global::StocksApp.Droid.Resource.Color.material_deep_teal_200;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_deep_teal_500 = global::StocksApp.Droid.Resource.Color.material_deep_teal_500;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_100 = global::StocksApp.Droid.Resource.Color.material_grey_100;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_300 = global::StocksApp.Droid.Resource.Color.material_grey_300;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_50 = global::StocksApp.Droid.Resource.Color.material_grey_50;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_600 = global::StocksApp.Droid.Resource.Color.material_grey_600;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_800 = global::StocksApp.Droid.Resource.Color.material_grey_800;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_850 = global::StocksApp.Droid.Resource.Color.material_grey_850;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.material_grey_900 = global::StocksApp.Droid.Resource.Color.material_grey_900;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_dark_material_dark = global::StocksApp.Droid.Resource.Color.primary_dark_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_dark_material_light = global::StocksApp.Droid.Resource.Color.primary_dark_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_material_dark = global::StocksApp.Droid.Resource.Color.primary_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_material_light = global::StocksApp.Droid.Resource.Color.primary_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_text_default_material_dark = global::StocksApp.Droid.Resource.Color.primary_text_default_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_text_default_material_light = global::StocksApp.Droid.Resource.Color.primary_text_default_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_text_disabled_material_dark = global::StocksApp.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.primary_text_disabled_material_light = global::StocksApp.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.red = global::StocksApp.Droid.Resource.Color.red;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.ripple_material_dark = global::StocksApp.Droid.Resource.Color.ripple_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.ripple_material_light = global::StocksApp.Droid.Resource.Color.ripple_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.secondary_text_default_material_dark = global::StocksApp.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.secondary_text_default_material_light = global::StocksApp.Droid.Resource.Color.secondary_text_default_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.secondary_text_disabled_material_dark = global::StocksApp.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.secondary_text_disabled_material_light = global::StocksApp.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.switch_thumb_disabled_material_dark = global::StocksApp.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.switch_thumb_disabled_material_light = global::StocksApp.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.switch_thumb_material_dark = global::StocksApp.Droid.Resource.Color.switch_thumb_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.switch_thumb_material_light = global::StocksApp.Droid.Resource.Color.switch_thumb_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.switch_thumb_normal_material_dark = global::StocksApp.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.switch_thumb_normal_material_light = global::StocksApp.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.theme_dark_segmented_radio_button_text = global::StocksApp.Droid.Resource.Color.theme_dark_segmented_radio_button_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Color.theme_default_segmented_radio_button_text = global::StocksApp.Droid.Resource.Color.theme_default_segmented_radio_button_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_default_height_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_progress_bar_size = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::StocksApp.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_button_min_height_material = global::StocksApp.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_button_min_width_material = global::StocksApp.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::StocksApp.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::StocksApp.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::StocksApp.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_button_inset_vertical_material = global::StocksApp.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::StocksApp.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_button_padding_vertical_material = global::StocksApp.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_config_prefDialogWidth = global::StocksApp.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_control_corner_material = global::StocksApp.Droid.Resource.Dimension.abc_control_corner_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_control_inset_material = global::StocksApp.Droid.Resource.Dimension.abc_control_inset_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_control_padding_material = global::StocksApp.Droid.Resource.Dimension.abc_control_padding_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::StocksApp.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::StocksApp.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::StocksApp.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::StocksApp.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_list_padding_vertical_material = global::StocksApp.Droid.Resource.Dimension.abc_dialog_list_padding_vertical_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_min_width_major = global::StocksApp.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_min_width_minor = global::StocksApp.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_padding_material = global::StocksApp.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dialog_padding_top_material = global::StocksApp.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::StocksApp.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::StocksApp.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::StocksApp.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::StocksApp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::StocksApp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::StocksApp.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::StocksApp.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::StocksApp.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_floating_window_z = global::StocksApp.Droid.Resource.Dimension.abc_floating_window_z;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::StocksApp.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_panel_menu_list_width = global::StocksApp.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_search_view_preferred_width = global::StocksApp.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_search_view_text_min_width = global::StocksApp.Droid.Resource.Dimension.abc_search_view_text_min_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::StocksApp.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::StocksApp.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::StocksApp.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_switch_padding = global::StocksApp.Droid.Resource.Dimension.abc_switch_padding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_body_1_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_body_2_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_button_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_caption_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_display_1_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_display_2_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_display_3_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_display_4_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_headline_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_large_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_medium_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_menu_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_small_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_subhead_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::StocksApp.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_title_material = global::StocksApp.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::StocksApp.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.cardview_compat_inset_shadow = global::StocksApp.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.cardview_default_elevation = global::StocksApp.Droid.Resource.Dimension.cardview_default_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.cardview_default_radius = global::StocksApp.Droid.Resource.Dimension.cardview_default_radius;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_appbar_elevation = global::StocksApp.Droid.Resource.Dimension.design_appbar_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::StocksApp.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_bottom_sheet_modal_peek_height = global::StocksApp.Droid.Resource.Dimension.design_bottom_sheet_modal_peek_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_fab_border_width = global::StocksApp.Droid.Resource.Dimension.design_fab_border_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_fab_elevation = global::StocksApp.Droid.Resource.Dimension.design_fab_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_fab_image_size = global::StocksApp.Droid.Resource.Dimension.design_fab_image_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_fab_size_mini = global::StocksApp.Droid.Resource.Dimension.design_fab_size_mini;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_fab_size_normal = global::StocksApp.Droid.Resource.Dimension.design_fab_size_normal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_fab_translation_z_pressed = global::StocksApp.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_navigation_elevation = global::StocksApp.Droid.Resource.Dimension.design_navigation_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_navigation_icon_padding = global::StocksApp.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_navigation_icon_size = global::StocksApp.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_navigation_max_width = global::StocksApp.Droid.Resource.Dimension.design_navigation_max_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_navigation_padding_bottom = global::StocksApp.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::StocksApp.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::StocksApp.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::StocksApp.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_elevation = global::StocksApp.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::StocksApp.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_max_width = global::StocksApp.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_min_width = global::StocksApp.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::StocksApp.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_padding_vertical = global::StocksApp.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::StocksApp.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_snackbar_text_size = global::StocksApp.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_tab_max_width = global::StocksApp.Droid.Resource.Dimension.design_tab_max_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_tab_scrollable_min_width = global::StocksApp.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_tab_text_size = global::StocksApp.Droid.Resource.Dimension.design_tab_text_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.design_tab_text_size_2line = global::StocksApp.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.disabled_alpha_material_dark = global::StocksApp.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.disabled_alpha_material_light = global::StocksApp.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.highlight_alpha_material_colored = global::StocksApp.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.highlight_alpha_material_dark = global::StocksApp.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.highlight_alpha_material_light = global::StocksApp.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::StocksApp.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::StocksApp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::StocksApp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.mr_controller_volume_group_list_item_height = global::StocksApp.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::StocksApp.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.mr_controller_volume_group_list_max_height = global::StocksApp.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::StocksApp.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.mr_dialog_fixed_width_major = global::StocksApp.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.mr_dialog_fixed_width_minor = global::StocksApp.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.notification_large_icon_height = global::StocksApp.Droid.Resource.Dimension.notification_large_icon_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.notification_large_icon_width = global::StocksApp.Droid.Resource.Dimension.notification_large_icon_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Dimension.notification_subtext_size = global::StocksApp.Droid.Resource.Dimension.notification_subtext_size;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_action_bar_item_background_material = global::StocksApp.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_borderless_material = global::StocksApp.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_check_material = global::StocksApp.Droid.Resource.Drawable.abc_btn_check_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::StocksApp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::StocksApp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_colored_material = global::StocksApp.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::StocksApp.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_radio_material = global::StocksApp.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::StocksApp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::StocksApp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_rating_star_off_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_btn_rating_star_off_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_rating_star_on_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_btn_rating_star_on_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::StocksApp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::StocksApp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_cab_background_internal_bg = global::StocksApp.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_cab_background_top_material = global::StocksApp.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_control_background_material = global::StocksApp.Droid.Resource.Drawable.abc_control_background_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_dialog_material_background_dark = global::StocksApp.Droid.Resource.Drawable.abc_dialog_material_background_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_dialog_material_background_light = global::StocksApp.Droid.Resource.Drawable.abc_dialog_material_background_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_edit_text_material = global::StocksApp.Droid.Resource.Drawable.abc_edit_text_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_ab_back_mtrl_am_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_ab_back_mtrl_am_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_clear_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_clear_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_go_search_api_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_go_search_api_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_menu_moreoverflow_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_menu_moreoverflow_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_search_api_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_search_api_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_star_black_16dp = global::StocksApp.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_star_black_36dp = global::StocksApp.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::StocksApp.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::StocksApp.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ic_voice_search_api_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_ic_voice_search_api_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_item_background_holo_dark = global::StocksApp.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_item_background_holo_light = global::StocksApp.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_focused_holo = global::StocksApp.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_longpressed_holo = global::StocksApp.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::StocksApp.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_pressed_holo_light = global::StocksApp.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::StocksApp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::StocksApp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::StocksApp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::StocksApp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_selector_holo_dark = global::StocksApp.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_list_selector_holo_light = global::StocksApp.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::StocksApp.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::StocksApp.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ratingbar_full_material = global::StocksApp.Droid.Resource.Drawable.abc_ratingbar_full_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::StocksApp.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_ratingbar_small_material = global::StocksApp.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::StocksApp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::StocksApp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_seekbar_thumb_material = global::StocksApp.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_seekbar_track_material = global::StocksApp.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::StocksApp.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::StocksApp.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_switch_thumb_material = global::StocksApp.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_tab_indicator_material = global::StocksApp.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_text_cursor_material = global::StocksApp.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::StocksApp.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.abc_textfield_search_material = global::StocksApp.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.design_fab_background = global::StocksApp.Droid.Resource.Drawable.design_fab_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.design_snackbar_background = global::StocksApp.Droid.Resource.Drawable.design_snackbar_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_audiotrack = global::StocksApp.Droid.Resource.Drawable.ic_audiotrack;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_audiotrack_light = global::StocksApp.Droid.Resource.Drawable.ic_audiotrack_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_bluetooth_grey = global::StocksApp.Droid.Resource.Drawable.ic_bluetooth_grey;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_bluetooth_white = global::StocksApp.Droid.Resource.Drawable.ic_bluetooth_white;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_cast_dark = global::StocksApp.Droid.Resource.Drawable.ic_cast_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_cast_disabled_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_disabled_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_cast_grey = global::StocksApp.Droid.Resource.Drawable.ic_cast_grey;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_cast_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_cast_off_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_off_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_cast_on_0_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_on_0_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_cast_on_1_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_on_1_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_cast_on_2_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_on_2_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_cast_on_light = global::StocksApp.Droid.Resource.Drawable.ic_cast_on_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_cast_white = global::StocksApp.Droid.Resource.Drawable.ic_cast_white;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_close_dark = global::StocksApp.Droid.Resource.Drawable.ic_close_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_close_light = global::StocksApp.Droid.Resource.Drawable.ic_close_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse = global::StocksApp.Droid.Resource.Drawable.ic_collapse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00000 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00000;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00001 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00001;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00002 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00002;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00003 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00003;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00004 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00004;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00005 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00005;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00006 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00006;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00007 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00007;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00008 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00008;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00009 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00009;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00010 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00010;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00011 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00011;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00012 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00012;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00013 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00013;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00014 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00014;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_collapse_00015 = global::StocksApp.Droid.Resource.Drawable.ic_collapse_00015;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand = global::StocksApp.Droid.Resource.Drawable.ic_expand;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00000 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00000;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00001 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00001;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00002 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00002;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00003 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00003;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00004 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00004;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00005 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00005;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00006 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00006;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00007 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00007;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00008 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00008;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00009 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00009;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00010 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00010;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00011 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00011;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00012 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00012;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00013 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00013;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00014 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00014;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_expand_00015 = global::StocksApp.Droid.Resource.Drawable.ic_expand_00015;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_media_pause = global::StocksApp.Droid.Resource.Drawable.ic_media_pause;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_media_play = global::StocksApp.Droid.Resource.Drawable.ic_media_play;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_media_route_disabled_mono_dark = global::StocksApp.Droid.Resource.Drawable.ic_media_route_disabled_mono_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_media_route_off_mono_dark = global::StocksApp.Droid.Resource.Drawable.ic_media_route_off_mono_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_media_route_on_0_mono_dark = global::StocksApp.Droid.Resource.Drawable.ic_media_route_on_0_mono_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_media_route_on_1_mono_dark = global::StocksApp.Droid.Resource.Drawable.ic_media_route_on_1_mono_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_media_route_on_2_mono_dark = global::StocksApp.Droid.Resource.Drawable.ic_media_route_on_2_mono_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_media_route_on_mono_dark = global::StocksApp.Droid.Resource.Drawable.ic_media_route_on_mono_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_pause_dark = global::StocksApp.Droid.Resource.Drawable.ic_pause_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_pause_light = global::StocksApp.Droid.Resource.Drawable.ic_pause_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_play_dark = global::StocksApp.Droid.Resource.Drawable.ic_play_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_play_light = global::StocksApp.Droid.Resource.Drawable.ic_play_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_speaker_dark = global::StocksApp.Droid.Resource.Drawable.ic_speaker_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_speaker_group_dark = global::StocksApp.Droid.Resource.Drawable.ic_speaker_group_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_speaker_group_light = global::StocksApp.Droid.Resource.Drawable.ic_speaker_group_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_speaker_light = global::StocksApp.Droid.Resource.Drawable.ic_speaker_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_tv_dark = global::StocksApp.Droid.Resource.Drawable.ic_tv_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.ic_tv_light = global::StocksApp.Droid.Resource.Drawable.ic_tv_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_dialog_material_background_dark = global::StocksApp.Droid.Resource.Drawable.mr_dialog_material_background_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_dialog_material_background_light = global::StocksApp.Droid.Resource.Drawable.mr_dialog_material_background_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_audiotrack_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_audiotrack_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_cast_dark = global::StocksApp.Droid.Resource.Drawable.mr_ic_cast_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_cast_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_cast_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_close_dark = global::StocksApp.Droid.Resource.Drawable.mr_ic_close_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_close_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_close_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_media_route_connecting_mono_dark = global::StocksApp.Droid.Resource.Drawable.mr_ic_media_route_connecting_mono_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_media_route_connecting_mono_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_media_route_connecting_mono_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_media_route_mono_dark = global::StocksApp.Droid.Resource.Drawable.mr_ic_media_route_mono_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_media_route_mono_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_media_route_mono_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_pause_dark = global::StocksApp.Droid.Resource.Drawable.mr_ic_pause_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_pause_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_pause_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_play_dark = global::StocksApp.Droid.Resource.Drawable.mr_ic_play_dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.mr_ic_play_light = global::StocksApp.Droid.Resource.Drawable.mr_ic_play_light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.notification_template_icon_bg = global::StocksApp.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_grey = global::StocksApp.Droid.Resource.Drawable.segment_grey;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_grey_focus = global::StocksApp.Droid.Resource.Drawable.segment_grey_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_grey_press = global::StocksApp.Droid.Resource.Drawable.segment_grey_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_left_off = global::StocksApp.Droid.Resource.Drawable.segment_left_off;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_left_off_pressed = global::StocksApp.Droid.Resource.Drawable.segment_left_off_pressed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_left_on = global::StocksApp.Droid.Resource.Drawable.segment_left_on;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_middle_off = global::StocksApp.Droid.Resource.Drawable.segment_middle_off;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_middle_off_pressed = global::StocksApp.Droid.Resource.Drawable.segment_middle_off_pressed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_middle_on = global::StocksApp.Droid.Resource.Drawable.segment_middle_on;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_off = global::StocksApp.Droid.Resource.Drawable.segment_off;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_off_pressed = global::StocksApp.Droid.Resource.Drawable.segment_off_pressed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_on = global::StocksApp.Droid.Resource.Drawable.segment_on;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_left = global::StocksApp.Droid.Resource.Drawable.segment_radio_grey_left;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_left_focus = global::StocksApp.Droid.Resource.Drawable.segment_radio_grey_left_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_left_press = global::StocksApp.Droid.Resource.Drawable.segment_radio_grey_left_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_middle = global::StocksApp.Droid.Resource.Drawable.segment_radio_grey_middle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_middle_focus = global::StocksApp.Droid.Resource.Drawable.segment_radio_grey_middle_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_middle_press = global::StocksApp.Droid.Resource.Drawable.segment_radio_grey_middle_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_right = global::StocksApp.Droid.Resource.Drawable.segment_radio_grey_right;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_right_focus = global::StocksApp.Droid.Resource.Drawable.segment_radio_grey_right_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_grey_right_press = global::StocksApp.Droid.Resource.Drawable.segment_radio_grey_right_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_left = global::StocksApp.Droid.Resource.Drawable.segment_radio_white_left;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_left_focus = global::StocksApp.Droid.Resource.Drawable.segment_radio_white_left_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_left_press = global::StocksApp.Droid.Resource.Drawable.segment_radio_white_left_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_middle = global::StocksApp.Droid.Resource.Drawable.segment_radio_white_middle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_middle_focus = global::StocksApp.Droid.Resource.Drawable.segment_radio_white_middle_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_middle_press = global::StocksApp.Droid.Resource.Drawable.segment_radio_white_middle_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_right = global::StocksApp.Droid.Resource.Drawable.segment_radio_white_right;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_right_focus = global::StocksApp.Droid.Resource.Drawable.segment_radio_white_right_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_radio_white_right_press = global::StocksApp.Droid.Resource.Drawable.segment_radio_white_right_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_right_off = global::StocksApp.Droid.Resource.Drawable.segment_right_off;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_right_off_pressed = global::StocksApp.Droid.Resource.Drawable.segment_right_off_pressed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_right_on = global::StocksApp.Droid.Resource.Drawable.segment_right_on;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_white = global::StocksApp.Droid.Resource.Drawable.segment_white;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_white_focus = global::StocksApp.Droid.Resource.Drawable.segment_white_focus;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.segment_white_press = global::StocksApp.Droid.Resource.Drawable.segment_white_press;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_dark_segment_button = global::StocksApp.Droid.Resource.Drawable.theme_dark_segment_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_dark_segment_radio_left = global::StocksApp.Droid.Resource.Drawable.theme_dark_segment_radio_left;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_dark_segment_radio_middle = global::StocksApp.Droid.Resource.Drawable.theme_dark_segment_radio_middle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_dark_segment_radio_right = global::StocksApp.Droid.Resource.Drawable.theme_dark_segment_radio_right;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_default_segment_button = global::StocksApp.Droid.Resource.Drawable.theme_default_segment_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_default_segment_radio_left = global::StocksApp.Droid.Resource.Drawable.theme_default_segment_radio_left;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_default_segment_radio_middle = global::StocksApp.Droid.Resource.Drawable.theme_default_segment_radio_middle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Drawable.theme_default_segment_radio_right = global::StocksApp.Droid.Resource.Drawable.theme_default_segment_radio_right;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action0 = global::StocksApp.Droid.Resource.Id.action0;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar = global::StocksApp.Droid.Resource.Id.action_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar_activity_content = global::StocksApp.Droid.Resource.Id.action_bar_activity_content;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar_container = global::StocksApp.Droid.Resource.Id.action_bar_container;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar_root = global::StocksApp.Droid.Resource.Id.action_bar_root;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar_spinner = global::StocksApp.Droid.Resource.Id.action_bar_spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar_subtitle = global::StocksApp.Droid.Resource.Id.action_bar_subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_bar_title = global::StocksApp.Droid.Resource.Id.action_bar_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_context_bar = global::StocksApp.Droid.Resource.Id.action_context_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_divider = global::StocksApp.Droid.Resource.Id.action_divider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_menu_divider = global::StocksApp.Droid.Resource.Id.action_menu_divider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_menu_presenter = global::StocksApp.Droid.Resource.Id.action_menu_presenter;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_mode_bar = global::StocksApp.Droid.Resource.Id.action_mode_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_mode_bar_stub = global::StocksApp.Droid.Resource.Id.action_mode_bar_stub;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.action_mode_close_button = global::StocksApp.Droid.Resource.Id.action_mode_close_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.activity_chooser_view_content = global::StocksApp.Droid.Resource.Id.activity_chooser_view_content;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.alertTitle = global::StocksApp.Droid.Resource.Id.alertTitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.always = global::StocksApp.Droid.Resource.Id.always;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.beginning = global::StocksApp.Droid.Resource.Id.beginning;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.bottom = global::StocksApp.Droid.Resource.Id.bottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.buttonPanel = global::StocksApp.Droid.Resource.Id.buttonPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.cancel_action = global::StocksApp.Droid.Resource.Id.cancel_action;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.center = global::StocksApp.Droid.Resource.Id.center;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.center_horizontal = global::StocksApp.Droid.Resource.Id.center_horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.center_vertical = global::StocksApp.Droid.Resource.Id.center_vertical;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.checkbox = global::StocksApp.Droid.Resource.Id.checkbox;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.chronometer = global::StocksApp.Droid.Resource.Id.chronometer;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.clip_horizontal = global::StocksApp.Droid.Resource.Id.clip_horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.clip_vertical = global::StocksApp.Droid.Resource.Id.clip_vertical;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.collapseActionView = global::StocksApp.Droid.Resource.Id.collapseActionView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.contentPanel = global::StocksApp.Droid.Resource.Id.contentPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.custom = global::StocksApp.Droid.Resource.Id.custom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.customPanel = global::StocksApp.Droid.Resource.Id.customPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.decor_content_parent = global::StocksApp.Droid.Resource.Id.decor_content_parent;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.default_activity_button = global::StocksApp.Droid.Resource.Id.default_activity_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.design_bottom_sheet = global::StocksApp.Droid.Resource.Id.design_bottom_sheet;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.design_menu_item_action_area = global::StocksApp.Droid.Resource.Id.design_menu_item_action_area;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.design_menu_item_action_area_stub = global::StocksApp.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.design_menu_item_text = global::StocksApp.Droid.Resource.Id.design_menu_item_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.design_navigation_view = global::StocksApp.Droid.Resource.Id.design_navigation_view;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.disableHome = global::StocksApp.Droid.Resource.Id.disableHome;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.edit_query = global::StocksApp.Droid.Resource.Id.edit_query;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.end = global::StocksApp.Droid.Resource.Id.end;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.end_padder = global::StocksApp.Droid.Resource.Id.end_padder;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.enterAlways = global::StocksApp.Droid.Resource.Id.enterAlways;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.enterAlwaysCollapsed = global::StocksApp.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.exitUntilCollapsed = global::StocksApp.Droid.Resource.Id.exitUntilCollapsed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.expand_activities_button = global::StocksApp.Droid.Resource.Id.expand_activities_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.expanded_menu = global::StocksApp.Droid.Resource.Id.expanded_menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.fill = global::StocksApp.Droid.Resource.Id.fill;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.fill_horizontal = global::StocksApp.Droid.Resource.Id.fill_horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.fill_vertical = global::StocksApp.Droid.Resource.Id.fill_vertical;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.@fixed = global::StocksApp.Droid.Resource.Id.@fixed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.home = global::StocksApp.Droid.Resource.Id.home;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.homeAsUp = global::StocksApp.Droid.Resource.Id.homeAsUp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.icon = global::StocksApp.Droid.Resource.Id.icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.ifRoom = global::StocksApp.Droid.Resource.Id.ifRoom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.image = global::StocksApp.Droid.Resource.Id.image;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.info = global::StocksApp.Droid.Resource.Id.info;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.item_touch_helper_previous_elevation = global::StocksApp.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.left = global::StocksApp.Droid.Resource.Id.left;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.leftBar = global::StocksApp.Droid.Resource.Id.leftBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.line1 = global::StocksApp.Droid.Resource.Id.line1;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.line3 = global::StocksApp.Droid.Resource.Id.line3;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.listMode = global::StocksApp.Droid.Resource.Id.listMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.list_item = global::StocksApp.Droid.Resource.Id.list_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.media_actions = global::StocksApp.Droid.Resource.Id.media_actions;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.middle = global::StocksApp.Droid.Resource.Id.middle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mini = global::StocksApp.Droid.Resource.Id.mini;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_art = global::StocksApp.Droid.Resource.Id.mr_art;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_chooser_list = global::StocksApp.Droid.Resource.Id.mr_chooser_list;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_chooser_route_desc = global::StocksApp.Droid.Resource.Id.mr_chooser_route_desc;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_chooser_route_icon = global::StocksApp.Droid.Resource.Id.mr_chooser_route_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_chooser_route_name = global::StocksApp.Droid.Resource.Id.mr_chooser_route_name;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_close = global::StocksApp.Droid.Resource.Id.mr_close;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_control_divider = global::StocksApp.Droid.Resource.Id.mr_control_divider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_control_play_pause = global::StocksApp.Droid.Resource.Id.mr_control_play_pause;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_control_subtitle = global::StocksApp.Droid.Resource.Id.mr_control_subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_control_title = global::StocksApp.Droid.Resource.Id.mr_control_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_control_title_container = global::StocksApp.Droid.Resource.Id.mr_control_title_container;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_custom_control = global::StocksApp.Droid.Resource.Id.mr_custom_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_default_control = global::StocksApp.Droid.Resource.Id.mr_default_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_dialog_area = global::StocksApp.Droid.Resource.Id.mr_dialog_area;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_expandable_area = global::StocksApp.Droid.Resource.Id.mr_expandable_area;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_group_expand_collapse = global::StocksApp.Droid.Resource.Id.mr_group_expand_collapse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_media_main_control = global::StocksApp.Droid.Resource.Id.mr_media_main_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_name = global::StocksApp.Droid.Resource.Id.mr_name;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_playback_control = global::StocksApp.Droid.Resource.Id.mr_playback_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_title_bar = global::StocksApp.Droid.Resource.Id.mr_title_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_volume_control = global::StocksApp.Droid.Resource.Id.mr_volume_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_volume_group_list = global::StocksApp.Droid.Resource.Id.mr_volume_group_list;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_volume_item_icon = global::StocksApp.Droid.Resource.Id.mr_volume_item_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.mr_volume_slider = global::StocksApp.Droid.Resource.Id.mr_volume_slider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.multiply = global::StocksApp.Droid.Resource.Id.multiply;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.navigation_header_container = global::StocksApp.Droid.Resource.Id.navigation_header_container;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.never = global::StocksApp.Droid.Resource.Id.never;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.none = global::StocksApp.Droid.Resource.Id.none;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.normal = global::StocksApp.Droid.Resource.Id.normal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.parallax = global::StocksApp.Droid.Resource.Id.parallax;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.parentPanel = global::StocksApp.Droid.Resource.Id.parentPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.pin = global::StocksApp.Droid.Resource.Id.pin;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.progress_circular = global::StocksApp.Droid.Resource.Id.progress_circular;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.progress_horizontal = global::StocksApp.Droid.Resource.Id.progress_horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.radio = global::StocksApp.Droid.Resource.Id.radio;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.right = global::StocksApp.Droid.Resource.Id.right;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.rightBar = global::StocksApp.Droid.Resource.Id.rightBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.screen = global::StocksApp.Droid.Resource.Id.screen;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.scroll = global::StocksApp.Droid.Resource.Id.scroll;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.scrollIndicatorDown = global::StocksApp.Droid.Resource.Id.scrollIndicatorDown;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.scrollIndicatorUp = global::StocksApp.Droid.Resource.Id.scrollIndicatorUp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.scrollView = global::StocksApp.Droid.Resource.Id.scrollView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.scrollable = global::StocksApp.Droid.Resource.Id.scrollable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_badge = global::StocksApp.Droid.Resource.Id.search_badge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_bar = global::StocksApp.Droid.Resource.Id.search_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_button = global::StocksApp.Droid.Resource.Id.search_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_close_btn = global::StocksApp.Droid.Resource.Id.search_close_btn;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_edit_frame = global::StocksApp.Droid.Resource.Id.search_edit_frame;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_go_btn = global::StocksApp.Droid.Resource.Id.search_go_btn;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_mag_icon = global::StocksApp.Droid.Resource.Id.search_mag_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_plate = global::StocksApp.Droid.Resource.Id.search_plate;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_src_text = global::StocksApp.Droid.Resource.Id.search_src_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.search_voice_btn = global::StocksApp.Droid.Resource.Id.search_voice_btn;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.select_dialog_listview = global::StocksApp.Droid.Resource.Id.select_dialog_listview;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.shortcut = global::StocksApp.Droid.Resource.Id.shortcut;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.showCustom = global::StocksApp.Droid.Resource.Id.showCustom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.showHome = global::StocksApp.Droid.Resource.Id.showHome;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.showTitle = global::StocksApp.Droid.Resource.Id.showTitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.snackbar_action = global::StocksApp.Droid.Resource.Id.snackbar_action;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.snackbar_text = global::StocksApp.Droid.Resource.Id.snackbar_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.snap = global::StocksApp.Droid.Resource.Id.snap;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.spacer = global::StocksApp.Droid.Resource.Id.spacer;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.split_action_bar = global::StocksApp.Droid.Resource.Id.split_action_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.src_atop = global::StocksApp.Droid.Resource.Id.src_atop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.src_in = global::StocksApp.Droid.Resource.Id.src_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.src_over = global::StocksApp.Droid.Resource.Id.src_over;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.start = global::StocksApp.Droid.Resource.Id.start;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.status_bar_latest_event_content = global::StocksApp.Droid.Resource.Id.status_bar_latest_event_content;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.submit_area = global::StocksApp.Droid.Resource.Id.submit_area;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.swipetorefreshbar = global::StocksApp.Droid.Resource.Id.swipetorefreshbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.tabMode = global::StocksApp.Droid.Resource.Id.tabMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.text = global::StocksApp.Droid.Resource.Id.text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.text2 = global::StocksApp.Droid.Resource.Id.text2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.textSpacerNoButtons = global::StocksApp.Droid.Resource.Id.textSpacerNoButtons;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.time = global::StocksApp.Droid.Resource.Id.time;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.title = global::StocksApp.Droid.Resource.Id.title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.title_template = global::StocksApp.Droid.Resource.Id.title_template;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.top = global::StocksApp.Droid.Resource.Id.top;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.topPanel = global::StocksApp.Droid.Resource.Id.topPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.touch_outside = global::StocksApp.Droid.Resource.Id.touch_outside;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.up = global::StocksApp.Droid.Resource.Id.up;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.useLogo = global::StocksApp.Droid.Resource.Id.useLogo;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.view_offset_helper = global::StocksApp.Droid.Resource.Id.view_offset_helper;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.volume_item_container = global::StocksApp.Droid.Resource.Id.volume_item_container;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.withText = global::StocksApp.Droid.Resource.Id.withText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Id.wrap_content = global::StocksApp.Droid.Resource.Id.wrap_content;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.abc_config_activityDefaultDur = global::StocksApp.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.abc_config_activityShortDur = global::StocksApp.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.abc_max_action_buttons = global::StocksApp.Droid.Resource.Integer.abc_max_action_buttons;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.bottom_sheet_slide_duration = global::StocksApp.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.cancel_button_image_alpha = global::StocksApp.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.design_snackbar_text_max_lines = global::StocksApp.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::StocksApp.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::StocksApp.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::StocksApp.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Integer.status_bar_notification_info_maxnum = global::StocksApp.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Interpolator.mr_fast_out_slow_in = global::StocksApp.Droid.Resource.Interpolator.mr_fast_out_slow_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Interpolator.mr_linear_out_slow_in = global::StocksApp.Droid.Resource.Interpolator.mr_linear_out_slow_in;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_bar_title_item = global::StocksApp.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_bar_up_container = global::StocksApp.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_bar_view_list_nav_layout = global::StocksApp.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_menu_item_layout = global::StocksApp.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_menu_layout = global::StocksApp.Droid.Resource.Layout.abc_action_menu_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_mode_bar = global::StocksApp.Droid.Resource.Layout.abc_action_mode_bar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_action_mode_close_item_material = global::StocksApp.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_activity_chooser_view = global::StocksApp.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::StocksApp.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::StocksApp.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_alert_dialog_material = global::StocksApp.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_dialog_title_material = global::StocksApp.Droid.Resource.Layout.abc_dialog_title_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_expanded_menu_layout = global::StocksApp.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_list_menu_item_checkbox = global::StocksApp.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_list_menu_item_icon = global::StocksApp.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_list_menu_item_layout = global::StocksApp.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_list_menu_item_radio = global::StocksApp.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_popup_menu_item_layout = global::StocksApp.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_screen_content_include = global::StocksApp.Droid.Resource.Layout.abc_screen_content_include;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_screen_simple = global::StocksApp.Droid.Resource.Layout.abc_screen_simple;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::StocksApp.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_screen_toolbar = global::StocksApp.Droid.Resource.Layout.abc_screen_toolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::StocksApp.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_search_view = global::StocksApp.Droid.Resource.Layout.abc_search_view;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.abc_select_dialog_material = global::StocksApp.Droid.Resource.Layout.abc_select_dialog_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_bottom_sheet_dialog = global::StocksApp.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_layout_snackbar = global::StocksApp.Droid.Resource.Layout.design_layout_snackbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_layout_snackbar_include = global::StocksApp.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_layout_tab_icon = global::StocksApp.Droid.Resource.Layout.design_layout_tab_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_layout_tab_text = global::StocksApp.Droid.Resource.Layout.design_layout_tab_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_menu_item_action_area = global::StocksApp.Droid.Resource.Layout.design_menu_item_action_area;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_navigation_item = global::StocksApp.Droid.Resource.Layout.design_navigation_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_navigation_item_header = global::StocksApp.Droid.Resource.Layout.design_navigation_item_header;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_navigation_item_separator = global::StocksApp.Droid.Resource.Layout.design_navigation_item_separator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_navigation_item_subheader = global::StocksApp.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_navigation_menu = global::StocksApp.Droid.Resource.Layout.design_navigation_menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.design_navigation_menu_item = global::StocksApp.Droid.Resource.Layout.design_navigation_menu_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.mr_chooser_dialog = global::StocksApp.Droid.Resource.Layout.mr_chooser_dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.mr_chooser_list_item = global::StocksApp.Droid.Resource.Layout.mr_chooser_list_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.mr_controller_material_dialog_b = global::StocksApp.Droid.Resource.Layout.mr_controller_material_dialog_b;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.mr_controller_volume_item = global::StocksApp.Droid.Resource.Layout.mr_controller_volume_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.mr_playback_control = global::StocksApp.Droid.Resource.Layout.mr_playback_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.mr_volume_control = global::StocksApp.Droid.Resource.Layout.mr_volume_control;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_media_action = global::StocksApp.Droid.Resource.Layout.notification_media_action;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_media_cancel_action = global::StocksApp.Droid.Resource.Layout.notification_media_cancel_action;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_template_big_media = global::StocksApp.Droid.Resource.Layout.notification_template_big_media;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_template_big_media_narrow = global::StocksApp.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_template_lines = global::StocksApp.Droid.Resource.Layout.notification_template_lines;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_template_media = global::StocksApp.Droid.Resource.Layout.notification_template_media;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_template_part_chronometer = global::StocksApp.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.notification_template_part_time = global::StocksApp.Droid.Resource.Layout.notification_template_part_time;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.select_dialog_item_material = global::StocksApp.Droid.Resource.Layout.select_dialog_item_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.select_dialog_multichoice_material = global::StocksApp.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.select_dialog_singlechoice_material = global::StocksApp.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::StocksApp.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_action_bar_home_description = global::StocksApp.Droid.Resource.String.abc_action_bar_home_description;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_action_bar_home_description_format = global::StocksApp.Droid.Resource.String.abc_action_bar_home_description_format;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_action_bar_home_subtitle_description_format = global::StocksApp.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_action_bar_up_description = global::StocksApp.Droid.Resource.String.abc_action_bar_up_description;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_action_menu_overflow_description = global::StocksApp.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_action_mode_done = global::StocksApp.Droid.Resource.String.abc_action_mode_done;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_activity_chooser_view_see_all = global::StocksApp.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_activitychooserview_choose_application = global::StocksApp.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_capital_off = global::StocksApp.Droid.Resource.String.abc_capital_off;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_capital_on = global::StocksApp.Droid.Resource.String.abc_capital_on;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_search_hint = global::StocksApp.Droid.Resource.String.abc_search_hint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_searchview_description_clear = global::StocksApp.Droid.Resource.String.abc_searchview_description_clear;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_searchview_description_query = global::StocksApp.Droid.Resource.String.abc_searchview_description_query;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_searchview_description_search = global::StocksApp.Droid.Resource.String.abc_searchview_description_search;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_searchview_description_submit = global::StocksApp.Droid.Resource.String.abc_searchview_description_submit;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_searchview_description_voice = global::StocksApp.Droid.Resource.String.abc_searchview_description_voice;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_shareactionprovider_share_with = global::StocksApp.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_shareactionprovider_share_with_application = global::StocksApp.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.abc_toolbar_collapse_description = global::StocksApp.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.appbar_scrolling_view_behavior = global::StocksApp.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.bottom_sheet_behavior = global::StocksApp.Droid.Resource.String.bottom_sheet_behavior;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.character_counter_pattern = global::StocksApp.Droid.Resource.String.character_counter_pattern;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.library_name = global::StocksApp.Droid.Resource.String.library_name;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_button_content_description = global::StocksApp.Droid.Resource.String.mr_button_content_description;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_chooser_searching = global::StocksApp.Droid.Resource.String.mr_chooser_searching;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_chooser_title = global::StocksApp.Droid.Resource.String.mr_chooser_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_casting_screen = global::StocksApp.Droid.Resource.String.mr_controller_casting_screen;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_close_description = global::StocksApp.Droid.Resource.String.mr_controller_close_description;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_collapse_group = global::StocksApp.Droid.Resource.String.mr_controller_collapse_group;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_disconnect = global::StocksApp.Droid.Resource.String.mr_controller_disconnect;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_expand_group = global::StocksApp.Droid.Resource.String.mr_controller_expand_group;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_no_info_available = global::StocksApp.Droid.Resource.String.mr_controller_no_info_available;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_no_media_selected = global::StocksApp.Droid.Resource.String.mr_controller_no_media_selected;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_pause = global::StocksApp.Droid.Resource.String.mr_controller_pause;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_play = global::StocksApp.Droid.Resource.String.mr_controller_play;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_controller_stop = global::StocksApp.Droid.Resource.String.mr_controller_stop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_system_route_name = global::StocksApp.Droid.Resource.String.mr_system_route_name;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.mr_user_route_category_name = global::StocksApp.Droid.Resource.String.mr_user_route_category_name;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.String.status_bar_notification_info_overflow = global::StocksApp.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.AlertDialog_AppCompat = global::StocksApp.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.AlertDialog_AppCompat_Light = global::StocksApp.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Animation_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::StocksApp.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::StocksApp.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_AlertDialog_AppCompat = global::StocksApp.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::StocksApp.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_CardView = global::StocksApp.Droid.Resource.Style.Base_CardView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::StocksApp.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::StocksApp.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::StocksApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::StocksApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::StocksApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::StocksApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::StocksApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::StocksApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::StocksApp.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::StocksApp.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::StocksApp.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V21_Theme_AppCompat = global::StocksApp.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::StocksApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V22_Theme_AppCompat = global::StocksApp.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V23_Theme_AppCompat = global::StocksApp.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V7_Theme_AppCompat = global::StocksApp.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::StocksApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::StocksApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::StocksApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Button = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::StocksApp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Base_Widget_Design_TabLayout = global::StocksApp.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.CardView = global::StocksApp.Droid.Resource.Style.CardView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.CardView_Dark = global::StocksApp.Droid.Resource.Style.CardView_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.CardView_Light = global::StocksApp.Droid.Resource.Style.CardView_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.DarkPopupMenu = global::StocksApp.Droid.Resource.Style.DarkPopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.DarkPopupMenuTextAppearanceLarge = global::StocksApp.Droid.Resource.Style.DarkPopupMenuTextAppearanceLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.DarkPopupMenuTextAppearanceSmall = global::StocksApp.Droid.Resource.Style.DarkPopupMenuTextAppearanceSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.GridThemeDark = global::StocksApp.Droid.Resource.Style.GridThemeDark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.GridThemeLight = global::StocksApp.Droid.Resource.Style.GridThemeLight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.LightPopupMenu = global::StocksApp.Droid.Resource.Style.LightPopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.LightPopupMenuTextAppearanceLarge = global::StocksApp.Droid.Resource.Style.LightPopupMenuTextAppearanceLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.LightPopupMenuTextAppearanceSmall = global::StocksApp.Droid.Resource.Style.LightPopupMenuTextAppearanceSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_AppCompat = global::StocksApp.Droid.Resource.Style.Platform_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::StocksApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::StocksApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_V11_AppCompat = global::StocksApp.Droid.Resource.Style.Platform_V11_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_V11_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Platform_V11_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_V14_AppCompat = global::StocksApp.Droid.Resource.Style.Platform_V14_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_V14_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Platform_V14_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::StocksApp.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::StocksApp.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::StocksApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::StocksApp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::StocksApp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Button = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Large = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Small = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::StocksApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_Counter = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_Error = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_Hint = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Design_Tab = global::StocksApp.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_StatusBar_EventContent = global::StocksApp.Droid.Resource.Style.TextAppearance_StatusBar_EventContent;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::StocksApp.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::StocksApp.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::StocksApp.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::StocksApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::StocksApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::StocksApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat = global::StocksApp.Droid.Resource.Style.Theme_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Dialog = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::StocksApp.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_Design = global::StocksApp.Droid.Resource.Style.Theme_Design;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::StocksApp.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_Design_Light = global::StocksApp.Droid.Resource.Style.Theme_Design_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::StocksApp.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::StocksApp.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_Design_NoActionBar = global::StocksApp.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_MediaRouter = global::StocksApp.Droid.Resource.Style.Theme_MediaRouter;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_MediaRouter_Light = global::StocksApp.Droid.Resource.Style.Theme_MediaRouter_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::StocksApp.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Theme_MediaRouter_LightControlPanel = global::StocksApp.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.ThemeOverlay_AppCompat = global::StocksApp.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::StocksApp.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::StocksApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::StocksApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::StocksApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionButton = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActionMode = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Button = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Button_Small = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_EditText = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ImageButton = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ListView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_RatingBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_SearchView = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_SeekBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Spinner = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Toolbar = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::StocksApp.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_AppBarLayout = global::StocksApp.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::StocksApp.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::StocksApp.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_CoordinatorLayout = global::StocksApp.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_FloatingActionButton = global::StocksApp.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_NavigationView = global::StocksApp.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::StocksApp.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_Snackbar = global::StocksApp.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_TabLayout = global::StocksApp.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_Design_TextInputLayout = global::StocksApp.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ChooserText = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ChooserText_Primary = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Primary;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ChooserText_Primary_Dark = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Primary_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ChooserText_Primary_Light = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Primary_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ChooserText_Secondary = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Secondary;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ChooserText_Secondary_Dark = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Secondary_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ChooserText_Secondary_Light = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ChooserText_Secondary_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ControllerText = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ControllerText_Primary = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Primary;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ControllerText_Primary_Dark = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Primary_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ControllerText_Primary_Light = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Primary_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ControllerText_Secondary = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Secondary;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ControllerText_Secondary_Dark = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Secondary_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ControllerText_Secondary_Light = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Secondary_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ControllerText_Title = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ControllerText_Title_Dark = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Title_Dark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_ControllerText_Title_Light = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_ControllerText_Title_Light;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::StocksApp.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar = global::StocksApp.Droid.Resource.Styleable.ActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_background = global::StocksApp.Droid.Resource.Styleable.ActionBar_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_backgroundSplit = global::StocksApp.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_backgroundStacked = global::StocksApp.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::StocksApp.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::StocksApp.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_contentInsetRight = global::StocksApp.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_contentInsetStart = global::StocksApp.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::StocksApp.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_displayOptions = global::StocksApp.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_divider = global::StocksApp.Droid.Resource.Styleable.ActionBar_divider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_elevation = global::StocksApp.Droid.Resource.Styleable.ActionBar_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_height = global::StocksApp.Droid.Resource.Styleable.ActionBar_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::StocksApp.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::StocksApp.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_homeLayout = global::StocksApp.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_icon = global::StocksApp.Droid.Resource.Styleable.ActionBar_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::StocksApp.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_itemPadding = global::StocksApp.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_logo = global::StocksApp.Droid.Resource.Styleable.ActionBar_logo;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_navigationMode = global::StocksApp.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_popupTheme = global::StocksApp.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_progressBarPadding = global::StocksApp.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_progressBarStyle = global::StocksApp.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_subtitle = global::StocksApp.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::StocksApp.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_title = global::StocksApp.Droid.Resource.Styleable.ActionBar_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBar_titleTextStyle = global::StocksApp.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBarLayout = global::StocksApp.Droid.Resource.Styleable.ActionBarLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::StocksApp.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMenuItemView = global::StocksApp.Droid.Resource.Styleable.ActionMenuItemView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::StocksApp.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMenuView = global::StocksApp.Droid.Resource.Styleable.ActionMenuView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode = global::StocksApp.Droid.Resource.Styleable.ActionMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode_background = global::StocksApp.Droid.Resource.Styleable.ActionMode_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode_backgroundSplit = global::StocksApp.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode_closeItemLayout = global::StocksApp.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode_height = global::StocksApp.Droid.Resource.Styleable.ActionMode_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::StocksApp.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActionMode_titleTextStyle = global::StocksApp.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActivityChooserView = global::StocksApp.Droid.Resource.Styleable.ActivityChooserView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::StocksApp.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::StocksApp.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog = global::StocksApp.Droid.Resource.Styleable.AlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog_android_layout = global::StocksApp.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::StocksApp.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog_listItemLayout = global::StocksApp.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog_listLayout = global::StocksApp.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::StocksApp.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::StocksApp.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppBarLayout = global::StocksApp.Droid.Resource.Styleable.AppBarLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppBarLayout_android_background = global::StocksApp.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppBarLayout_elevation = global::StocksApp.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppBarLayout_expanded = global::StocksApp.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppBarLayout_LayoutParams = global::StocksApp.Droid.Resource.Styleable.AppBarLayout_LayoutParams;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollFlags = global::StocksApp.Droid.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollFlags;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollInterpolator = global::StocksApp.Droid.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollInterpolator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatImageView = global::StocksApp.Droid.Resource.Styleable.AppCompatImageView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatImageView_android_src = global::StocksApp.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::StocksApp.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTextView = global::StocksApp.Droid.Resource.Styleable.AppCompatTextView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::StocksApp.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::StocksApp.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::StocksApp.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.BottomSheetBehavior_Params = global::StocksApp.Droid.Resource.Styleable.BottomSheetBehavior_Params;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.BottomSheetBehavior_Params_behavior_hideable = global::StocksApp.Droid.Resource.Styleable.BottomSheetBehavior_Params_behavior_hideable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.BottomSheetBehavior_Params_behavior_peekHeight = global::StocksApp.Droid.Resource.Styleable.BottomSheetBehavior_Params_behavior_peekHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ButtonBarLayout = global::StocksApp.Droid.Resource.Styleable.ButtonBarLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::StocksApp.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView = global::StocksApp.Droid.Resource.Styleable.CardView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_android_minHeight = global::StocksApp.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_android_minWidth = global::StocksApp.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_cardBackgroundColor = global::StocksApp.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_cardCornerRadius = global::StocksApp.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_cardElevation = global::StocksApp.Droid.Resource.Styleable.CardView_cardElevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_cardMaxElevation = global::StocksApp.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::StocksApp.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::StocksApp.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_contentPadding = global::StocksApp.Droid.Resource.Styleable.CardView_contentPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_contentPaddingBottom = global::StocksApp.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_contentPaddingLeft = global::StocksApp.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_contentPaddingRight = global::StocksApp.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CardView_contentPaddingTop = global::StocksApp.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingAppBarLayout_LayoutParams = global::StocksApp.Droid.Resource.Styleable.CollapsingAppBarLayout_LayoutParams;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseMode = global::StocksApp.Droid.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier = global::StocksApp.Droid.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::StocksApp.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CompoundButton = global::StocksApp.Droid.Resource.Styleable.CompoundButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CompoundButton_android_button = global::StocksApp.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CompoundButton_buttonTint = global::StocksApp.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::StocksApp.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CoordinatorLayout = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CoordinatorLayout_keylines = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CoordinatorLayout_LayoutParams = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_android_layout_gravity = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_android_layout_gravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchor = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchorGravity = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchorGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_behavior = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_behavior;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_keyline = global::StocksApp.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_keyline;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DesignTheme = global::StocksApp.Droid.Resource.Styleable.DesignTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::StocksApp.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::StocksApp.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DesignTheme_textColorError = global::StocksApp.Droid.Resource.Styleable.DesignTheme_textColorError;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_color = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::StocksApp.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_elevation = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_fabSize = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::StocksApp.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ForegroundLinearLayout = global::StocksApp.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::StocksApp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::StocksApp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::StocksApp.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_divider = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::StocksApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ListPopupWindow = global::StocksApp.Droid.Resource.Styleable.ListPopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::StocksApp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::StocksApp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MediaRouteButton = global::StocksApp.Droid.Resource.Styleable.MediaRouteButton;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MediaRouteButton_android_minHeight = global::StocksApp.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MediaRouteButton_android_minWidth = global::StocksApp.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::StocksApp.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup = global::StocksApp.Droid.Resource.Styleable.MenuGroup;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::StocksApp.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup_android_enabled = global::StocksApp.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup_android_id = global::StocksApp.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::StocksApp.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::StocksApp.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuGroup_android_visible = global::StocksApp.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem = global::StocksApp.Droid.Resource.Styleable.MenuItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_actionLayout = global::StocksApp.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_actionProviderClass = global::StocksApp.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_actionViewClass = global::StocksApp.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_checkable = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_checked = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_enabled = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_icon = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_id = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_id;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_menuCategory = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_onClick = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_title = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_android_visible = global::StocksApp.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuItem_showAsAction = global::StocksApp.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView = global::StocksApp.Droid.Resource.Styleable.MenuView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_headerBackground = global::StocksApp.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::StocksApp.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_itemBackground = global::StocksApp.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::StocksApp.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::StocksApp.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_verticalDivider = global::StocksApp.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::StocksApp.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::StocksApp.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView = global::StocksApp.Droid.Resource.Styleable.NavigationView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_android_background = global::StocksApp.Droid.Resource.Styleable.NavigationView_android_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::StocksApp.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_android_maxWidth = global::StocksApp.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_elevation = global::StocksApp.Droid.Resource.Styleable.NavigationView_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_headerLayout = global::StocksApp.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_itemBackground = global::StocksApp.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_itemIconTint = global::StocksApp.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::StocksApp.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_itemTextColor = global::StocksApp.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.NavigationView_menu = global::StocksApp.Droid.Resource.Styleable.NavigationView_menu;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.PopupWindow = global::StocksApp.Droid.Resource.Styleable.PopupWindow;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::StocksApp.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::StocksApp.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.PopupWindowBackgroundState = global::StocksApp.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::StocksApp.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.RecyclerView = global::StocksApp.Droid.Resource.Styleable.RecyclerView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.RecyclerView_android_orientation = global::StocksApp.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.RecyclerView_layoutManager = global::StocksApp.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.RecyclerView_reverseLayout = global::StocksApp.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.RecyclerView_spanCount = global::StocksApp.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::StocksApp.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::StocksApp.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::StocksApp.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ScrollingViewBehavior_Params = global::StocksApp.Droid.Resource.Styleable.ScrollingViewBehavior_Params;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ScrollingViewBehavior_Params_behavior_overlapTop = global::StocksApp.Droid.Resource.Styleable.ScrollingViewBehavior_Params_behavior_overlapTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView = global::StocksApp.Droid.Resource.Styleable.SearchView;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_android_focusable = global::StocksApp.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_android_imeOptions = global::StocksApp.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_android_inputType = global::StocksApp.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_android_maxWidth = global::StocksApp.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_closeIcon = global::StocksApp.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_commitIcon = global::StocksApp.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_defaultQueryHint = global::StocksApp.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_goIcon = global::StocksApp.Droid.Resource.Styleable.SearchView_goIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::StocksApp.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_layout = global::StocksApp.Droid.Resource.Styleable.SearchView_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_queryBackground = global::StocksApp.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_queryHint = global::StocksApp.Droid.Resource.Styleable.SearchView_queryHint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_searchHintIcon = global::StocksApp.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_searchIcon = global::StocksApp.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_submitBackground = global::StocksApp.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::StocksApp.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SearchView_voiceIcon = global::StocksApp.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SnackbarLayout = global::StocksApp.Droid.Resource.Styleable.SnackbarLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::StocksApp.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SnackbarLayout_elevation = global::StocksApp.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::StocksApp.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Spinner = global::StocksApp.Droid.Resource.Styleable.Spinner;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::StocksApp.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Spinner_android_entries = global::StocksApp.Droid.Resource.Styleable.Spinner_android_entries;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Spinner_android_popupBackground = global::StocksApp.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Spinner_android_prompt = global::StocksApp.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Spinner_popupTheme = global::StocksApp.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat = global::StocksApp.Droid.Resource.Styleable.SwitchCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_android_textOff = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_android_textOn = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_android_thumb = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_showText = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_splitTrack = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_switchPadding = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.SwitchCompat_track = global::StocksApp.Droid.Resource.Styleable.SwitchCompat_track;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabItem = global::StocksApp.Droid.Resource.Styleable.TabItem;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabItem_android_icon = global::StocksApp.Droid.Resource.Styleable.TabItem_android_icon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabItem_android_layout = global::StocksApp.Droid.Resource.Styleable.TabItem_android_layout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabItem_android_text = global::StocksApp.Droid.Resource.Styleable.TabItem_android_text;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout = global::StocksApp.Droid.Resource.Styleable.TabLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabBackground = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabContentStart = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabGravity = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabMinWidth = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabMode = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabPadding = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TabLayout_tabTextColor = global::StocksApp.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance = global::StocksApp.Droid.Resource.Styleable.TextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_textColor = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_textSize = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_textStyle = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_android_typeface = global::StocksApp.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextAppearance_textAllCaps = global::StocksApp.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout = global::StocksApp.Droid.Resource.Styleable.TextInputLayout;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_android_hint = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::StocksApp.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar = global::StocksApp.Droid.Resource.Styleable.Toolbar;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_android_gravity = global::StocksApp.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_android_minHeight = global::StocksApp.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::StocksApp.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_collapseIcon = global::StocksApp.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::StocksApp.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::StocksApp.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_contentInsetRight = global::StocksApp.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_contentInsetStart = global::StocksApp.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_logo = global::StocksApp.Droid.Resource.Styleable.Toolbar_logo;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_logoDescription = global::StocksApp.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::StocksApp.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::StocksApp.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_navigationIcon = global::StocksApp.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_popupTheme = global::StocksApp.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_subtitle = global::StocksApp.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::StocksApp.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::StocksApp.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_title = global::StocksApp.Droid.Resource.Styleable.Toolbar_title;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleMarginStart = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleMarginTop = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleMargins = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.Toolbar_titleTextColor = global::StocksApp.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.View = global::StocksApp.Droid.Resource.Styleable.View;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.View_android_focusable = global::StocksApp.Droid.Resource.Styleable.View_android_focusable;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.View_android_theme = global::StocksApp.Droid.Resource.Styleable.View_android_theme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.View_paddingEnd = global::StocksApp.Droid.Resource.Styleable.View_paddingEnd;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.View_paddingStart = global::StocksApp.Droid.Resource.Styleable.View_paddingStart;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.View_theme = global::StocksApp.Droid.Resource.Styleable.View_theme;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewBackgroundHelper = global::StocksApp.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::StocksApp.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::StocksApp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::StocksApp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewStubCompat = global::StocksApp.Droid.Resource.Styleable.ViewStubCompat;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewStubCompat_android_id = global::StocksApp.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::StocksApp.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::DevExpress.Mobile.DataGrid.Android.Resource.Styleable.ViewStubCompat_android_layout = global::StocksApp.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.ApplicationName = global::StocksApp.Droid.Resource.String.ApplicationName;
+			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.Hello = global::StocksApp.Droid.Resource.String.Hello;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::StocksApp.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -1091,32 +4725,32 @@ namespace StocksApp.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0b0048
-			public const int abc_background_cache_hint_selector_material_dark = 2131427400;
+			// aapt resource value: 0x7f0b004d
+			public const int abc_background_cache_hint_selector_material_dark = 2131427405;
 			
-			// aapt resource value: 0x7f0b0049
-			public const int abc_background_cache_hint_selector_material_light = 2131427401;
+			// aapt resource value: 0x7f0b004e
+			public const int abc_background_cache_hint_selector_material_light = 2131427406;
 			
-			// aapt resource value: 0x7f0b004a
-			public const int abc_color_highlight_material = 2131427402;
+			// aapt resource value: 0x7f0b004f
+			public const int abc_color_highlight_material = 2131427407;
 			
 			// aapt resource value: 0x7f0b0004
 			public const int abc_input_method_navigation_guard = 2131427332;
 			
-			// aapt resource value: 0x7f0b004b
-			public const int abc_primary_text_disable_only_material_dark = 2131427403;
+			// aapt resource value: 0x7f0b0050
+			public const int abc_primary_text_disable_only_material_dark = 2131427408;
 			
-			// aapt resource value: 0x7f0b004c
-			public const int abc_primary_text_disable_only_material_light = 2131427404;
+			// aapt resource value: 0x7f0b0051
+			public const int abc_primary_text_disable_only_material_light = 2131427409;
 			
-			// aapt resource value: 0x7f0b004d
-			public const int abc_primary_text_material_dark = 2131427405;
+			// aapt resource value: 0x7f0b0052
+			public const int abc_primary_text_material_dark = 2131427410;
 			
-			// aapt resource value: 0x7f0b004e
-			public const int abc_primary_text_material_light = 2131427406;
+			// aapt resource value: 0x7f0b0053
+			public const int abc_primary_text_material_light = 2131427411;
 			
-			// aapt resource value: 0x7f0b004f
-			public const int abc_search_url_text = 2131427407;
+			// aapt resource value: 0x7f0b0054
+			public const int abc_search_url_text = 2131427412;
 			
 			// aapt resource value: 0x7f0b0005
 			public const int abc_search_url_text_normal = 2131427333;
@@ -1127,11 +4761,11 @@ namespace StocksApp.Droid
 			// aapt resource value: 0x7f0b0007
 			public const int abc_search_url_text_selected = 2131427335;
 			
-			// aapt resource value: 0x7f0b0050
-			public const int abc_secondary_text_material_dark = 2131427408;
+			// aapt resource value: 0x7f0b0055
+			public const int abc_secondary_text_material_dark = 2131427413;
 			
-			// aapt resource value: 0x7f0b0051
-			public const int abc_secondary_text_material_light = 2131427409;
+			// aapt resource value: 0x7f0b0056
+			public const int abc_secondary_text_material_light = 2131427414;
 			
 			// aapt resource value: 0x7f0b0008
 			public const int accent_material_dark = 2131427336;
@@ -1150,6 +4784,12 @@ namespace StocksApp.Droid
 			
 			// aapt resource value: 0x7f0b000d
 			public const int background_material_light = 2131427341;
+			
+			// aapt resource value: 0x7f0b0048
+			public const int black = 2131427400;
+			
+			// aapt resource value: 0x7f0b0049
+			public const int blue = 2131427401;
 			
 			// aapt resource value: 0x7f0b000e
 			public const int bright_foreground_disabled_material_dark = 2131427342;
@@ -1235,6 +4875,12 @@ namespace StocksApp.Droid
 			// aapt resource value: 0x7f0b001b
 			public const int foreground_material_light = 2131427355;
 			
+			// aapt resource value: 0x7f0b004c
+			public const int gray = 2131427404;
+			
+			// aapt resource value: 0x7f0b004b
+			public const int green = 2131427403;
+			
 			// aapt resource value: 0x7f0b001c
 			public const int highlighted_text_material_dark = 2131427356;
 			
@@ -1307,6 +4953,9 @@ namespace StocksApp.Droid
 			// aapt resource value: 0x7f0b0033
 			public const int primary_text_disabled_material_light = 2131427379;
 			
+			// aapt resource value: 0x7f0b004a
+			public const int red = 2131427402;
+			
 			// aapt resource value: 0x7f0b0034
 			public const int ripple_material_dark = 2131427380;
 			
@@ -1331,17 +4980,23 @@ namespace StocksApp.Droid
 			// aapt resource value: 0x7f0b003b
 			public const int switch_thumb_disabled_material_light = 2131427387;
 			
-			// aapt resource value: 0x7f0b0052
-			public const int switch_thumb_material_dark = 2131427410;
+			// aapt resource value: 0x7f0b0057
+			public const int switch_thumb_material_dark = 2131427415;
 			
-			// aapt resource value: 0x7f0b0053
-			public const int switch_thumb_material_light = 2131427411;
+			// aapt resource value: 0x7f0b0058
+			public const int switch_thumb_material_light = 2131427416;
 			
 			// aapt resource value: 0x7f0b003c
 			public const int switch_thumb_normal_material_dark = 2131427388;
 			
 			// aapt resource value: 0x7f0b003d
 			public const int switch_thumb_normal_material_light = 2131427389;
+			
+			// aapt resource value: 0x7f0b0059
+			public const int theme_dark_segmented_radio_button_text = 2131427417;
+			
+			// aapt resource value: 0x7f0b005a
+			public const int theme_default_segmented_radio_button_text = 2131427418;
 			
 			static Color()
 			{
@@ -1943,265 +5598,400 @@ namespace StocksApp.Droid
 			public const int abc_textfield_search_material = 2130837578;
 			
 			// aapt resource value: 0x7f02004b
-			public const int design_fab_background = 2130837579;
+			public const int chart = 2130837579;
 			
 			// aapt resource value: 0x7f02004c
-			public const int design_snackbar_background = 2130837580;
+			public const int design_fab_background = 2130837580;
 			
 			// aapt resource value: 0x7f02004d
-			public const int ic_audiotrack = 2130837581;
+			public const int design_snackbar_background = 2130837581;
 			
 			// aapt resource value: 0x7f02004e
-			public const int ic_audiotrack_light = 2130837582;
+			public const int ic_audiotrack = 2130837582;
 			
 			// aapt resource value: 0x7f02004f
-			public const int ic_bluetooth_grey = 2130837583;
+			public const int ic_audiotrack_light = 2130837583;
 			
 			// aapt resource value: 0x7f020050
-			public const int ic_bluetooth_white = 2130837584;
+			public const int ic_bluetooth_grey = 2130837584;
 			
 			// aapt resource value: 0x7f020051
-			public const int ic_cast_dark = 2130837585;
+			public const int ic_bluetooth_white = 2130837585;
 			
 			// aapt resource value: 0x7f020052
-			public const int ic_cast_disabled_light = 2130837586;
+			public const int ic_cast_dark = 2130837586;
 			
 			// aapt resource value: 0x7f020053
-			public const int ic_cast_grey = 2130837587;
+			public const int ic_cast_disabled_light = 2130837587;
 			
 			// aapt resource value: 0x7f020054
-			public const int ic_cast_light = 2130837588;
+			public const int ic_cast_grey = 2130837588;
 			
 			// aapt resource value: 0x7f020055
-			public const int ic_cast_off_light = 2130837589;
+			public const int ic_cast_light = 2130837589;
 			
 			// aapt resource value: 0x7f020056
-			public const int ic_cast_on_0_light = 2130837590;
+			public const int ic_cast_off_light = 2130837590;
 			
 			// aapt resource value: 0x7f020057
-			public const int ic_cast_on_1_light = 2130837591;
+			public const int ic_cast_on_0_light = 2130837591;
 			
 			// aapt resource value: 0x7f020058
-			public const int ic_cast_on_2_light = 2130837592;
+			public const int ic_cast_on_1_light = 2130837592;
 			
 			// aapt resource value: 0x7f020059
-			public const int ic_cast_on_light = 2130837593;
+			public const int ic_cast_on_2_light = 2130837593;
 			
 			// aapt resource value: 0x7f02005a
-			public const int ic_cast_white = 2130837594;
+			public const int ic_cast_on_light = 2130837594;
 			
 			// aapt resource value: 0x7f02005b
-			public const int ic_close_dark = 2130837595;
+			public const int ic_cast_white = 2130837595;
 			
 			// aapt resource value: 0x7f02005c
-			public const int ic_close_light = 2130837596;
+			public const int ic_close_dark = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int ic_collapse = 2130837597;
+			public const int ic_close_light = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int ic_collapse_00000 = 2130837598;
+			public const int ic_collapse = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int ic_collapse_00001 = 2130837599;
+			public const int ic_collapse_00000 = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int ic_collapse_00002 = 2130837600;
+			public const int ic_collapse_00001 = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int ic_collapse_00003 = 2130837601;
+			public const int ic_collapse_00002 = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int ic_collapse_00004 = 2130837602;
+			public const int ic_collapse_00003 = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int ic_collapse_00005 = 2130837603;
+			public const int ic_collapse_00004 = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int ic_collapse_00006 = 2130837604;
+			public const int ic_collapse_00005 = 2130837604;
 			
 			// aapt resource value: 0x7f020065
-			public const int ic_collapse_00007 = 2130837605;
+			public const int ic_collapse_00006 = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int ic_collapse_00008 = 2130837606;
+			public const int ic_collapse_00007 = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int ic_collapse_00009 = 2130837607;
+			public const int ic_collapse_00008 = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int ic_collapse_00010 = 2130837608;
+			public const int ic_collapse_00009 = 2130837608;
 			
 			// aapt resource value: 0x7f020069
-			public const int ic_collapse_00011 = 2130837609;
+			public const int ic_collapse_00010 = 2130837609;
 			
 			// aapt resource value: 0x7f02006a
-			public const int ic_collapse_00012 = 2130837610;
+			public const int ic_collapse_00011 = 2130837610;
 			
 			// aapt resource value: 0x7f02006b
-			public const int ic_collapse_00013 = 2130837611;
+			public const int ic_collapse_00012 = 2130837611;
 			
 			// aapt resource value: 0x7f02006c
-			public const int ic_collapse_00014 = 2130837612;
+			public const int ic_collapse_00013 = 2130837612;
 			
 			// aapt resource value: 0x7f02006d
-			public const int ic_collapse_00015 = 2130837613;
+			public const int ic_collapse_00014 = 2130837613;
 			
 			// aapt resource value: 0x7f02006e
-			public const int ic_expand = 2130837614;
+			public const int ic_collapse_00015 = 2130837614;
 			
 			// aapt resource value: 0x7f02006f
-			public const int ic_expand_00000 = 2130837615;
+			public const int ic_expand = 2130837615;
 			
 			// aapt resource value: 0x7f020070
-			public const int ic_expand_00001 = 2130837616;
+			public const int ic_expand_00000 = 2130837616;
 			
 			// aapt resource value: 0x7f020071
-			public const int ic_expand_00002 = 2130837617;
+			public const int ic_expand_00001 = 2130837617;
 			
 			// aapt resource value: 0x7f020072
-			public const int ic_expand_00003 = 2130837618;
+			public const int ic_expand_00002 = 2130837618;
 			
 			// aapt resource value: 0x7f020073
-			public const int ic_expand_00004 = 2130837619;
+			public const int ic_expand_00003 = 2130837619;
 			
 			// aapt resource value: 0x7f020074
-			public const int ic_expand_00005 = 2130837620;
+			public const int ic_expand_00004 = 2130837620;
 			
 			// aapt resource value: 0x7f020075
-			public const int ic_expand_00006 = 2130837621;
+			public const int ic_expand_00005 = 2130837621;
 			
 			// aapt resource value: 0x7f020076
-			public const int ic_expand_00007 = 2130837622;
+			public const int ic_expand_00006 = 2130837622;
 			
 			// aapt resource value: 0x7f020077
-			public const int ic_expand_00008 = 2130837623;
+			public const int ic_expand_00007 = 2130837623;
 			
 			// aapt resource value: 0x7f020078
-			public const int ic_expand_00009 = 2130837624;
+			public const int ic_expand_00008 = 2130837624;
 			
 			// aapt resource value: 0x7f020079
-			public const int ic_expand_00010 = 2130837625;
+			public const int ic_expand_00009 = 2130837625;
 			
 			// aapt resource value: 0x7f02007a
-			public const int ic_expand_00011 = 2130837626;
+			public const int ic_expand_00010 = 2130837626;
 			
 			// aapt resource value: 0x7f02007b
-			public const int ic_expand_00012 = 2130837627;
+			public const int ic_expand_00011 = 2130837627;
 			
 			// aapt resource value: 0x7f02007c
-			public const int ic_expand_00013 = 2130837628;
+			public const int ic_expand_00012 = 2130837628;
 			
 			// aapt resource value: 0x7f02007d
-			public const int ic_expand_00014 = 2130837629;
+			public const int ic_expand_00013 = 2130837629;
 			
 			// aapt resource value: 0x7f02007e
-			public const int ic_expand_00015 = 2130837630;
+			public const int ic_expand_00014 = 2130837630;
 			
 			// aapt resource value: 0x7f02007f
-			public const int ic_media_pause = 2130837631;
+			public const int ic_expand_00015 = 2130837631;
 			
 			// aapt resource value: 0x7f020080
-			public const int ic_media_play = 2130837632;
+			public const int ic_media_pause = 2130837632;
 			
 			// aapt resource value: 0x7f020081
-			public const int ic_media_route_disabled_mono_dark = 2130837633;
+			public const int ic_media_play = 2130837633;
 			
 			// aapt resource value: 0x7f020082
-			public const int ic_media_route_off_mono_dark = 2130837634;
+			public const int ic_media_route_disabled_mono_dark = 2130837634;
 			
 			// aapt resource value: 0x7f020083
-			public const int ic_media_route_on_0_mono_dark = 2130837635;
+			public const int ic_media_route_off_mono_dark = 2130837635;
 			
 			// aapt resource value: 0x7f020084
-			public const int ic_media_route_on_1_mono_dark = 2130837636;
+			public const int ic_media_route_on_0_mono_dark = 2130837636;
 			
 			// aapt resource value: 0x7f020085
-			public const int ic_media_route_on_2_mono_dark = 2130837637;
+			public const int ic_media_route_on_1_mono_dark = 2130837637;
 			
 			// aapt resource value: 0x7f020086
-			public const int ic_media_route_on_mono_dark = 2130837638;
+			public const int ic_media_route_on_2_mono_dark = 2130837638;
 			
 			// aapt resource value: 0x7f020087
-			public const int ic_pause_dark = 2130837639;
+			public const int ic_media_route_on_mono_dark = 2130837639;
 			
 			// aapt resource value: 0x7f020088
-			public const int ic_pause_light = 2130837640;
+			public const int ic_pause_dark = 2130837640;
 			
 			// aapt resource value: 0x7f020089
-			public const int ic_play_dark = 2130837641;
+			public const int ic_pause_light = 2130837641;
 			
 			// aapt resource value: 0x7f02008a
-			public const int ic_play_light = 2130837642;
+			public const int ic_play_dark = 2130837642;
 			
 			// aapt resource value: 0x7f02008b
-			public const int ic_speaker_dark = 2130837643;
+			public const int ic_play_light = 2130837643;
 			
 			// aapt resource value: 0x7f02008c
-			public const int ic_speaker_group_dark = 2130837644;
+			public const int ic_speaker_dark = 2130837644;
 			
 			// aapt resource value: 0x7f02008d
-			public const int ic_speaker_group_light = 2130837645;
+			public const int ic_speaker_group_dark = 2130837645;
 			
 			// aapt resource value: 0x7f02008e
-			public const int ic_speaker_light = 2130837646;
+			public const int ic_speaker_group_light = 2130837646;
 			
 			// aapt resource value: 0x7f02008f
-			public const int ic_tv_dark = 2130837647;
+			public const int ic_speaker_light = 2130837647;
 			
 			// aapt resource value: 0x7f020090
-			public const int ic_tv_light = 2130837648;
+			public const int ic_tv_dark = 2130837648;
 			
 			// aapt resource value: 0x7f020091
-			public const int icon = 2130837649;
+			public const int ic_tv_light = 2130837649;
 			
 			// aapt resource value: 0x7f020092
-			public const int mr_dialog_material_background_dark = 2130837650;
+			public const int icon = 2130837650;
 			
 			// aapt resource value: 0x7f020093
-			public const int mr_dialog_material_background_light = 2130837651;
+			public const int mr_dialog_material_background_dark = 2130837651;
 			
 			// aapt resource value: 0x7f020094
-			public const int mr_ic_audiotrack_light = 2130837652;
+			public const int mr_dialog_material_background_light = 2130837652;
 			
 			// aapt resource value: 0x7f020095
-			public const int mr_ic_cast_dark = 2130837653;
+			public const int mr_ic_audiotrack_light = 2130837653;
 			
 			// aapt resource value: 0x7f020096
-			public const int mr_ic_cast_light = 2130837654;
+			public const int mr_ic_cast_dark = 2130837654;
 			
 			// aapt resource value: 0x7f020097
-			public const int mr_ic_close_dark = 2130837655;
+			public const int mr_ic_cast_light = 2130837655;
 			
 			// aapt resource value: 0x7f020098
-			public const int mr_ic_close_light = 2130837656;
+			public const int mr_ic_close_dark = 2130837656;
 			
 			// aapt resource value: 0x7f020099
-			public const int mr_ic_media_route_connecting_mono_dark = 2130837657;
+			public const int mr_ic_close_light = 2130837657;
 			
 			// aapt resource value: 0x7f02009a
-			public const int mr_ic_media_route_connecting_mono_light = 2130837658;
+			public const int mr_ic_media_route_connecting_mono_dark = 2130837658;
 			
 			// aapt resource value: 0x7f02009b
-			public const int mr_ic_media_route_mono_dark = 2130837659;
+			public const int mr_ic_media_route_connecting_mono_light = 2130837659;
 			
 			// aapt resource value: 0x7f02009c
-			public const int mr_ic_media_route_mono_light = 2130837660;
+			public const int mr_ic_media_route_mono_dark = 2130837660;
 			
 			// aapt resource value: 0x7f02009d
-			public const int mr_ic_pause_dark = 2130837661;
+			public const int mr_ic_media_route_mono_light = 2130837661;
 			
 			// aapt resource value: 0x7f02009e
-			public const int mr_ic_pause_light = 2130837662;
+			public const int mr_ic_pause_dark = 2130837662;
 			
 			// aapt resource value: 0x7f02009f
-			public const int mr_ic_play_dark = 2130837663;
+			public const int mr_ic_pause_light = 2130837663;
 			
 			// aapt resource value: 0x7f0200a0
-			public const int mr_ic_play_light = 2130837664;
+			public const int mr_ic_play_dark = 2130837664;
 			
 			// aapt resource value: 0x7f0200a1
-			public const int notification_template_icon_bg = 2130837665;
+			public const int mr_ic_play_light = 2130837665;
+			
+			// aapt resource value: 0x7f0200ce
+			public const int notification_template_icon_bg = 2130837710;
+			
+			// aapt resource value: 0x7f0200a2
+			public const int segment_grey = 2130837666;
+			
+			// aapt resource value: 0x7f0200a3
+			public const int segment_grey_focus = 2130837667;
+			
+			// aapt resource value: 0x7f0200a4
+			public const int segment_grey_press = 2130837668;
+			
+			// aapt resource value: 0x7f0200a5
+			public const int segment_left_off = 2130837669;
+			
+			// aapt resource value: 0x7f0200a6
+			public const int segment_left_off_pressed = 2130837670;
+			
+			// aapt resource value: 0x7f0200a7
+			public const int segment_left_on = 2130837671;
+			
+			// aapt resource value: 0x7f0200a8
+			public const int segment_middle_off = 2130837672;
+			
+			// aapt resource value: 0x7f0200a9
+			public const int segment_middle_off_pressed = 2130837673;
+			
+			// aapt resource value: 0x7f0200aa
+			public const int segment_middle_on = 2130837674;
+			
+			// aapt resource value: 0x7f0200ab
+			public const int segment_off = 2130837675;
+			
+			// aapt resource value: 0x7f0200ac
+			public const int segment_off_pressed = 2130837676;
+			
+			// aapt resource value: 0x7f0200ad
+			public const int segment_on = 2130837677;
+			
+			// aapt resource value: 0x7f0200ae
+			public const int segment_radio_grey_left = 2130837678;
+			
+			// aapt resource value: 0x7f0200af
+			public const int segment_radio_grey_left_focus = 2130837679;
+			
+			// aapt resource value: 0x7f0200b0
+			public const int segment_radio_grey_left_press = 2130837680;
+			
+			// aapt resource value: 0x7f0200b1
+			public const int segment_radio_grey_middle = 2130837681;
+			
+			// aapt resource value: 0x7f0200b2
+			public const int segment_radio_grey_middle_focus = 2130837682;
+			
+			// aapt resource value: 0x7f0200b3
+			public const int segment_radio_grey_middle_press = 2130837683;
+			
+			// aapt resource value: 0x7f0200b4
+			public const int segment_radio_grey_right = 2130837684;
+			
+			// aapt resource value: 0x7f0200b5
+			public const int segment_radio_grey_right_focus = 2130837685;
+			
+			// aapt resource value: 0x7f0200b6
+			public const int segment_radio_grey_right_press = 2130837686;
+			
+			// aapt resource value: 0x7f0200b7
+			public const int segment_radio_white_left = 2130837687;
+			
+			// aapt resource value: 0x7f0200b8
+			public const int segment_radio_white_left_focus = 2130837688;
+			
+			// aapt resource value: 0x7f0200b9
+			public const int segment_radio_white_left_press = 2130837689;
+			
+			// aapt resource value: 0x7f0200ba
+			public const int segment_radio_white_middle = 2130837690;
+			
+			// aapt resource value: 0x7f0200bb
+			public const int segment_radio_white_middle_focus = 2130837691;
+			
+			// aapt resource value: 0x7f0200bc
+			public const int segment_radio_white_middle_press = 2130837692;
+			
+			// aapt resource value: 0x7f0200bd
+			public const int segment_radio_white_right = 2130837693;
+			
+			// aapt resource value: 0x7f0200be
+			public const int segment_radio_white_right_focus = 2130837694;
+			
+			// aapt resource value: 0x7f0200bf
+			public const int segment_radio_white_right_press = 2130837695;
+			
+			// aapt resource value: 0x7f0200c0
+			public const int segment_right_off = 2130837696;
+			
+			// aapt resource value: 0x7f0200c1
+			public const int segment_right_off_pressed = 2130837697;
+			
+			// aapt resource value: 0x7f0200c2
+			public const int segment_right_on = 2130837698;
+			
+			// aapt resource value: 0x7f0200c3
+			public const int segment_white = 2130837699;
+			
+			// aapt resource value: 0x7f0200c4
+			public const int segment_white_focus = 2130837700;
+			
+			// aapt resource value: 0x7f0200c5
+			public const int segment_white_press = 2130837701;
+			
+			// aapt resource value: 0x7f0200c6
+			public const int theme_dark_segment_button = 2130837702;
+			
+			// aapt resource value: 0x7f0200c7
+			public const int theme_dark_segment_radio_left = 2130837703;
+			
+			// aapt resource value: 0x7f0200c8
+			public const int theme_dark_segment_radio_middle = 2130837704;
+			
+			// aapt resource value: 0x7f0200c9
+			public const int theme_dark_segment_radio_right = 2130837705;
+			
+			// aapt resource value: 0x7f0200ca
+			public const int theme_default_segment_button = 2130837706;
+			
+			// aapt resource value: 0x7f0200cb
+			public const int theme_default_segment_radio_left = 2130837707;
+			
+			// aapt resource value: 0x7f0200cc
+			public const int theme_default_segment_radio_middle = 2130837708;
+			
+			// aapt resource value: 0x7f0200cd
+			public const int theme_default_segment_radio_right = 2130837709;
 			
 			static Drawable()
 			{
@@ -2216,35 +6006,35 @@ namespace StocksApp.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f07008b
-			public const int action0 = 2131165323;
+			// aapt resource value: 0x7f07008e
+			public const int action0 = 2131165326;
 			
-			// aapt resource value: 0x7f07005a
-			public const int action_bar = 2131165274;
+			// aapt resource value: 0x7f07005d
+			public const int action_bar = 2131165277;
 			
 			// aapt resource value: 0x7f070001
 			public const int action_bar_activity_content = 2131165185;
 			
-			// aapt resource value: 0x7f070059
-			public const int action_bar_container = 2131165273;
+			// aapt resource value: 0x7f07005c
+			public const int action_bar_container = 2131165276;
 			
-			// aapt resource value: 0x7f070055
-			public const int action_bar_root = 2131165269;
+			// aapt resource value: 0x7f070058
+			public const int action_bar_root = 2131165272;
 			
 			// aapt resource value: 0x7f070002
 			public const int action_bar_spinner = 2131165186;
 			
-			// aapt resource value: 0x7f07003b
-			public const int action_bar_subtitle = 2131165243;
+			// aapt resource value: 0x7f07003e
+			public const int action_bar_subtitle = 2131165246;
 			
-			// aapt resource value: 0x7f07003a
-			public const int action_bar_title = 2131165242;
+			// aapt resource value: 0x7f07003d
+			public const int action_bar_title = 2131165245;
 			
-			// aapt resource value: 0x7f07005b
-			public const int action_context_bar = 2131165275;
+			// aapt resource value: 0x7f07005e
+			public const int action_context_bar = 2131165278;
 			
-			// aapt resource value: 0x7f07008f
-			public const int action_divider = 2131165327;
+			// aapt resource value: 0x7f070092
+			public const int action_divider = 2131165330;
 			
 			// aapt resource value: 0x7f070003
 			public const int action_menu_divider = 2131165187;
@@ -2252,269 +6042,272 @@ namespace StocksApp.Droid
 			// aapt resource value: 0x7f070004
 			public const int action_menu_presenter = 2131165188;
 			
-			// aapt resource value: 0x7f070057
-			public const int action_mode_bar = 2131165271;
+			// aapt resource value: 0x7f07005a
+			public const int action_mode_bar = 2131165274;
 			
-			// aapt resource value: 0x7f070056
-			public const int action_mode_bar_stub = 2131165270;
+			// aapt resource value: 0x7f070059
+			public const int action_mode_bar_stub = 2131165273;
 			
-			// aapt resource value: 0x7f07003c
-			public const int action_mode_close_button = 2131165244;
-			
-			// aapt resource value: 0x7f07003d
-			public const int activity_chooser_view_content = 2131165245;
-			
-			// aapt resource value: 0x7f070049
-			public const int alertTitle = 2131165257;
-			
-			// aapt resource value: 0x7f07001e
-			public const int always = 2131165214;
-			
-			// aapt resource value: 0x7f07001b
-			public const int beginning = 2131165211;
-			
-			// aapt resource value: 0x7f07002a
-			public const int bottom = 2131165226;
-			
-			// aapt resource value: 0x7f070044
-			public const int buttonPanel = 2131165252;
-			
-			// aapt resource value: 0x7f07008c
-			public const int cancel_action = 2131165324;
-			
-			// aapt resource value: 0x7f07002b
-			public const int center = 2131165227;
-			
-			// aapt resource value: 0x7f07002c
-			public const int center_horizontal = 2131165228;
-			
-			// aapt resource value: 0x7f07002d
-			public const int center_vertical = 2131165229;
-			
-			// aapt resource value: 0x7f070052
-			public const int checkbox = 2131165266;
-			
-			// aapt resource value: 0x7f070092
-			public const int chronometer = 2131165330;
-			
-			// aapt resource value: 0x7f070033
-			public const int clip_horizontal = 2131165235;
-			
-			// aapt resource value: 0x7f070034
-			public const int clip_vertical = 2131165236;
-			
-			// aapt resource value: 0x7f07001f
-			public const int collapseActionView = 2131165215;
-			
-			// aapt resource value: 0x7f07004a
-			public const int contentPanel = 2131165258;
-			
-			// aapt resource value: 0x7f070050
-			public const int custom = 2131165264;
-			
-			// aapt resource value: 0x7f07004f
-			public const int customPanel = 2131165263;
-			
-			// aapt resource value: 0x7f070058
-			public const int decor_content_parent = 2131165272;
+			// aapt resource value: 0x7f07003f
+			public const int action_mode_close_button = 2131165247;
 			
 			// aapt resource value: 0x7f070040
-			public const int default_activity_button = 2131165248;
+			public const int activity_chooser_view_content = 2131165248;
 			
-			// aapt resource value: 0x7f07006a
-			public const int design_bottom_sheet = 2131165290;
+			// aapt resource value: 0x7f07004c
+			public const int alertTitle = 2131165260;
 			
-			// aapt resource value: 0x7f070071
-			public const int design_menu_item_action_area = 2131165297;
+			// aapt resource value: 0x7f070021
+			public const int always = 2131165217;
 			
-			// aapt resource value: 0x7f070070
-			public const int design_menu_item_action_area_stub = 2131165296;
+			// aapt resource value: 0x7f07001e
+			public const int beginning = 2131165214;
 			
-			// aapt resource value: 0x7f07006f
-			public const int design_menu_item_text = 2131165295;
+			// aapt resource value: 0x7f07002d
+			public const int bottom = 2131165229;
 			
-			// aapt resource value: 0x7f07006e
-			public const int design_navigation_view = 2131165294;
+			// aapt resource value: 0x7f070047
+			public const int buttonPanel = 2131165255;
 			
-			// aapt resource value: 0x7f07000e
-			public const int disableHome = 2131165198;
-			
-			// aapt resource value: 0x7f07005c
-			public const int edit_query = 2131165276;
-			
-			// aapt resource value: 0x7f07001c
-			public const int end = 2131165212;
-			
-			// aapt resource value: 0x7f070097
-			public const int end_padder = 2131165335;
-			
-			// aapt resource value: 0x7f070023
-			public const int enterAlways = 2131165219;
-			
-			// aapt resource value: 0x7f070024
-			public const int enterAlwaysCollapsed = 2131165220;
-			
-			// aapt resource value: 0x7f070025
-			public const int exitUntilCollapsed = 2131165221;
-			
-			// aapt resource value: 0x7f07003e
-			public const int expand_activities_button = 2131165246;
-			
-			// aapt resource value: 0x7f070051
-			public const int expanded_menu = 2131165265;
-			
-			// aapt resource value: 0x7f070035
-			public const int fill = 2131165237;
-			
-			// aapt resource value: 0x7f070036
-			public const int fill_horizontal = 2131165238;
+			// aapt resource value: 0x7f07008f
+			public const int cancel_action = 2131165327;
 			
 			// aapt resource value: 0x7f07002e
-			public const int fill_vertical = 2131165230;
+			public const int center = 2131165230;
+			
+			// aapt resource value: 0x7f07002f
+			public const int center_horizontal = 2131165231;
+			
+			// aapt resource value: 0x7f070030
+			public const int center_vertical = 2131165232;
+			
+			// aapt resource value: 0x7f070055
+			public const int checkbox = 2131165269;
+			
+			// aapt resource value: 0x7f070095
+			public const int chronometer = 2131165333;
+			
+			// aapt resource value: 0x7f070036
+			public const int clip_horizontal = 2131165238;
+			
+			// aapt resource value: 0x7f070037
+			public const int clip_vertical = 2131165239;
+			
+			// aapt resource value: 0x7f070022
+			public const int collapseActionView = 2131165218;
+			
+			// aapt resource value: 0x7f07004d
+			public const int contentPanel = 2131165261;
+			
+			// aapt resource value: 0x7f070053
+			public const int custom = 2131165267;
+			
+			// aapt resource value: 0x7f070052
+			public const int customPanel = 2131165266;
+			
+			// aapt resource value: 0x7f07005b
+			public const int decor_content_parent = 2131165275;
+			
+			// aapt resource value: 0x7f070043
+			public const int default_activity_button = 2131165251;
+			
+			// aapt resource value: 0x7f07006d
+			public const int design_bottom_sheet = 2131165293;
+			
+			// aapt resource value: 0x7f070074
+			public const int design_menu_item_action_area = 2131165300;
+			
+			// aapt resource value: 0x7f070073
+			public const int design_menu_item_action_area_stub = 2131165299;
+			
+			// aapt resource value: 0x7f070072
+			public const int design_menu_item_text = 2131165298;
+			
+			// aapt resource value: 0x7f070071
+			public const int design_navigation_view = 2131165297;
+			
+			// aapt resource value: 0x7f070011
+			public const int disableHome = 2131165201;
+			
+			// aapt resource value: 0x7f07005f
+			public const int edit_query = 2131165279;
+			
+			// aapt resource value: 0x7f07001f
+			public const int end = 2131165215;
+			
+			// aapt resource value: 0x7f07009a
+			public const int end_padder = 2131165338;
+			
+			// aapt resource value: 0x7f070026
+			public const int enterAlways = 2131165222;
+			
+			// aapt resource value: 0x7f070027
+			public const int enterAlwaysCollapsed = 2131165223;
+			
+			// aapt resource value: 0x7f070028
+			public const int exitUntilCollapsed = 2131165224;
+			
+			// aapt resource value: 0x7f070041
+			public const int expand_activities_button = 2131165249;
+			
+			// aapt resource value: 0x7f070054
+			public const int expanded_menu = 2131165268;
 			
 			// aapt resource value: 0x7f070038
-			public const int @fixed = 2131165240;
+			public const int fill = 2131165240;
+			
+			// aapt resource value: 0x7f070039
+			public const int fill_horizontal = 2131165241;
+			
+			// aapt resource value: 0x7f070031
+			public const int fill_vertical = 2131165233;
+			
+			// aapt resource value: 0x7f07003b
+			public const int @fixed = 2131165243;
 			
 			// aapt resource value: 0x7f070005
 			public const int home = 2131165189;
 			
-			// aapt resource value: 0x7f07000f
-			public const int homeAsUp = 2131165199;
+			// aapt resource value: 0x7f070012
+			public const int homeAsUp = 2131165202;
+			
+			// aapt resource value: 0x7f070045
+			public const int icon = 2131165253;
+			
+			// aapt resource value: 0x7f070023
+			public const int ifRoom = 2131165219;
 			
 			// aapt resource value: 0x7f070042
-			public const int icon = 2131165250;
+			public const int image = 2131165250;
 			
-			// aapt resource value: 0x7f070020
-			public const int ifRoom = 2131165216;
-			
-			// aapt resource value: 0x7f07003f
-			public const int image = 2131165247;
-			
-			// aapt resource value: 0x7f070096
-			public const int info = 2131165334;
+			// aapt resource value: 0x7f070099
+			public const int info = 2131165337;
 			
 			// aapt resource value: 0x7f070000
 			public const int item_touch_helper_previous_elevation = 2131165184;
 			
-			// aapt resource value: 0x7f07002f
-			public const int left = 2131165231;
-			
-			// aapt resource value: 0x7f070090
-			public const int line1 = 2131165328;
-			
-			// aapt resource value: 0x7f070094
-			public const int line3 = 2131165332;
-			
-			// aapt resource value: 0x7f07000b
-			public const int listMode = 2131165195;
-			
-			// aapt resource value: 0x7f070041
-			public const int list_item = 2131165249;
-			
-			// aapt resource value: 0x7f07008e
-			public const int media_actions = 2131165326;
-			
-			// aapt resource value: 0x7f07001d
-			public const int middle = 2131165213;
-			
-			// aapt resource value: 0x7f070037
-			public const int mini = 2131165239;
-			
-			// aapt resource value: 0x7f07007d
-			public const int mr_art = 2131165309;
-			
-			// aapt resource value: 0x7f070072
-			public const int mr_chooser_list = 2131165298;
-			
-			// aapt resource value: 0x7f070075
-			public const int mr_chooser_route_desc = 2131165301;
-			
-			// aapt resource value: 0x7f070073
-			public const int mr_chooser_route_icon = 2131165299;
-			
-			// aapt resource value: 0x7f070074
-			public const int mr_chooser_route_name = 2131165300;
-			
-			// aapt resource value: 0x7f07007a
-			public const int mr_close = 2131165306;
-			
-			// aapt resource value: 0x7f070080
-			public const int mr_control_divider = 2131165312;
-			
-			// aapt resource value: 0x7f070086
-			public const int mr_control_play_pause = 2131165318;
-			
-			// aapt resource value: 0x7f070089
-			public const int mr_control_subtitle = 2131165321;
-			
-			// aapt resource value: 0x7f070088
-			public const int mr_control_title = 2131165320;
-			
-			// aapt resource value: 0x7f070087
-			public const int mr_control_title_container = 2131165319;
-			
-			// aapt resource value: 0x7f07007b
-			public const int mr_custom_control = 2131165307;
-			
-			// aapt resource value: 0x7f07007c
-			public const int mr_default_control = 2131165308;
-			
-			// aapt resource value: 0x7f070077
-			public const int mr_dialog_area = 2131165303;
-			
-			// aapt resource value: 0x7f070076
-			public const int mr_expandable_area = 2131165302;
-			
-			// aapt resource value: 0x7f07008a
-			public const int mr_group_expand_collapse = 2131165322;
-			
-			// aapt resource value: 0x7f07007e
-			public const int mr_media_main_control = 2131165310;
-			
-			// aapt resource value: 0x7f070079
-			public const int mr_name = 2131165305;
-			
-			// aapt resource value: 0x7f07007f
-			public const int mr_playback_control = 2131165311;
-			
-			// aapt resource value: 0x7f070078
-			public const int mr_title_bar = 2131165304;
-			
-			// aapt resource value: 0x7f070081
-			public const int mr_volume_control = 2131165313;
-			
-			// aapt resource value: 0x7f070082
-			public const int mr_volume_group_list = 2131165314;
-			
-			// aapt resource value: 0x7f070084
-			public const int mr_volume_item_icon = 2131165316;
-			
-			// aapt resource value: 0x7f070085
-			public const int mr_volume_slider = 2131165317;
-			
-			// aapt resource value: 0x7f070016
-			public const int multiply = 2131165206;
-			
-			// aapt resource value: 0x7f07006d
-			public const int navigation_header_container = 2131165293;
-			
-			// aapt resource value: 0x7f070021
-			public const int never = 2131165217;
-			
-			// aapt resource value: 0x7f070010
-			public const int none = 2131165200;
+			// aapt resource value: 0x7f070032
+			public const int left = 2131165234;
 			
 			// aapt resource value: 0x7f07000c
-			public const int normal = 2131165196;
+			public const int leftBar = 2131165196;
 			
-			// aapt resource value: 0x7f070028
-			public const int parallax = 2131165224;
+			// aapt resource value: 0x7f070093
+			public const int line1 = 2131165331;
 			
-			// aapt resource value: 0x7f070046
-			public const int parentPanel = 2131165254;
+			// aapt resource value: 0x7f070097
+			public const int line3 = 2131165335;
 			
-			// aapt resource value: 0x7f070029
-			public const int pin = 2131165225;
+			// aapt resource value: 0x7f07000e
+			public const int listMode = 2131165198;
+			
+			// aapt resource value: 0x7f070044
+			public const int list_item = 2131165252;
+			
+			// aapt resource value: 0x7f070091
+			public const int media_actions = 2131165329;
+			
+			// aapt resource value: 0x7f070020
+			public const int middle = 2131165216;
+			
+			// aapt resource value: 0x7f07003a
+			public const int mini = 2131165242;
+			
+			// aapt resource value: 0x7f070080
+			public const int mr_art = 2131165312;
+			
+			// aapt resource value: 0x7f070075
+			public const int mr_chooser_list = 2131165301;
+			
+			// aapt resource value: 0x7f070078
+			public const int mr_chooser_route_desc = 2131165304;
+			
+			// aapt resource value: 0x7f070076
+			public const int mr_chooser_route_icon = 2131165302;
+			
+			// aapt resource value: 0x7f070077
+			public const int mr_chooser_route_name = 2131165303;
+			
+			// aapt resource value: 0x7f07007d
+			public const int mr_close = 2131165309;
+			
+			// aapt resource value: 0x7f070083
+			public const int mr_control_divider = 2131165315;
+			
+			// aapt resource value: 0x7f070089
+			public const int mr_control_play_pause = 2131165321;
+			
+			// aapt resource value: 0x7f07008c
+			public const int mr_control_subtitle = 2131165324;
+			
+			// aapt resource value: 0x7f07008b
+			public const int mr_control_title = 2131165323;
+			
+			// aapt resource value: 0x7f07008a
+			public const int mr_control_title_container = 2131165322;
+			
+			// aapt resource value: 0x7f07007e
+			public const int mr_custom_control = 2131165310;
+			
+			// aapt resource value: 0x7f07007f
+			public const int mr_default_control = 2131165311;
+			
+			// aapt resource value: 0x7f07007a
+			public const int mr_dialog_area = 2131165306;
+			
+			// aapt resource value: 0x7f070079
+			public const int mr_expandable_area = 2131165305;
+			
+			// aapt resource value: 0x7f07008d
+			public const int mr_group_expand_collapse = 2131165325;
+			
+			// aapt resource value: 0x7f070081
+			public const int mr_media_main_control = 2131165313;
+			
+			// aapt resource value: 0x7f07007c
+			public const int mr_name = 2131165308;
+			
+			// aapt resource value: 0x7f070082
+			public const int mr_playback_control = 2131165314;
+			
+			// aapt resource value: 0x7f07007b
+			public const int mr_title_bar = 2131165307;
+			
+			// aapt resource value: 0x7f070084
+			public const int mr_volume_control = 2131165316;
+			
+			// aapt resource value: 0x7f070085
+			public const int mr_volume_group_list = 2131165317;
+			
+			// aapt resource value: 0x7f070087
+			public const int mr_volume_item_icon = 2131165319;
+			
+			// aapt resource value: 0x7f070088
+			public const int mr_volume_slider = 2131165320;
+			
+			// aapt resource value: 0x7f070019
+			public const int multiply = 2131165209;
+			
+			// aapt resource value: 0x7f070070
+			public const int navigation_header_container = 2131165296;
+			
+			// aapt resource value: 0x7f070024
+			public const int never = 2131165220;
+			
+			// aapt resource value: 0x7f070013
+			public const int none = 2131165203;
+			
+			// aapt resource value: 0x7f07000f
+			public const int normal = 2131165199;
+			
+			// aapt resource value: 0x7f07002b
+			public const int parallax = 2131165227;
+			
+			// aapt resource value: 0x7f070049
+			public const int parentPanel = 2131165257;
+			
+			// aapt resource value: 0x7f07002c
+			public const int pin = 2131165228;
 			
 			// aapt resource value: 0x7f070006
 			public const int progress_circular = 2131165190;
@@ -2522,161 +6315,167 @@ namespace StocksApp.Droid
 			// aapt resource value: 0x7f070007
 			public const int progress_horizontal = 2131165191;
 			
-			// aapt resource value: 0x7f070054
-			public const int radio = 2131165268;
+			// aapt resource value: 0x7f070057
+			public const int radio = 2131165271;
 			
-			// aapt resource value: 0x7f070030
-			public const int right = 2131165232;
+			// aapt resource value: 0x7f070033
+			public const int right = 2131165235;
 			
-			// aapt resource value: 0x7f070017
-			public const int screen = 2131165207;
+			// aapt resource value: 0x7f07000d
+			public const int rightBar = 2131165197;
 			
-			// aapt resource value: 0x7f070026
-			public const int scroll = 2131165222;
+			// aapt resource value: 0x7f07001a
+			public const int screen = 2131165210;
+			
+			// aapt resource value: 0x7f070029
+			public const int scroll = 2131165225;
+			
+			// aapt resource value: 0x7f070051
+			public const int scrollIndicatorDown = 2131165265;
 			
 			// aapt resource value: 0x7f07004e
-			public const int scrollIndicatorDown = 2131165262;
+			public const int scrollIndicatorUp = 2131165262;
 			
-			// aapt resource value: 0x7f07004b
-			public const int scrollIndicatorUp = 2131165259;
+			// aapt resource value: 0x7f07004f
+			public const int scrollView = 2131165263;
 			
-			// aapt resource value: 0x7f07004c
-			public const int scrollView = 2131165260;
-			
-			// aapt resource value: 0x7f070039
-			public const int scrollable = 2131165241;
-			
-			// aapt resource value: 0x7f07005e
-			public const int search_badge = 2131165278;
-			
-			// aapt resource value: 0x7f07005d
-			public const int search_bar = 2131165277;
-			
-			// aapt resource value: 0x7f07005f
-			public const int search_button = 2131165279;
-			
-			// aapt resource value: 0x7f070064
-			public const int search_close_btn = 2131165284;
-			
-			// aapt resource value: 0x7f070060
-			public const int search_edit_frame = 2131165280;
-			
-			// aapt resource value: 0x7f070066
-			public const int search_go_btn = 2131165286;
+			// aapt resource value: 0x7f07003c
+			public const int scrollable = 2131165244;
 			
 			// aapt resource value: 0x7f070061
-			public const int search_mag_icon = 2131165281;
+			public const int search_badge = 2131165281;
+			
+			// aapt resource value: 0x7f070060
+			public const int search_bar = 2131165280;
 			
 			// aapt resource value: 0x7f070062
-			public const int search_plate = 2131165282;
-			
-			// aapt resource value: 0x7f070063
-			public const int search_src_text = 2131165283;
+			public const int search_button = 2131165282;
 			
 			// aapt resource value: 0x7f070067
-			public const int search_voice_btn = 2131165287;
+			public const int search_close_btn = 2131165287;
 			
-			// aapt resource value: 0x7f070068
-			public const int select_dialog_listview = 2131165288;
+			// aapt resource value: 0x7f070063
+			public const int search_edit_frame = 2131165283;
 			
-			// aapt resource value: 0x7f070053
-			public const int shortcut = 2131165267;
+			// aapt resource value: 0x7f070069
+			public const int search_go_btn = 2131165289;
 			
-			// aapt resource value: 0x7f070011
-			public const int showCustom = 2131165201;
+			// aapt resource value: 0x7f070064
+			public const int search_mag_icon = 2131165284;
 			
-			// aapt resource value: 0x7f070012
-			public const int showHome = 2131165202;
+			// aapt resource value: 0x7f070065
+			public const int search_plate = 2131165285;
 			
-			// aapt resource value: 0x7f070013
-			public const int showTitle = 2131165203;
+			// aapt resource value: 0x7f070066
+			public const int search_src_text = 2131165286;
 			
-			// aapt resource value: 0x7f070098
-			public const int sliding_tabs = 2131165336;
-			
-			// aapt resource value: 0x7f07006c
-			public const int snackbar_action = 2131165292;
+			// aapt resource value: 0x7f07006a
+			public const int search_voice_btn = 2131165290;
 			
 			// aapt resource value: 0x7f07006b
-			public const int snackbar_text = 2131165291;
+			public const int select_dialog_listview = 2131165291;
 			
-			// aapt resource value: 0x7f070027
-			public const int snap = 2131165223;
+			// aapt resource value: 0x7f070056
+			public const int shortcut = 2131165270;
 			
-			// aapt resource value: 0x7f070045
-			public const int spacer = 2131165253;
+			// aapt resource value: 0x7f070014
+			public const int showCustom = 2131165204;
+			
+			// aapt resource value: 0x7f070015
+			public const int showHome = 2131165205;
+			
+			// aapt resource value: 0x7f070016
+			public const int showTitle = 2131165206;
+			
+			// aapt resource value: 0x7f07009b
+			public const int sliding_tabs = 2131165339;
+			
+			// aapt resource value: 0x7f07006f
+			public const int snackbar_action = 2131165295;
+			
+			// aapt resource value: 0x7f07006e
+			public const int snackbar_text = 2131165294;
+			
+			// aapt resource value: 0x7f07002a
+			public const int snap = 2131165226;
+			
+			// aapt resource value: 0x7f070048
+			public const int spacer = 2131165256;
 			
 			// aapt resource value: 0x7f070008
 			public const int split_action_bar = 2131165192;
 			
-			// aapt resource value: 0x7f070018
-			public const int src_atop = 2131165208;
+			// aapt resource value: 0x7f07001b
+			public const int src_atop = 2131165211;
 			
-			// aapt resource value: 0x7f070019
-			public const int src_in = 2131165209;
+			// aapt resource value: 0x7f07001c
+			public const int src_in = 2131165212;
 			
-			// aapt resource value: 0x7f07001a
-			public const int src_over = 2131165210;
+			// aapt resource value: 0x7f07001d
+			public const int src_over = 2131165213;
 			
-			// aapt resource value: 0x7f070031
-			public const int start = 2131165233;
+			// aapt resource value: 0x7f070034
+			public const int start = 2131165236;
 			
-			// aapt resource value: 0x7f07008d
-			public const int status_bar_latest_event_content = 2131165325;
+			// aapt resource value: 0x7f070090
+			public const int status_bar_latest_event_content = 2131165328;
 			
-			// aapt resource value: 0x7f070065
-			public const int submit_area = 2131165285;
+			// aapt resource value: 0x7f070068
+			public const int submit_area = 2131165288;
 			
-			// aapt resource value: 0x7f07000d
-			public const int tabMode = 2131165197;
+			// aapt resource value: 0x7f07000b
+			public const int swipetorefreshbar = 2131165195;
 			
-			// aapt resource value: 0x7f070095
-			public const int text = 2131165333;
+			// aapt resource value: 0x7f070010
+			public const int tabMode = 2131165200;
 			
-			// aapt resource value: 0x7f070093
-			public const int text2 = 2131165331;
+			// aapt resource value: 0x7f070098
+			public const int text = 2131165336;
 			
-			// aapt resource value: 0x7f07004d
-			public const int textSpacerNoButtons = 2131165261;
+			// aapt resource value: 0x7f070096
+			public const int text2 = 2131165334;
 			
-			// aapt resource value: 0x7f070091
-			public const int time = 2131165329;
+			// aapt resource value: 0x7f070050
+			public const int textSpacerNoButtons = 2131165264;
 			
-			// aapt resource value: 0x7f070043
-			public const int title = 2131165251;
+			// aapt resource value: 0x7f070094
+			public const int time = 2131165332;
 			
-			// aapt resource value: 0x7f070048
-			public const int title_template = 2131165256;
+			// aapt resource value: 0x7f070046
+			public const int title = 2131165254;
 			
-			// aapt resource value: 0x7f070099
-			public const int toolbar = 2131165337;
+			// aapt resource value: 0x7f07004b
+			public const int title_template = 2131165259;
 			
-			// aapt resource value: 0x7f070032
-			public const int top = 2131165234;
+			// aapt resource value: 0x7f07009c
+			public const int toolbar = 2131165340;
 			
-			// aapt resource value: 0x7f070047
-			public const int topPanel = 2131165255;
+			// aapt resource value: 0x7f070035
+			public const int top = 2131165237;
 			
-			// aapt resource value: 0x7f070069
-			public const int touch_outside = 2131165289;
+			// aapt resource value: 0x7f07004a
+			public const int topPanel = 2131165258;
+			
+			// aapt resource value: 0x7f07006c
+			public const int touch_outside = 2131165292;
 			
 			// aapt resource value: 0x7f070009
 			public const int up = 2131165193;
 			
-			// aapt resource value: 0x7f070014
-			public const int useLogo = 2131165204;
+			// aapt resource value: 0x7f070017
+			public const int useLogo = 2131165207;
 			
 			// aapt resource value: 0x7f07000a
 			public const int view_offset_helper = 2131165194;
 			
-			// aapt resource value: 0x7f070083
-			public const int volume_item_container = 2131165315;
+			// aapt resource value: 0x7f070086
+			public const int volume_item_container = 2131165318;
 			
-			// aapt resource value: 0x7f070022
-			public const int withText = 2131165218;
+			// aapt resource value: 0x7f070025
+			public const int withText = 2131165221;
 			
-			// aapt resource value: 0x7f070015
-			public const int wrap_content = 2131165205;
+			// aapt resource value: 0x7f070018
+			public const int wrap_content = 2131165208;
 			
 			static Id()
 			{
@@ -2937,6 +6736,12 @@ namespace StocksApp.Droid
 		public partial class String
 		{
 			
+			// aapt resource value: 0x7f080027
+			public const int ApplicationName = 2131230759;
+			
+			// aapt resource value: 0x7f080026
+			public const int Hello = 2131230758;
+			
 			// aapt resource value: 0x7f08000f
 			public const int abc_action_bar_home_description = 2131230735;
 			
@@ -3002,6 +6807,9 @@ namespace StocksApp.Droid
 			
 			// aapt resource value: 0x7f080025
 			public const int character_counter_pattern = 2131230757;
+			
+			// aapt resource value: 0x7f080028
+			public const int library_name = 2131230760;
 			
 			// aapt resource value: 0x7f080000
 			public const int mr_button_content_description = 2131230720;
@@ -3079,8 +6887,8 @@ namespace StocksApp.Droid
 			// aapt resource value: 0x7f0a015a
 			public const int Animation_Design_BottomSheetDialog = 2131362138;
 			
-			// aapt resource value: 0x7f0a0174
-			public const int AppCompatDialogStyle = 2131362164;
+			// aapt resource value: 0x7f0a017c
+			public const int AppCompatDialogStyle = 2131362172;
 			
 			// aapt resource value: 0x7f0a00a5
 			public const int Base_AlertDialog_AppCompat = 2131361957;
@@ -3523,11 +7331,35 @@ namespace StocksApp.Droid
 			// aapt resource value: 0x7f0a001a
 			public const int CardView_Light = 2131361818;
 			
+			// aapt resource value: 0x7f0a0177
+			public const int DarkPopupMenu = 2131362167;
+			
+			// aapt resource value: 0x7f0a0179
+			public const int DarkPopupMenuTextAppearanceLarge = 2131362169;
+			
+			// aapt resource value: 0x7f0a0178
+			public const int DarkPopupMenuTextAppearanceSmall = 2131362168;
+			
+			// aapt resource value: 0x7f0a0176
+			public const int GridThemeDark = 2131362166;
+			
 			// aapt resource value: 0x7f0a0172
-			public const int MainTheme = 2131362162;
+			public const int GridThemeLight = 2131362162;
 			
 			// aapt resource value: 0x7f0a0173
-			public const int MainTheme_Base = 2131362163;
+			public const int LightPopupMenu = 2131362163;
+			
+			// aapt resource value: 0x7f0a0175
+			public const int LightPopupMenuTextAppearanceLarge = 2131362165;
+			
+			// aapt resource value: 0x7f0a0174
+			public const int LightPopupMenuTextAppearanceSmall = 2131362164;
+			
+			// aapt resource value: 0x7f0a017a
+			public const int MainTheme = 2131362170;
+			
+			// aapt resource value: 0x7f0a017b
+			public const int MainTheme_Base = 2131362171;
 			
 			// aapt resource value: 0x7f0a0032
 			public const int Platform_AppCompat = 2131361842;

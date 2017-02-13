@@ -2,17 +2,33 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="StocksApp.Pages.MainPage">
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style x:Key="menuButton" TargetType="Button">
+        <Setter Property="FontSize" Value="40" />
+        <Setter Property="BackgroundColor" Value="Gray" />
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
   <ContentPage.Content>
     <Grid x:Name="grid" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" >
       <Grid.RowDefinitions>
         <RowDefinition Height="*"></RowDefinition>
+        <RowDefinition Height="60"></RowDefinition>
+        <RowDefinition Height="70"></RowDefinition>
+        <RowDefinition Height="70"></RowDefinition>
+        <RowDefinition Height="70"></RowDefinition>
         <RowDefinition Height="*"></RowDefinition>
       </Grid.RowDefinitions>
       <Grid.ColumnDefinitions>
         <ColumnDefinition Width="*"></ColumnDefinition>
       </Grid.ColumnDefinitions>
-      <Button Grid.Row="0" Grid.Column="0" Text="Details"  Command = "{Binding NavigateDetailsPage}"/>
-      <Button Grid.Row="1" Grid.Column="0" Text="Stock List" Command = "{Binding NavigateStockListPage}" />
+      
+      <Image Grid.Row="0" Grid.Column="0" Source="chart.jpg" Aspect="AspectFill"/>
+      <Label Grid.Row="1" Grid.Column="0" Text="Stocks App"  FontSize="50" HorizontalTextAlignment="Center"/>
+      <Button Grid.Row="2" Grid.Column="0" Text="Details" Style="{StaticResource menuButton}"  Command = "{Binding NavigateDetailsPage}"/>
+      <Button Grid.Row="3" Grid.Column="0" Text="All Stocks" Style="{StaticResource menuButton}" Command = "{Binding NavigateStockListPage}" />
+      <Button Grid.Row="4" Grid.Column="0" Text="Your Stocks" Style="{StaticResource menuButton}" Command = "{Binding NavigateStockListPage}" />
     </Grid>
   </ContentPage.Content>
 </ContentPage>
